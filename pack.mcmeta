@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 1,
+	"id": "survival_instinct_skills",
+	"version": "1.0.1",
+	"name": "survival_instinct_skills",
+	"description": "Pufferfish's Template Generatorを用い作成したものを加筆し、日本語化しました。",
+	"authors": [
+		"コードと名前Gemini,調整オムライス"
+	],
+	"license": "MIT",
+	"environment": "*"
+}
