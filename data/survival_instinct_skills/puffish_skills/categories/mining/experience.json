@@ -1,0 +1,75 @@
+{
+  "experience_per_level": {
+    "type": "values",
+    "data": {
+      "values": [
+        100, 100, 100, 100, 100,
+        150, 150, 150, 150, 150, 
+        200, 200, 200, 200, 200, 200, 
+        250, 250, 250, 250, 250, 250,  
+        500, 500, 500, 500, 500, 500, 500, 500,
+        550, 550, 550, 550, 550, 550, 550, 550,
+        600, 600, 600, 600, 600, 600, 600, 600, 600,
+        650, 650, 650, 650, 650, 650, 650, 650, 650,
+        900, 900, 900, 900, 900, 900, 900, 900, 900,
+        950, 950, 950, 950, 950, 950, 950, 950, 950,
+        1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000,
+        1050, 1050, 1050, 1050, 1050, 1050, 1050, 1050, 1050, 1050,
+        1300
+      ]
+    }
+  },
+  "sources": [
+    {
+      "type": "puffish_skills:mine_block",
+      "data": {
+        "variables": {
+          "silk_touch": {
+            "operations": [
+              { "type": "get_tool_item_stack" },
+              { "type": "puffish_skills:test", "data": { "nbt": "{Enchantments:[{id:\"minecraft:silk_touch\"}]}" } }
+            ]
+          },
+          "stone_like": {
+            "operations": [
+              { "type": "get_mined_block_state" },
+              { "type": "puffish_skills:test", "data": { "block": "#minecraft:base_stone_overworld" } }
+            ]
+          },
+          "deepslate": {
+            "operations": [
+              { "type": "get_mined_block_state" },
+              { "type": "puffish_skills:test", "data": { "block": "minecraft:deepslate" } }
+            ]
+          },
+          "forge_ore": {
+            "operations": [
+              { "type": "get_mined_block_state" },
+              { "type": "puffish_skills:test", "data": { "block": "#c:ores" } }
+            ]
+          },
+          "is_log": {
+            "operations": [
+              { "type": "get_mined_block_state" },
+              { "type": "puffish_skills:test", "data": { "block": "#minecraft:logs" } }
+            ]
+          }
+        },
+        "experience": [
+          { "condition": "!silk_touch & forge_ore", "expression": "20" },
+          { "condition": "!silk_touch & (stone_like | deepslate)", "expression": "5" },
+          { "condition": "is_log", "expression": "5" }
+        ]
+      }
+    },
+    {
+      "type": "puffish_skills:enchant_item",
+      "data": {
+        "variables": {
+          "levels": { "operations": [{ "type": "get_levels" }] }
+        },
+        "experience": "2 * levels"
+      }
+    }
+  ]
+}
