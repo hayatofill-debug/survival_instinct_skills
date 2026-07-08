@@ -1,126 +1,134 @@
 {
-	"combat_skill_reset": {
-		"title": "combat_skill_reset",
-		"description": "§e解放することでcombatスキルがリセットされ、resetが初期化される\n§c必要ポイント10",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "survival_instinct_skills:textures/icons/reset/combat_skill_reset.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "puffish_skills skills reset @s survival_instinct_skills:combat"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "puffish_skills skills reset @s survival_instinct_skills:reset"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "puffish_skills points add @s survival_instinct_skills:reset -10"
-				}
-			}
-		],
-		"cost": 10,
-		"metadata": {
-			"icon": "vi11k5w2eqtylwdl"
-		}
-	},
-	"mining_skill_reset": {
-		"title": "mining_skill_reset",
-		"description": "§e解放することでminingスキルがリセットされ,resetが初期化される\n§c必要ポイント10",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "survival_instinct_skills:textures/icons/reset/mining_skill_reset.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "puffish_skills skills reset @s survival_instinct_skills:mining"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "puffish_skills skills reset @s survival_instinct_skills:reset"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "puffish_skills points add @s survival_instinct_skills:reset -10"
-				}
-			}
-		],
-		"cost": 10,
-		"metadata": {
-			"icon": "5m23vlhv62kte5ae"
-		}
-	},
-	"new_point_log_true": {
-		"title": "log_true",
-		"description": "解放することで、resetが初期化される\n§c必要ポイント0",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "survival_instinct_skills:textures/icons/reset/new_point_log_true.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "gamerule puffish_skills:announceNewPoints true"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "puffish_skills skills reset @s survival_instinct_skills:reset"
-				}
-			}
-		],
-		"cost": 0,
-		"metadata": {
-			"icon": "awdifpt7udpyuf3a"
-		}
-	},
-	"new_point_log_false": {
-		"title": "log_false",
-		"description": "解放することでポイントを入手した際のlogが表示されないようになり、resetが初期化される\n§c必要ポイント0",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "survival_instinct_skills:textures/icons/reset/new_point_log_false.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "gamerule puffish_skills:announceNewPoints false"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "puffish_skills skills reset @s survival_instinct_skills:reset"
-				}
-			}
-		],
-		"cost": 0,
-		"metadata": {
-			"icon": "vqi3k1blwnc4c25d"
-		}
-	}
+  "combat_skill_reset": {
+    "title": "combat_skill_reset",
+    "description": {
+      "translate": "sis.shared.44e5"
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "survival_instinct_skills:textures/icons/reset/combat_skill_reset.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s survival_instinct_skills:combat"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s survival_instinct_skills:reset"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s survival_instinct_skills:reset -10"
+        }
+      }
+    ],
+    "cost": 10,
+    "metadata": {
+      "icon": "vi11k5w2eqtylwdl"
+    }
+  },
+  "mining_skill_reset": {
+    "title": "mining_skill_reset",
+    "description": {
+      "translate": "sis.shared.98c0"
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "survival_instinct_skills:textures/icons/reset/mining_skill_reset.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s survival_instinct_skills:mining"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s survival_instinct_skills:reset"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills points add @s survival_instinct_skills:reset -10"
+        }
+      }
+    ],
+    "cost": 10,
+    "metadata": {
+      "icon": "5m23vlhv62kte5ae"
+    }
+  },
+  "new_point_log_true": {
+    "title": "log_true",
+    "description": {
+      "translate": "sis.shared.d80c"
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "survival_instinct_skills:textures/icons/reset/new_point_log_true.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "gamerule puffish_skills:announceNewPoints true"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s survival_instinct_skills:reset"
+        }
+      }
+    ],
+    "cost": 0,
+    "metadata": {
+      "icon": "awdifpt7udpyuf3a"
+    }
+  },
+  "new_point_log_false": {
+    "title": "log_false",
+    "description": {
+      "translate": "sis.shared.ae9c"
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "survival_instinct_skills:textures/icons/reset/new_point_log_false.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "gamerule puffish_skills:announceNewPoints false"
+        }
+      },
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s survival_instinct_skills:reset"
+        }
+      }
+    ],
+    "cost": 0,
+    "metadata": {
+      "icon": "vqi3k1blwnc4c25d"
+    }
+  }
 }

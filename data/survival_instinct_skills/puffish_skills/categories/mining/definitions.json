@@ -1,2367 +1,2627 @@
 {
-	"root_覚醒": {
-		"title": "覚醒",
-		"description": "すべての力の始まり。ここから己の道を選択せよ。\n§c必要ポイント0",
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:nether_star"
-			}
-		},
-		"rewards": [],
-		"cost": 0,
-		"metadata": {
-			"icon": "px932dl5h5a9i8qs"
-		}
-	},
-	"剣技の心得": {
-		"title": "§c§l剣技の心得",
-		"description": [
-			{
-				"text": "§7近接戦闘の基礎。刃の扱いに習熟する。\n§9攻撃力+1\n§c※他の一つの心得と選択式です。\n§c必要ポイント1"
-			}
-		],
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:iron_sword"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "minecraft:attack_damage",
-					"value": 1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "u3r0r2wb35n9odeg"
-		}
-	},
-	"射撃の心得": {
-		"title": "§a§l射撃の心得",
-		"description": [
-			{
-				"text": "§7遠距離戦闘の基礎。狙いを定める技術。\n§9射撃攻撃力+10%\n§c※他の一つの心得と選択式です。\n§c必要ポイント1"
-			}
-		],
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:bow"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:ranged_damage",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "rkln1xmb7yuksb92"
-		}
-	},
-	"守護の心得": {
-		"title": "§e§l守護の心得",
-		"description": [
-			{
-				"text": "§7防御の基礎。身を守り生き延びる技術。\n§9防御力+1\n§c※他の一つの心得と選択式です。\n§c必要ポイント1"
-			}
-		],
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:iron_chestplate"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "minecraft:armor",
-					"value": 1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "hdp4yzaehhywpghv"
-		}
-	},
-	"錬金術の心得": {
-		"title": "§9§l錬金術の心得",
-		"description": [
-			{
-				"text": "§7錬金術の基礎。不可視の力を操る技術。\n§9ポーション攻撃力+10%\n§c※他の一つの心得と選択式です。\n§c必要ポイント1"
-			}
-		],
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:enchanted_book"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:magic_damage",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "okigwsxntp62t64a"
-		}
-	},
-	"剛剣の理": {
-		"title": "§4§l【§c§l剛剣の理§4§l】",
-		"description": "§7一撃に魂を捧げ、山をも砕く破壊の権化。\n§c「力こそがすべて」\n§9剣術熟練+20%\n§9攻撃+2\n§9近接攻撃力+20%\n§c必要ポイント5前提スキル4",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:netherite_sword"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:sword_damage",
-					"value": 0.2,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "minecraft:attack_damage",
-					"value": 2,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:melee_damage",
-					"value": 0.2,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 5,
-		"required_skills": 4,
-		"metadata": {
-			"icon": "1mcneg4j4p9cmrfv"
-		}
-	},
-	"神速の理": {
-		"title": "§6§l【§e§l神速の理§6§l】",
-		"description": "§7風を追い越し、瞬きする間に敵を断つ。\n§e「速さは光を超える」\n§9剣術熟練+20%\n§9移動速度+10%\n§9攻撃速度+10%\n§c必要ポイント5前提スキル4",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:golden_sword"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:sword_damage",
-					"value": 0.2,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "movement_speed",
-					"value": 0.1,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "attack_speed",
-					"value": 0.1,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"cost": 5,
-		"required_skills": 4,
-		"metadata": {
-			"icon": "vl211jpxzknzfnrl"
-		}
-	},
-	"強弓の理": {
-		"title": "§2§l【§a§l強弓の理§2§l】",
-		"description": "§7千里先を射抜き、鉄壁の守りすら貫く一矢。\n§a「逃れる術はない」\n§9射撃攻撃力+20%\n§9防御無視+2.0\n§9弾速+30%\n§c必要ポイント5前提スキル4",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:crossbow"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:ranged_damage",
-					"value": 2.0,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:armor_shred",
-					"value": 0.2,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:bow_projectile_speed",
-					"value": 0.3,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:crossbow_projectile_speed",
-					"value": 0.3,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"cost": 5,
-		"required_skills": 4,
-		"metadata": {
-			"icon": "ioq3h1vlehgn7685"
-		}
-	},
-	"連射の理": {
-		"title": "§3§l【§b§l連射の理§3§l】",
-		"description": "§7放たれる矢は雨の如く、敵に息つく暇を与えない。\n§b「絶え間なき追撃」\n§9射撃攻撃力+20%\n§9攻撃速度+40%\n§9俊敏+40%\n§c必要ポイント5前提スキル4",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:bow"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:ranged_damage",
-					"value": 0.2,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "attack_speed",
-					"value": 0.4,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:sprinting_speed",
-					"value": 0.4,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 5,
-		"required_skills": 4,
-		"metadata": {
-			"icon": "z8klo9wwobv4uk0h"
-		}
-	},
-	"不壊の理": {
-		"title": "§8§l【§7§l不壊の理§8§l】",
-		"description": "§7いかなる猛攻も揺るがぬ、歩く要塞。\n§f「我が壁は不滅」\n§9防御力+2\n§9体力+4\n§9耐性+10%\n§c必要ポイント5前提スキル4",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:netherite_chestplate"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "minecraft:armor",
-					"value": 2,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "max_health",
-					"value": 4,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:resistance",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 5,
-		"required_skills": 4,
-		"metadata": {
-			"icon": "8g2grwknltto9it3"
-		}
-	},
-	"再生の理": {
-		"title": "§d§l【§5§l再生の理§d§l】",
-		"description": "§7傷を負うそばから癒える、不老不死の輝き。\n§d「命は尽きることなし」\n§9防御力+4\n§9自然治癒+20%\n§9吸血+10%\n§c必要ポイント5前提スキル4",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:enchanted_golden_apple"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "minecraft:armor",
-					"value": 4,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:natural_regeneration",
-					"value": 0.2,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:life_steal",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 5,
-		"required_skills": 4,
-		"metadata": {
-			"icon": "beyxgknvkygwfwaa"
-		}
-	},
-	"賢者の理": {
-		"title": "§1§l【§9§l賢者の理§1§l】",
-		"description": "§7世界の摂理を解き明かし、魔力を自在に操る。\n§9「知識は武器なり」\n§9ポーション攻撃力+30%\n§9スタミナ強化+2.0\nポーション耐性+20%\n§c必要ポイント5前提スキル4",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:enchanted_book"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:magic_damage",
-					"value": 0.3,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:stamina",
-					"value": 2,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:magic_resistance",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 5,
-		"required_skills": 4,
-		"metadata": {
-			"icon": "zt3z8l5vmrwkj7hg"
-		}
-	},
-	"隠者の理": {
-		"title": "§5§l【§d§l隠者の理§5§l】",
-		"description": "§7影に潜み、運すらも支配する策略。\n§d「姿なき終焉」\n§9ポーション攻撃力+30%\n§9隠密+2.0\n§9運+0.50\n§c必要ポイント5前提スキル4",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:ender_eye"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:magic_damage",
-					"value": 0.3,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:stealth",
-					"value": 2,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "luck",
-					"value": 0.5,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 5,
-		"required_skills": 4,
-		"metadata": {
-			"icon": "ji15ssvl6j0gg6rz"
-		}
-	},
-	"剣神の領域": {
-		"title": "§0§l▷ §4§l《§c§n剣神の領域§4§l》 §0§l◁",
-		"description": "§f万物を断ち切り、戦場を支配する覇者。\n§4「我こそが剣の理なり」\n§9運+1.0\n§9経験値ボーナス+100%\n§9近接攻撃力+150%\n§9剣術熟練+150%\n§c必要ポイント10前提スキル8",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "challenge"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:netherite_sword",
-				"nbt": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:10}]}"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "luck",
-					"value": 1,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:experience",
-					"value": 1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 10,
-		"required_skills": 8,
-		"metadata": {
-			"icon": "zsubfbwi3lgvswsd"
-		}
-	},
-	"極星の射手": {
-		"title": "§0§l▷ §2§l《§a§n極星の射手§2§l》 §0§l◁",
-		"description": "§f星すらも射抜き、運命の軌跡を描く。\n§2「瞬きすらも命取り」\n§9運+1.0\n§9経験値ボーナス+100%\n§9射撃攻撃力+50%\n§9弾速+40%\n§c必要ポイント10前提スキル8",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "challenge"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:bow",
-				"nbt": "{Enchantments:[{id:\"minecraft:power\",lvl:10}]}"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "luck",
-					"value": 1,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:experience",
-					"value": 1,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:ranged_damage",
-					"value": 0.5,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:bow_projectile_speed",
-					"value": 0.4,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:crossbow_projectile_speed",
-					"value": 0.4,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"cost": 10,
-		"required_skills": 8,
-		"metadata": {
-			"icon": "tn95xvx0ej751ugx"
-		}
-	},
-	"不抜の守護神": {
-		"title": "§0§l▷ §8§l《§f§n不抜の守護神§8§l》 §0§l◁",
-		"description": "§f天地が崩れようとも、一歩も引かぬ絶対防御。\n§f「我が前では無に等しい」\n§9運+1.0\n§9経験値ボーナス+100%\n§9防御力+12\n§9体力+12\n§c必要ポイント10前提スキル8",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "challenge"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:shield"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "luck",
-					"value": 1,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:experience",
-					"value": 1,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "minecraft:armor",
-					"value": 12,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "max_health",
-					"value": 12,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 10,
-		"required_skills": 8,
-		"metadata": {
-			"icon": "emtm5jyigv01eo50"
-		}
-	},
-	"大賢者の深淵": {
-		"title": "§0§l▷ §1§l《§9§n大賢者の深淵§1§l》 §0§l◁",
-		"description": "§f万象の源に触れ、奇跡を現実に変える者。\n§1「真理の果てを見届けよ」\n§9運+4.0\n§9経験値ボーナス+100%\n§9ポーション攻撃力+150%\n§9ポーション耐性+150%\n§c必要ポイント10前提スキル8",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "challenge"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:nether_star"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "luck",
-					"value": 4,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:experience",
-					"value": 1,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:magic_damage",
-					"value": 1.5,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:magic_resistance",
-					"value": 1.5,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 10,
-		"required_skills": 8,
-		"metadata": {
-			"icon": "oxtsxd0jv5uqrvm4"
-		}
-	},
-	"root_探究の心得": {
-		"title": "探究の心得",
-		"description": "収集と探索の基礎。\n§9採掘速度+10%\n§c必要ポイント1",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:nether_star"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:mining_speed",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "ys8ut3ie1kj9t835"
-		}
-	},
-	"解体の理": {
-		"title": "§3§l【§b§l解体の理§3§l】",
-		"description": "§7地殻を穿ち、瞬く間に山を削る採掘の極致。\n§9採掘速度+40%\n§9アックス速度+40%\n§9シャベル速度+40%\n§9ツルハシ速度+40%\n§c必要ポイント10前提スキル2",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:netherite_pickaxe"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:mining_speed",
-					"value": 0.4,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:axe_speed",
-					"value": 0.4,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:shovel_speed",
-					"value": 0.4,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:pickaxe_speed",
-					"value": 0.4,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 10,
-		"required_skills": 2,
-		"metadata": {
-			"icon": "dr6htxo1mlxf9fqa"
-		}
-	},
-	"走破の理": {
-		"title": "§e§l【§f§l走破の理§e§l】",
-		"description": "§7地の果てまで駆け抜け、未知を暴く探索の極致。\n§9移動速度+60%\n§9俊敏+60%\n§9落下軽減+6.0\n§9スタミナ強化+6.0\n§c必要ポイント10前提スキル2",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "goal"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:golden_boots"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "movement_speed",
-					"value": 0.6,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:sprinting_speed",
-					"value": 0.6,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:fall_reduction",
-					"value": 6,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:stamina",
-					"value": 6,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 10,
-		"required_skills": 2,
-		"metadata": {
-			"icon": "ut7xkegrqxqdl4al"
-		}
-	},
-	"万象の開拓者": {
-		"title": "§0§l▷ §b§l《§f§n万象の開拓者§b§l》 §0§l◁",
-		"description": "§f世界のすべてを掘り起こし、全地形を征服した伝説。\n§b「この世のすべては我が手中に」\n§9運+10.0\n§9採掘速度+50%\n§9アックス速度+100%\n§9シャベル速度+100%\n§9ツルハシ速度+50%\n§c必要ポイント15前提スキル2",
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "challenge"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:nether_star"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "luck",
-					"value": 10,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:axe_speed",
-					"value": 0.5,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:shovel_speed",
-					"value": 1,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:pickaxe_speed",
-					"value": 1,
-					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:pickaxe_speed",
-					"value": 0.5,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 15,
-		"required_skills": 2,
-		"metadata": {
-			"icon": "onwz76vmkailxj7v"
-		}
-	},
-	"斧術熟練+10%": {
-		"title": "斧術熟練+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:iron_axe"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:axe_damage",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "elxacvbto7dkkqp7"
-		}
-	},
-	"三叉槍熟練+10%": {
-		"title": "三叉槍熟練+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:trident"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:trident_damage",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "6mf5xxn0hv46bkwp"
-		}
-	},
-	"メイス熟練+10%": {
-		"title": "メイス熟練+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:mace"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:mace_damage",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "isr1bynwh7fjb3a8"
-		}
-	},
-	"攻撃速度+5%": {
-		"title": "攻撃速度+5%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:strength"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "attack_speed",
-					"value": 0.05,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "bls99mt177comkjx"
-		}
-	},
-	"体力+1": {
-		"title": "体力+1",
-		"description": "§c必要ポイント2",
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:health_boost"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "max_health",
-					"value": 2,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "d9ytvbgbmdcr3ycc"
-		}
-	},
-	"吸血+5%": {
-		"title": "吸血+5%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:spider_eye"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:life_steal",
-					"value": 0.05,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "f23dw1bs4x56yoeq"
-		}
-	},
-	"全耐性無視+1.0": {
-		"title": "全耐性無視+1.0",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:netherite_scrap"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:resistance_shred",
-					"value": 1.0,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "1tmb23xzmzuev85e"
-		}
-	},
-	"軽減エンチャント無視+1.0": {
-		"title": "軽減エンチャント無視+1.0",
-		"description": "§c必要ポイント3",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:enchanted_book"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:protection_shred",
-					"value": 1.0,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 3,
-		"metadata": {
-			"icon": "d8tlxqw08l3srqun"
-		}
-	},
-	"自然治癒+10%": {
-		"title": "自然治癒+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:instant_health"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:natural_regeneration",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "tmcfsnw2hc2giqpn"
-		}
-	},
-	"治癒力向上+10%": {
-		"title": "治癒力向上+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:regeneration"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:healing",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "my6zoa38jvtksqbo"
-		}
-	},
-	"隠密+1.0": {
-		"title": "隠密+1.0",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:black_dye"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:stealth",
-					"value": 1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "5ab3ryv6lbi2hs1f"
-		}
-	},
-	"幸運+0.25": {
-		"title": "幸運+0.25",
-		"description": "§c必要ポイント4",
-		"size": 1,
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "luck"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:fortune",
-					"value": 0.25,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 4,
-		"metadata": {
-			"icon": "lr8rtyl6w95d68qx"
-		}
-	},
-	"運+0.25": {
-		"title": "運+0.25",
-		"description": "§c必要ポイント4",
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "luck"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "luck",
-					"value": 0.25,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 4,
-		"metadata": {
-			"icon": "1sntmopyco2dmgx9"
-		}
-	},
-	"使役獣攻撃力+10%": {
-		"title": "使役獣攻撃力+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:bone"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:tamed_damage",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "5ptyqzt7esqlog0f"
-		}
-	},
-	"使役獣耐性+10%": {
-		"title": "使役獣耐性+10%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:wolf_armor"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:tamed_resistance",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "sdlyuurqv488cwwk"
-		}
-	},
-	"騎乗物速度+10%": {
-		"title": "騎乗物速度+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:saddle"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:mount_speed",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "ykj4t9udgba3aght"
-		}
-	},
-	"剣術熟練+10%": {
-		"title": "剣術熟練+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:stone_sword"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:sword_damage",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "m0b6g8o6o7mcu001"
-		}
-	},
-	"近接攻撃力+10%": {
-		"title": "近接攻撃力+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:iron_sword"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:melee_damage",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "skkxpe0nloanfgxh"
-		}
-	},
-	"ノックバック強化+0.2": {
-		"title": "ノックバック強化+0.2",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:piston"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:knockback",
-					"value": 0.2,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "bxgnpb1tqasbxu08"
-		}
-	},
-	"近接耐性+10%": {
-		"title": "近接耐性+10%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:shield"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:melee_resistance",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "je16qa8h0dsmurnk"
-		}
-		},
-	"近接耐性無視+1.0": {
-		"title": "近接耐性無視+1.0",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:flint"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:melee_resistance_shred",
-					"value": 1.0,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "jwsous23ukvo1bf5"
-		}
-	},
-	"射撃攻撃力+5%": {
-		"title": "射撃攻撃力+5%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:bow"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:ranged_damage",
-					"value": 0.05,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "lwx9birx79vtdf9h"
-		}
-	},
-	"弾速+5%": {
-		"title": "弾速+5%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:arrow"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:bow_projectile_speed",
-					"value": 0.5,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:crossbow_projectile_speed",
-					"value": 0.5,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "29v4eqr4077k97f3"
-		}
-	},
-	"射撃耐性+10%": {
-		"title": "射撃耐性+10%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:chainmail_chestplate"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:ranged_resistance",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "8bakzigruqqb89kk"
-		}
-	},
-	"射撃耐性無視+1.0": {
-		"title": "射撃耐性無視+1.0",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:crossbow"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:ranged_resistance_shred",
-					"value": 1.0,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "06yzfbmtp6wagtur"
-		}
-	},
-	"防御力+0.5": {
-		"title": "防御力+0.5",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:iron_chestplate"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "minecraft:armor",
-					"value": 1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "oh78cxcetyvv3c2x"
-		}
-	},
-	"ダメージ反射+10%": {
-		"title": "ダメージ反射+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:absorption"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:damage_reflection",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "w1910b75yxr3ghoy"
-		}
-	},
-	"耐性+5%": {
-		"title": "耐性+5%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:resistance"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:resistance",
-					"value": 0.05,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "27en5gyceirp2jr6"
-		}
-	},
-	"防御無視+1.0": {
-		"title": "防御無視+1.0",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:flint"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:armor_shred",
-					"value": 1.0,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "euu5zmzluor6o5e1"
-		}
-	},
-	"防具強度無視+1.0": {
-		"title": "防具強度無視+1.0",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:flint"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:toughness_shred",
-					"value": 1.0,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "j32kxx3mp8g1acvo"
-		}
-	},
-	"ポーション攻撃力+10%": {
-		"title": "ポーション攻撃力+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:potion"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:magic_damage",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "z6bnawh6qo2iz2ui"
-		}
-	},
-	"ポーション耐性+10%": {
-		"title": "ポーション耐性+10%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:amethyst_shard"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:magic_resistance",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "i0w7vlz5n1w5wfva"
-		}
-	},
-	"ポーション耐性無視+1.0": {
-		"title": "ポーション耐性無視+1.0",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:amethyst_cluster"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:magic_resistance_shred",
-					"value": 1.0,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "9lgmf7umtzktkvib"
-		}
-	},
-	"アックス速度+10%": {
-		"title": "アックス速度+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:golden_axe"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:axe_speed",
-					"value": 0.1,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "m8xif69cktymemyz"
-		}
-	},
-	"シャベル速度+10%": {
-		"title": "シャベル速度+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:golden_shovel"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:shovel_speed",
-					"value": 0.1,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "3pvph6sowbg6kvq6"
-		}
-	},
-	"ツルハシ速度+10%": {
-		"title": "ツルハシ速度+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:golden_pickaxe"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:pickaxe_speed",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "1zlofbr8tof1rh65"
-		}
-	},
-	"採掘速度+10%": {
-		"title": "採掘速度+10%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:haste"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:mining_speed",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "lunnx3twjqlssqgo"
-		}
-	},
-	"破壊速度+10%": {
-		"title": "破壊速度+10%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:netherite_pickaxe"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:breaking_speed",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "zwbeiowvto9a0289"
-		}
-	},
-	"食事速度+10%": {
-		"title": "食事速度+10%",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:cooked_beef"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:consuming_speed",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "tiy6se7hvurdrk2v"
-		}
-	},
-	"移動速度+5%": {
-		"title": "移動速度+5%",
-		"description": "§c必要ポイント2",
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:speed"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "movement_speed",
-					"value": 0.05,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "dyugqeljmrnenmll"
-		}
-	},
-	"経験値ボーナス+10%": {
-		"title": "経験値ボーナス+10%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:experience_bottle"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:experience",
-					"value": 0.1,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "k85ez3sdpl3yvggs"
-		}
-	},
-	"スタミナ強化+1.0": {
-		"title": "スタミナ強化+1.0",
-		"description": "§c必要ポイント1",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:sugar"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:stamina",
-					"value": 1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "70lks4bgwjo160dn"
-		}
-	},
-	"俊敏+5%": {
-		"title": "俊敏+5%",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:leather_boots"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:sprinting_speed",
-					"value": 0.05,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "u36nyv524yqubmpd"
-		}
-	},
-	"跳躍力+0.05": {
-		"title": "跳躍力+0.05",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:jump_boost"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:jump",
-					"value": 0.05,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "azhqj2tq60viv5xb"
-		}
-	},
-	"落下軽減+1.0": {
-		"title": "落下軽減+1.0",
-		"description": "§c必要ポイント2",
-		"size": 1,
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "minecraft:levitation"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:fall_reduction",
-					"value": 1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 2,
-		"metadata": {
-			"icon": "ep2tc5qlv5jaxnoq"
-		}
-	},
-	"金床修理コスト-5%": {
-		"title": "金床修理コスト-5%",
-		"description": "§c必要ポイント3",
-		"size": 1,
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:anvil"
-			}
-		},
-		"frame": {
-			"type": "advancement",
-			"data": {
-				"frame": "task"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:repair_cost",
-					"value": -0.95,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"cost": 3,
-		"metadata": {
-			"icon": "oyqklqfur9a4js8f"
-		}
-	}
+  "root_覚醒": {
+    "title": {
+      "translate": "sis.shared.5315"
+    },
+    "description": {
+      "translate": "sis.shared.37a5"
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "rewards": [],
+    "cost": 0,
+    "metadata": {
+      "icon": "px932dl5h5a9i8qs"
+    }
+  },
+  "剣技の心得": {
+    "title": {
+      "translate": "sis.shared.9a89"
+    },
+    "description": [
+      {
+        "translate": "sis.shared.b496"
+      }
+    ],
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:attack_damage",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "u3r0r2wb35n9odeg"
+    }
+  },
+  "射撃の心得": {
+    "title": {
+      "translate": "sis.shared.1f05"
+    },
+    "description": [
+      {
+        "translate": "sis.shared.f5a5"
+      }
+    ],
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bow"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "rkln1xmb7yuksb92"
+    }
+  },
+  "守護の心得": {
+    "title": {
+      "translate": "sis.shared.c29f"
+    },
+    "description": [
+      {
+        "translate": "sis.shared.d933"
+      }
+    ],
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:armor",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "hdp4yzaehhywpghv"
+    }
+  },
+  "錬金術の心得": {
+    "title": {
+      "translate": "sis.shared.4547"
+    },
+    "description": [
+      {
+        "translate": "sis.shared.71df"
+      }
+    ],
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:enchanted_book"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "okigwsxntp62t64a"
+    }
+  },
+  "剛剣の理": {
+    "title": {
+      "translate": "sis.shared.3a5f"
+    },
+    "description": {
+      "translate": "sis.shared.b9d9"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.2,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:attack_damage",
+          "value": 2,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.2,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 5,
+    "required_skills": 4,
+    "metadata": {
+      "icon": "1mcneg4j4p9cmrfv"
+    }
+  },
+  "神速の理": {
+    "title": {
+      "translate": "sis.shared.65bb"
+    },
+    "description": {
+      "translate": "sis.shared.3c84"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.2,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "movement_speed",
+          "value": 0.1,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "attack_speed",
+          "value": 0.1,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "cost": 5,
+    "required_skills": 4,
+    "metadata": {
+      "icon": "vl211jpxzknzfnrl"
+    }
+  },
+  "強弓の理": {
+    "title": {
+      "translate": "sis.shared.b596"
+    },
+    "description": {
+      "translate": "sis.shared.5ff6"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 2.0,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.2,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.3,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.3,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "cost": 5,
+    "required_skills": 4,
+    "metadata": {
+      "icon": "ioq3h1vlehgn7685"
+    }
+  },
+  "連射の理": {
+    "title": {
+      "translate": "sis.shared.351b"
+    },
+    "description": {
+      "translate": "sis.shared.01f2"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bow"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.2,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "attack_speed",
+          "value": 0.4,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.4,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 5,
+    "required_skills": 4,
+    "metadata": {
+      "icon": "z8klo9wwobv4uk0h"
+    }
+  },
+  "不壊の理": {
+    "title": {
+      "translate": "sis.shared.4223"
+    },
+    "description": {
+      "translate": "sis.shared.4a9a"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_chestplate"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:armor",
+          "value": 2,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 5,
+    "required_skills": 4,
+    "metadata": {
+      "icon": "8g2grwknltto9it3"
+    }
+  },
+  "再生の理": {
+    "title": {
+      "translate": "sis.shared.0d31"
+    },
+    "description": {
+      "translate": "sis.shared.4a64"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:enchanted_golden_apple"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:armor",
+          "value": 4,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.2,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 5,
+    "required_skills": 4,
+    "metadata": {
+      "icon": "beyxgknvkygwfwaa"
+    }
+  },
+  "賢者の理": {
+    "title": {
+      "translate": "sis.shared.9fdb"
+    },
+    "description": {
+      "translate": "sis.shared.546e"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:enchanted_book"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_damage",
+          "value": 0.3,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_resistance",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 5,
+    "required_skills": 4,
+    "metadata": {
+      "icon": "zt3z8l5vmrwkj7hg"
+    }
+  },
+  "隠者の理": {
+    "title": {
+      "translate": "sis.shared.0d05"
+    },
+    "description": {
+      "translate": "sis.shared.0703"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:ender_eye"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_damage",
+          "value": 0.3,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 2,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "luck",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 5,
+    "required_skills": 4,
+    "metadata": {
+      "icon": "ji15ssvl6j0gg6rz"
+    }
+  },
+  "剣神の領域": {
+    "title": {
+      "translate": "sis.shared.09d6"
+    },
+    "description": {
+      "translate": "sis.shared.e317"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword",
+        "nbt": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:10}]}"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "luck",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 10,
+    "required_skills": 8,
+    "metadata": {
+      "icon": "zsubfbwi3lgvswsd"
+    }
+  },
+  "極星の射手": {
+    "title": {
+      "translate": "sis.shared.c4e9"
+    },
+    "description": {
+      "translate": "sis.shared.985b"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bow",
+        "nbt": "{Enchantments:[{id:\"minecraft:power\",lvl:10}]}"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "luck",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 1,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.4,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.4,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "cost": 10,
+    "required_skills": 8,
+    "metadata": {
+      "icon": "tn95xvx0ej751ugx"
+    }
+  },
+  "不抜の守護神": {
+    "title": {
+      "translate": "sis.shared.ff5f"
+    },
+    "description": {
+      "translate": "sis.shared.dc78"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "luck",
+          "value": 1,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 1,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:armor",
+          "value": 12,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "max_health",
+          "value": 12,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 10,
+    "required_skills": 8,
+    "metadata": {
+      "icon": "emtm5jyigv01eo50"
+    }
+  },
+  "大賢者の深淵": {
+    "title": {
+      "translate": "sis.shared.5d32"
+    },
+    "description": {
+      "translate": "sis.shared.47c9"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "luck",
+          "value": 4,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 1,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_damage",
+          "value": 1.5,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_resistance",
+          "value": 1.5,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 10,
+    "required_skills": 8,
+    "metadata": {
+      "icon": "oxtsxd0jv5uqrvm4"
+    }
+  },
+  "root_探究の心得": {
+    "title": {
+      "translate": "sis.shared.7a9f"
+    },
+    "description": {
+      "translate": "sis.shared.e074"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "ys8ut3ie1kj9t835"
+    }
+  },
+  "解体の理": {
+    "title": {
+      "translate": "sis.shared.3f99"
+    },
+    "description": {
+      "translate": "sis.shared.1fcb"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.4,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.4,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.4,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 10,
+    "required_skills": 2,
+    "metadata": {
+      "icon": "dr6htxo1mlxf9fqa"
+    }
+  },
+  "走破の理": {
+    "title": {
+      "translate": "sis.shared.c91d"
+    },
+    "description": {
+      "translate": "sis.shared.13ee"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "goal"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_boots"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "movement_speed",
+          "value": 0.6,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.6,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 6,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 6,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 10,
+    "required_skills": 2,
+    "metadata": {
+      "icon": "ut7xkegrqxqdl4al"
+    }
+  },
+  "万象の開拓者": {
+    "title": {
+      "translate": "sis.shared.0f50"
+    },
+    "description": {
+      "translate": "sis.shared.ff36"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "luck",
+          "value": 10,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 1,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 1,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.5,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 15,
+    "required_skills": 2,
+    "metadata": {
+      "icon": "onwz76vmkailxj7v"
+    }
+  },
+  "斧術熟練+10%": {
+    "title": {
+      "translate": "sis.shared.b8a5"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "elxacvbto7dkkqp7"
+    }
+  },
+  "三叉槍熟練+10%": {
+    "title": {
+      "translate": "sis.shared.6a74"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "6mf5xxn0hv46bkwp"
+    }
+  },
+  "メイス熟練+10%": {
+    "title": {
+      "translate": "sis.shared.d215"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:mace"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mace_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "isr1bynwh7fjb3a8"
+    }
+  },
+  "攻撃速度+5%": {
+    "title": {
+      "translate": "sis.shared.b981"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:strength"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "attack_speed",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "bls99mt177comkjx"
+    }
+  },
+  "体力+1": {
+    "title": {
+      "translate": "sis.shared.df77"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "d9ytvbgbmdcr3ycc"
+    }
+  },
+  "吸血+5%": {
+    "title": {
+      "translate": "sis.shared.9fde"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spider_eye"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "f23dw1bs4x56yoeq"
+    }
+  },
+  "全耐性無視+1.0": {
+    "title": {
+      "translate": "sis.shared.60aa"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_scrap"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 1.0,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "1tmb23xzmzuev85e"
+    }
+  },
+  "軽減エンチャント無視+1.0": {
+    "title": {
+      "translate": "sis.shared.ccb6"
+    },
+    "description": {
+      "translate": "sis.shared.405b"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:enchanted_book"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:protection_shred",
+          "value": 1.0,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 3,
+    "metadata": {
+      "icon": "d8tlxqw08l3srqun"
+    }
+  },
+  "自然治癒+10%": {
+    "title": {
+      "translate": "sis.shared.95b9"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:instant_health"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "tmcfsnw2hc2giqpn"
+    }
+  },
+  "治癒力向上+10%": {
+    "title": {
+      "translate": "sis.shared.0857"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:regeneration"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "my6zoa38jvtksqbo"
+    }
+  },
+  "隠密+1.0": {
+    "title": {
+      "translate": "sis.shared.fff0"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:black_dye"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "5ab3ryv6lbi2hs1f"
+    }
+  },
+  "幸運+0.25": {
+    "title": {
+      "translate": "sis.shared.9bcc"
+    },
+    "description": {
+      "translate": "sis.shared.10e5"
+    },
+    "size": 1,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "luck"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.25,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 4,
+    "metadata": {
+      "icon": "lr8rtyl6w95d68qx"
+    }
+  },
+  "運+0.25": {
+    "title": {
+      "translate": "sis.shared.3022"
+    },
+    "description": {
+      "translate": "sis.shared.10e5"
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "luck"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "luck",
+          "value": 0.25,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 4,
+    "metadata": {
+      "icon": "1sntmopyco2dmgx9"
+    }
+  },
+  "使役獣攻撃力+10%": {
+    "title": {
+      "translate": "sis.shared.a7ce"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bone"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:tamed_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "5ptyqzt7esqlog0f"
+    }
+  },
+  "使役獣耐性+10%": {
+    "title": {
+      "translate": "sis.shared.d076"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wolf_armor"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:tamed_resistance",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "sdlyuurqv488cwwk"
+    }
+  },
+  "騎乗物速度+10%": {
+    "title": {
+      "translate": "sis.shared.b4cc"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:saddle"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mount_speed",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "ykj4t9udgba3aght"
+    }
+  },
+  "剣術熟練+10%": {
+    "title": {
+      "translate": "sis.shared.e7eb"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:stone_sword"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "m0b6g8o6o7mcu001"
+    }
+  },
+  "近接攻撃力+10%": {
+    "title": {
+      "translate": "sis.shared.1f66"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "skkxpe0nloanfgxh"
+    }
+  },
+  "ノックバック強化+0.2": {
+    "title": {
+      "translate": "sis.shared.b8e5"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:piston"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "bxgnpb1tqasbxu08"
+    }
+  },
+  "近接耐性+10%": {
+    "title": {
+      "translate": "sis.shared.d7f7"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_resistance",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "je16qa8h0dsmurnk"
+    }
+  },
+  "近接耐性無視+1.0": {
+    "title": {
+      "translate": "sis.shared.3d4d"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:flint"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_resistance_shred",
+          "value": 1.0,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "jwsous23ukvo1bf5"
+    }
+  },
+  "射撃攻撃力+5%": {
+    "title": {
+      "translate": "sis.shared.94c5"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bow"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "lwx9birx79vtdf9h"
+    }
+  },
+  "弾速+5%": {
+    "title": {
+      "translate": "sis.shared.f35b"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.5,
+          "operation": "multiply_total"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.5,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "29v4eqr4077k97f3"
+    }
+  },
+  "射撃耐性+10%": {
+    "title": {
+      "translate": "sis.shared.a53a"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:chainmail_chestplate"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "8bakzigruqqb89kk"
+    }
+  },
+  "射撃耐性無視+1.0": {
+    "title": {
+      "translate": "sis.shared.e960"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 1.0,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "06yzfbmtp6wagtur"
+    }
+  },
+  "防御力+0.5": {
+    "title": {
+      "translate": "sis.shared.35c3"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:armor",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "oh78cxcetyvv3c2x"
+    }
+  },
+  "ダメージ反射+10%": {
+    "title": {
+      "translate": "sis.shared.1324"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:absorption"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "w1910b75yxr3ghoy"
+    }
+  },
+  "耐性+5%": {
+    "title": {
+      "translate": "sis.shared.2cc7"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:resistance"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "27en5gyceirp2jr6"
+    }
+  },
+  "防御無視+1.0": {
+    "title": {
+      "translate": "sis.shared.8335"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:flint"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 1.0,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "euu5zmzluor6o5e1"
+    }
+  },
+  "防具強度無視+1.0": {
+    "title": {
+      "translate": "sis.shared.39ec"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:flint"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:toughness_shred",
+          "value": 1.0,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "j32kxx3mp8g1acvo"
+    }
+  },
+  "ポーション攻撃力+10%": {
+    "title": {
+      "translate": "sis.shared.985c"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:potion"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "z6bnawh6qo2iz2ui"
+    }
+  },
+  "ポーション耐性+10%": {
+    "title": {
+      "translate": "sis.shared.4315"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_resistance",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "i0w7vlz5n1w5wfva"
+    }
+  },
+  "ポーション耐性無視+1.0": {
+    "title": {
+      "translate": "sis.shared.7eba"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:amethyst_cluster"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:magic_resistance_shred",
+          "value": 1.0,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "9lgmf7umtzktkvib"
+    }
+  },
+  "アックス速度+10%": {
+    "title": {
+      "translate": "sis.shared.bd22"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.1,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "m8xif69cktymemyz"
+    }
+  },
+  "シャベル速度+10%": {
+    "title": {
+      "translate": "sis.shared.a1ba"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.1,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "3pvph6sowbg6kvq6"
+    }
+  },
+  "ツルハシ速度+10%": {
+    "title": {
+      "translate": "sis.shared.e746"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "1zlofbr8tof1rh65"
+    }
+  },
+  "採掘速度+10%": {
+    "title": {
+      "translate": "sis.shared.e71c"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:haste"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "lunnx3twjqlssqgo"
+    }
+  },
+  "破壊速度+10%": {
+    "title": {
+      "translate": "sis.shared.0712"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "zwbeiowvto9a0289"
+    }
+  },
+  "食事速度+10%": {
+    "title": {
+      "translate": "sis.shared.5e0a"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "tiy6se7hvurdrk2v"
+    }
+  },
+  "移動速度+5%": {
+    "title": {
+      "translate": "sis.shared.a059"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:speed"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "movement_speed",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "dyugqeljmrnenmll"
+    }
+  },
+  "経験値ボーナス+10%": {
+    "title": {
+      "translate": "sis.shared.fe1c"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "k85ez3sdpl3yvggs"
+    }
+  },
+  "スタミナ強化+1.0": {
+    "title": {
+      "translate": "sis.shared.994e"
+    },
+    "description": {
+      "translate": "sis.shared.dd78"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 1,
+    "metadata": {
+      "icon": "70lks4bgwjo160dn"
+    }
+  },
+  "俊敏+5%": {
+    "title": {
+      "translate": "sis.shared.93a2"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "u36nyv524yqubmpd"
+    }
+  },
+  "跳躍力+0.05": {
+    "title": {
+      "translate": "sis.shared.b206"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:jump_boost"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "azhqj2tq60viv5xb"
+    }
+  },
+  "落下軽減+1.0": {
+    "title": {
+      "translate": "sis.shared.6167"
+    },
+    "description": {
+      "translate": "sis.shared.4bc1"
+    },
+    "size": 1,
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:levitation"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 2,
+    "metadata": {
+      "icon": "ep2tc5qlv5jaxnoq"
+    }
+  },
+  "金床修理コスト-5%": {
+    "title": {
+      "translate": "sis.shared.7496"
+    },
+    "description": {
+      "translate": "sis.shared.405b"
+    },
+    "size": 1,
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:repair_cost",
+          "value": -0.95,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "cost": 3,
+    "metadata": {
+      "icon": "oyqklqfur9a4js8f"
+    }
+  }
 }

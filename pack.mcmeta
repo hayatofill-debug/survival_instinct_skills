@@ -2,6 +2,6 @@
 	"pack": {
 		"pack_format": 15,
 		"supported_formats": [15, 64],
-		"description": "Pufferfish's Template Generatorを用い作成したものを加筆し、日本語化しました。"
+		"description": "Pufferfish's Template Generatorを用い作成したものを加筆し、日本語化しました。Version 1.0.4では、英語対応を行い、英語版の説明文も追加しました。"
 	}
 }
