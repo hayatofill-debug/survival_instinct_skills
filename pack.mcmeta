@@ -1,7 +1,7 @@
 {
 	"pack": {
-		"pack_format": 8,
-		"supported_formats": [0, 999],
+		"pack_format": 15,
+		"supported_formats": [15, 64],
 		"description": "Pufferfish's Template Generatorを用い作成したものを加筆し、日本語化しました。"
 	}
 }
