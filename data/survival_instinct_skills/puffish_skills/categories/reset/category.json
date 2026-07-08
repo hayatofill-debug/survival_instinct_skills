@@ -7,5 +7,5 @@
 			"texture": "survival_instinct_skills:textures/icons/reset/reset_icon.png"
 		}
 	},
-	"background": "survival_instinct_skills:textures/icons/gui/advancements/backgrounds/reset_background.png"
+	"background": "survival_instinct_skills:textures/gui/advancements/backgrounds/reset_background.png"
 }
