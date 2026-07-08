@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="survival_instinct_skills"
-version="1.0.2"
+version="1.0.3"
 displayName="survival_instinct_skills"
 description="Pufferfish's Template Generatorを用い作成したものを加筆し、日本語化しました。"
 authors="コードと名前Gemini,調整オムライス"

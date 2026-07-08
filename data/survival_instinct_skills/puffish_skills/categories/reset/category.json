@@ -2,10 +2,10 @@
 	"unlocked_by_default": true,
 	"title": "Reset",
 	"icon": {
-		"type": "item",
+		"type": "texture",
 		"data": {
-			"item": "diamond"
+			"texture": "survival_instinct_skills:textures/icons/reset/reset_icon.png"
 		}
 	},
-	"background": "textures/gui/advancements/backgrounds/stone.png"
+	"background": "survival_instinct_skills:textures/icons/gui/advancements/backgrounds/reset_background.png"
 }
