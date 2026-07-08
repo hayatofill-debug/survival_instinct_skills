@@ -10,17 +10,5 @@
 		"x": 100,
 		"y": 0,
 		"root": true
-	},
-	"248uh2xu0pktwjgx": {
-		"definition": "new_point_log_true",
-		"x": 0,
-		"y": -96,
-		"root": true
-	},
-	"uom2hk8q3yhm17he": {
-		"definition": "new_point_log_false",
-		"x": 0,
-		"y": 96,
-		"root": true
 	}
 }
