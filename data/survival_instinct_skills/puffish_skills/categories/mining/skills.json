@@ -1,1422 +1,1422 @@
 {
 	"xfqt197rjdrjwghc": {
-		"definition": "root_覚醒",
+		"definition": "root_Awakening",
 		"x": 384,
 		"y": 0,
 		"root": true
 	},
 	"rq93s94oug2dspwk": {
-		"definition": "root_探究の心得",
+		"definition": "root_Exploration Mastery",
 		"x": -384,
 		"y": 0,
 		"root": true
 	},
 	"501wd0necd6voxlc": {
-		"definition": "万象の開拓者",
+		"definition": "Pathfinder of All Creation",
 		"x": 0,
 		"y": 0,
 		"root": false
 	},
 	"ioczqch3r5kioge1": {
-		"definition": "解体の理",
+		"definition": "Principle of Demolition",
 		"x": 0,
 		"y": 591.2066756501767,
 		"root": false
 	},
 	"v3goe3jgs5jgcdec": {
-		"definition": "走破の理",
+		"definition": "Principle of Traversal",
 		"x": 0,
 		"y": -591.2066756501767,
 		"root": false
 	},
 	"kjmr9jboevudn6uh": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -320,
 		"y": -36.95041722813605,
 		"root": false
 	},
 	"4771rtrz93krbele": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -320,
 		"y": 36.95041722813605,
 		"root": false
 	},
 	"fdvju51hogqoqig0": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -384,
 		"y": 73.9008344562721,
 		"root": false
 	},
 	"1swr606evvt4gocf": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -448,
 		"y": 36.950417228136075,
 		"root": false
 	},
 	"alp76lq8gi6fqxqh": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -448,
 		"y": -36.95041722813602,
 		"root": false
 	},
 	"unv8yy0yppri9aug": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -384,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"sq8jvfbsneojxt8m": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -448,
 		"y": 110.85125168440817,
 		"root": false
 	},
 	"3snu0fd2y81src4x": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -384,
 		"y": 147.8016689125442,
 		"root": false
 	},
 	"rg74jjsh5d7ea3v2": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -320,
 		"y": 110.85125168440814,
 		"root": false
 	},
 	"32nuol9yz7m0plpl": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -256,
 		"y": 73.9008344562721,
 		"root": false
 	},
 	"pbfvwy8sklyte0oj": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -256,
 		"y": 0,
 		"root": false
 	},
 	"746351xdiwxe3bbm": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -256,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"jg70qjs78sxp95ms": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -384,
 		"y": -147.8016689125442,
 		"root": false
 	},
 	"gcviina0he3yttc8": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -448,
 		"y": -110.85125168440811,
 		"root": false
 	},
 	"tq4x5mficay1fdu0": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -512,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"fyzrvvxg3syzxvbm": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -512,
 		"y": 0,
 		"root": false
 	},
 	"vmd9um97dkfj5rzk": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -512,
 		"y": 73.9008344562721,
 		"root": false
 	},
 	"a61uf9xw54kbhiit": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -576,
 		"y": -36.950417228136075,
 		"root": false
 	},
 	"5ioglkhcve7r6nza": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -576,
 		"y": 36.95041722813602,
 		"root": false
 	},
 	"grhlydziv5rmwclv": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -512,
 		"y": 147.8016689125442,
 		"root": false
 	},
 	"n787ycgrckb8jx53": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -448,
 		"y": 184.75208614068026,
 		"root": false
 	},
 	"oo62zixzvzcbay3k": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -256,
 		"y": -147.8016689125442,
 		"root": false
 	},
 	"j5ufwodio2dniz8b": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -320,
 		"y": -184.75208614068023,
 		"root": false
 	},
 	"cbgd3nsqgs7m37de": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -448,
 		"y": -184.7520861406802,
 		"root": false
 	},
 	"ctgnz9v2m2sbvm8k": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -512,
 		"y": -147.8016689125442,
 		"root": false
 	},
 	"u7c2r4zoxhu7wq6o": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -576,
 		"y": -110.85125168440817,
 		"root": false
 	},
 	"7pfwqm0tqplv0kzp": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -576,
 		"y": 110.85125168440811,
 		"root": false
 	},
 	"rthe334tmby4d9ux": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -384,
 		"y": 221.70250336881628,
 		"root": false
 	},
 	"mca9ibs6yxrv58jd": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -192,
 		"y": 110.85125168440814,
 		"root": false
 	},
 	"r8e3cxabzfejvseg": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -192,
 		"y": -110.85125168440814,
 		"root": false
 	},
 	"z9jq5zxp1qof1lv0": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -384,
 		"y": -221.70250336881628,
 		"root": false
 	},
 	"ht8cfxosz6i4uh6r": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 384,
 		"y": 73.9008344562721,
 		"root": false
 	},
 	"eyva5wbvyazo1d79": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 448,
 		"y": 36.95041722813602,
 		"root": false
 	},
 	"ts2s6v1bvjpgtssy": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 448,
 		"y": -36.950417228136075,
 		"root": false
 	},
 	"zif69z3sqyuuk7f5": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 384,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"fz5hc2byp849j8bn": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 320,
 		"y": -36.95041722813605,
 		"root": false
 	},
 	"k6y96aqie1jim5xo": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 320,
 		"y": 36.95041722813605,
 		"root": false
 	},
 	"tucf3j76r836dh78": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 320,
 		"y": 110.85125168440814,
 		"root": false
 	},
 	"tokgd5sdauv04v95": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": 256,
 		"y": 0,
 		"root": false
 	},
 	"yyqqqjnti5q8spl8": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 256,
 		"y": 73.9008344562721,
 		"root": false
 	},
 	"8o6i7r2ooy16hfkn": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 256,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"x9qoyc8n0ackz34w": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 320,
 		"y": -110.85125168440814,
 		"root": false
 	},
 	"zt7ctha8axlfh9dz": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": 384,
 		"y": -147.8016689125442,
 		"root": false
 	},
 	"4zmm0ixsfpcxasef": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 448,
 		"y": -110.85125168440817,
 		"root": false
 	},
 	"sdbdoanxiobsi6d6": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 512,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"n564r98ihra139qt": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": 512,
 		"y": 0,
 		"root": false
 	},
 	"zetawicrqqsr7iih": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 512,
 		"y": 73.9008344562721,
 		"root": false
 	},
 	"dw4x5y817j873inl": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 448,
 		"y": 110.85125168440811,
 		"root": false
 	},
 	"yr9jzf19t4ardw2y": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": 384,
 		"y": 147.8016689125442,
 		"root": false
 	},
 	"pblkmqlvzio6ocak": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 256,
 		"y": -147.8016689125442,
 		"root": false
 	},
 	"05aa3vac6a47y13t": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 320,
 		"y": -184.75208614068023,
 		"root": false
 	},
 	"mlr3stawzlrdxww3": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 448,
 		"y": -184.75208614068026,
 		"root": false
 	},
 	"36nxy08n7jjiyf94": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 512,
 		"y": -147.8016689125442,
 		"root": false
 	},
 	"xot4q4hd2rf2o44w": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 576,
 		"y": -36.95041722813602,
 		"root": false
 	},
 	"6ciwxnxhocce4naa": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 576,
 		"y": 36.950417228136075,
 		"root": false
 	},
 	"2v7wxjrt6t1gs9oi": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 512,
 		"y": 147.8016689125442,
 		"root": false
 	},
 	"pnl6mtl6fnphvklq": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 448,
 		"y": 184.7520861406802,
 		"root": false
 	},
 	"ltci0ksrsu6p5qks": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 384,
 		"y": 221.70250336881628,
 		"root": false
 	},
 	"e9wj9vmk9yxepp9n": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 576,
 		"y": 110.85125168440817,
 		"root": false
 	},
 	"19jvfc4kkqjswujn": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 576,
 		"y": -110.85125168440811,
 		"root": false
 	},
 	"fzudguik4n1b59j0": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 384,
 		"y": -221.70250336881628,
 		"root": false
 	},
 	"97si8194dbcyv94t": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 192,
 		"y": -110.85125168440814,
 		"root": false
 	},
 	"kfmxnsz4y1hkta9q": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 192,
 		"y": 110.85125168440814,
 		"root": false
 	},
 	"zhcyto1bzuh6pzpj": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": -256,
 		"y": -295.6033378250884,
 		"root": false
 	},
 	"6dny8526wn43oshw": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": -192,
 		"y": -258.6529205969523,
 		"root": false
 	},
 	"le720ot6mlllztw9": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": -192,
 		"y": 258.6529205969523,
 		"root": false
 	},
 	"u5x79ifwfk08fude": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": -256,
 		"y": 295.6033378250884,
 		"root": false
 	},
 	"rjro2okktli8wzgq": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": 192,
 		"y": 258.6529205969523,
 		"root": false
 	},
 	"tmhu70f8qbb21a8h": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": 256,
 		"y": 295.6033378250884,
 		"root": false
 	},
 	"5rrz0dz3jrc33is2": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": 192,
 		"y": -258.6529205969523,
 		"root": false
 	},
 	"z5gadx6qw39eez8z": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": 256,
 		"y": -295.6033378250884,
 		"root": false
 	},
 	"au4byk8j305apcad": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": -256,
 		"y": -221.70250336881628,
 		"root": false
 	},
 	"ztjuzgd2lynk2anh": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": -192,
 		"y": -332.55375505322445,
 		"root": false
 	},
 	"8kh9g0pl58i0do25": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 256,
 		"y": 221.70250336881628,
 		"root": false
 	},
 	"67w0xzpmtpuqoq3p": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 192,
 		"y": 332.55375505322445,
 		"root": false
 	},
 	"vdxkzwzkkisqfbtm": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -256,
 		"y": 221.70250336881628,
 		"root": false
 	},
 	"ae4fjgqick8999z9": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -192,
 		"y": 332.55375505322445,
 		"root": false
 	},
 	"mtoj6iv9p4wlycd5": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": 256,
 		"y": -221.70250336881628,
 		"root": false
 	},
 	"vlqk6o7310kafy3b": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": 192,
 		"y": -332.55375505322445,
 		"root": false
 	},
 	"yjte6ybhjl8a966s": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": 0,
 		"y": 443.4050067376325,
 		"root": false
 	},
 	"kspwwbelehrb00og": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": 64,
 		"y": 406.45458950949654,
 		"root": false
 	},
 	"6y4cupuv35q6smqq": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": 64,
 		"y": 332.5537550532244,
 		"root": false
 	},
 	"h3nvdk09zo003u2h": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": 0,
 		"y": 295.6033378250883,
 		"root": false
 	},
 	"jlnx5yq5tf527xdk": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": -64,
 		"y": 332.5537550532244,
 		"root": false
 	},
 	"kebczn6vrsi3n2fw": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": -64,
 		"y": 406.45458950949643,
 		"root": false
 	},
 	"s21f0nleeam52299": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": -64,
 		"y": 480.3554239657686,
 		"root": false
 	},
 	"hsr1ozcqwquhbbt2": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": -128,
 		"y": 443.40500673763256,
 		"root": false
 	},
 	"ph1htidz2dqr8i0b": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": -128,
 		"y": 369.5041722813604,
 		"root": false
 	},
 	"oy8c678ijunkznml": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": -128,
 		"y": 295.6033378250884,
 		"root": false
 	},
 	"v5b0v6k8y1s9r65w": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": -64,
 		"y": 258.6529205969523,
 		"root": false
 	},
 	"lmjrqtrs7mfn4452": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": 0,
 		"y": 221.70250336881625,
 		"root": false
 	},
 	"rhy36tgeysmi603b": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": 64,
 		"y": 258.6529205969523,
 		"root": false
 	},
 	"okl8z25ocopmoqx1": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": 128,
 		"y": 295.6033378250883,
 		"root": false
 	},
 	"0vj2ap3jdvbadyfu": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": 128,
 		"y": 369.5041722813604,
 		"root": false
 	},
 	"cki6aposizhmdjby": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": 128,
 		"y": 443.40500673763256,
 		"root": false
 	},
 	"687ubud77sjxir0w": {
-		"definition": "金床修理コスト-5%",
+		"definition": "Anvil Repair Cost -5%",
 		"x": 64,
 		"y": 480.3554239657686,
 		"root": false
 	},
 	"ux6jp7v50lrs6wsm": {
-		"definition": "移動速度+5%",
+		"definition": "Movement Speed +5%",
 		"x": 0,
 		"y": 517.3058411939046,
 		"root": false
 	},
 	"vfd0nwvw5agkyosg": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": -256,
 		"y": 369.5041722813604,
 		"root": false
 	},
 	"slws6r0tpi02uou3": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": -192,
 		"y": 406.4545895094965,
 		"root": false
 	},
 	"1mp75q7fwvmufclo": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": 256,
 		"y": 369.50417228136047,
 		"root": false
 	},
 	"qg8ua0kqij25712h": {
-		"definition": "経験値ボーナス+10%",
+		"definition": "EXP Bonus +10%",
 		"x": 192,
 		"y": 406.4545895094965,
 		"root": false
 	},
 	"31tagdo8muh9pn0i": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": 0,
 		"y": -221.70250336881628,
 		"root": false
 	},
 	"ghl3z2z1lhyvfsu5": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": 0,
 		"y": -295.6033378250884,
 		"root": false
 	},
 	"jx1cfpo8sz2pc4g9": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": 0,
 		"y": -443.40500673763256,
 		"root": false
 	},
 	"t9qr87d22mk0yq90": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": -64,
 		"y": -406.4545895094965,
 		"root": false
 	},
 	"qev5e1srqswj22ah": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": 64,
 		"y": -332.55375505322445,
 		"root": false
 	},
 	"tp116a94onlxs2ov": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": -64,
 		"y": -332.55375505322445,
 		"root": false
 	},
 	"h2w1sbgppeonoyzm": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": 64,
 		"y": -406.4545895094965,
 		"root": false
 	},
 	"8xk103che2fcsaix": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": 0,
 		"y": -517.3058411939046,
 		"root": false
 	},
 	"j7kbgk4kg4q2k1ql": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": -128,
 		"y": -443.40500673763256,
 		"root": false
 	},
 	"0ec3h4dgxh22e7yd": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": 128,
 		"y": -443.4050067376325,
 		"root": false
 	},
 	"ekx8zhy48objho8m": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": 128,
 		"y": -295.6033378250884,
 		"root": false
 	},
 	"6xqv3223l6rxcxzu": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": -128,
 		"y": -295.6033378250884,
 		"root": false
 	},
 	"yiqri4dhife7wcg5": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": -128,
 		"y": -369.50417228136047,
 		"root": false
 	},
 	"tr4nusm9mz422zuw": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": -64,
 		"y": -480.35542396576864,
 		"root": false
 	},
 	"wfj79ijy1kyaoiee": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": 64,
 		"y": -480.3554239657685,
 		"root": false
 	},
 	"dlv0zwwcveetdw1l": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": 64,
 		"y": -258.6529205969523,
 		"root": false
 	},
 	"rya87os6r9wsvqph": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": 128,
 		"y": -369.50417228136047,
 		"root": false
 	},
 	"p949rbb6m7pj2mkr": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": -64,
 		"y": -258.6529205969523,
 		"root": false
 	},
 	"hf3xgs52kne3fhr5": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": -256,
 		"y": -369.50417228136047,
 		"root": false
 	},
 	"nis3q2w66ngyen5i": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": -192,
 		"y": -406.4545895094965,
 		"root": false
 	},
 	"8fp22wk5d58pvkid": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": 192,
 		"y": -406.4545895094965,
 		"root": false
 	},
 	"zpd9iv3ojszl5tui": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": 256,
 		"y": -369.5041722813604,
 		"root": false
 	},
 	"3kf1lluhqq88babg": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": 0,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"he7gekfjlxwiiy87": {
-		"definition": "跳躍力+0.05",
+		"definition": "Jump Boost +0.05",
 		"x": 0,
 		"y": 73.9008344562721,
 		"root": false
 	},
 	"agpighqp7bawp6ff": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -32,
 		"y": 55.42562584220407,
 		"root": false
 	},
 	"h90defbmr0e1n472": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 32,
 		"y": 55.42562584220407,
 		"root": false
 	},
 	"4upqq5doozvjn22a": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 32,
 		"y": -55.42562584220407,
 		"root": false
 	},
 	"kbjb12ktj6xpz67w": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -32,
 		"y": -55.42562584220407,
 		"root": false
 	},
 	"toaeaa8o97u3aizf": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -64,
 		"y": 36.95041722813605,
 		"root": false
 	},
 	"c1a90u9uibajyvrt": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -64,
 		"y": -36.95041722813605,
 		"root": false
 	},
 	"2engp4wrpi0apxmw": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 64,
 		"y": 36.95041722813605,
 		"root": false
 	},
 	"305nast0764sopd0": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 64,
 		"y": -36.95041722813605,
 		"root": false
 	},
 	"ynk2h84oizsxvn4m": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 128,
 		"y": 0,
 		"root": false
 	},
 	"9y05vri3hz8etrb7": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -128,
 		"y": 0,
 		"root": false
 	},
 	"ay9edawu7h9s8wnt": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 0,
 		"y": 369.50417228136047,
 		"root": false
 	},
 	"x6xqe0wx9o7rvsgx": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": 0,
 		"y": -369.50417228136047,
 		"root": false
 	},
 	"6yvc2az3193miydc": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -416,
 		"y": -55.425625842204084,
 		"root": false
 	},
 	"y1qchmlt6c0f31v0": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -448,
 		"y": 0,
 		"root": false
 	},
 	"kwjz6avhtaa7mokn": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -416,
 		"y": 55.425625842204056,
 		"root": false
 	},
 	"w3ki51y0hdws8ni7": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -352,
 		"y": 55.425625842204056,
 		"root": false
 	},
 	"7ytcpvxc3kfjbiff": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -320,
 		"y": 0,
 		"root": false
 	},
 	"dgui61af6asziljx": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -352,
 		"y": -55.425625842204056,
 		"root": false
 	},
 	"hdr1emfesrmq64g6": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -320,
 		"y": -258.6529205969523,
 		"root": false
 	},
 	"hqh3m5usmjz0da2i": {
-		"definition": "アックス速度+10%",
+		"definition": "Axe Speed +10%",
 		"x": -320,
 		"y": 258.6529205969523,
 		"root": false
 	},
 	"71ph9qh8ow5dnsd9": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -320,
 		"y": -110.85125168440814,
 		"root": false
 	},
 	"yqtfhl52r7jc8ezj": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -288,
 		"y": -92.37604307034013,
 		"root": false
 	},
 	"0jl8z6saxjmgcqw7": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -352,
 		"y": -129.32646029847615,
 		"root": false
 	},
 	"lncbxp8axwq4s71r": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -416,
 		"y": -129.32646029847618,
 		"root": false
 	},
 	"tpm8wouqxh3zqzlk": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -480,
 		"y": -92.3760430703401,
 		"root": false
 	},
 	"51hrodlpn3uee4fr": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -480,
 		"y": 92.37604307034013,
 		"root": false
 	},
 	"alo38u3gpiod3hln": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -416,
 		"y": 129.32646029847615,
 		"root": false
 	},
 	"lf7vp7yoabyqb6fa": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -352,
 		"y": 129.3264602984762,
 		"root": false
 	},
 	"0blc1mcz1j7vx8f6": {
-		"definition": "シャベル速度+10%",
+		"definition": "Shovel Speed +10%",
 		"x": -288,
 		"y": 92.37604307034007,
 		"root": false
 	},
 	"ah0fm654z83m4exg": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": -256,
 		"y": 36.95041722813605,
 		"root": false
 	},
 	"o6u6m23f4v74rqv6": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": -256,
 		"y": -36.95041722813605,
 		"root": false
 	},
 	"v0za2ng3qawesfqu": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": -512,
 		"y": -36.950417228136075,
 		"root": false
 	},
 	"jph15i8qekga7w54": {
-		"definition": "スタミナ強化+1.0",
+		"definition": "Stamina Boost +1.0",
 		"x": -512,
 		"y": 36.950417228136075,
 		"root": false
 	},
 	"5akryf5iwx2crscf": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -416,
 		"y": 203.22729475474824,
 		"root": false
 	},
 	"mt7g27wgc7vsytel": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -480,
 		"y": 166.27687752661222,
 		"root": false
 	},
 	"fzj1rcyrs133acmb": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -544,
 		"y": 129.32646029847615,
 		"root": false
 	},
 	"k6uvo9roa2tigkx4": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -224,
 		"y": -129.32646029847615,
 		"root": false
 	},
 	"5ym3nx0n11cfhyco": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -288,
 		"y": -166.27687752661222,
 		"root": false
 	},
 	"olso12a5oqt49lsy": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -352,
 		"y": -203.22729475474824,
 		"root": false
 	},
 	"hhkyujnnmjaby0q3": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -416,
 		"y": -203.22729475474827,
 		"root": false
 	},
 	"fmsop2o4z8yqt1l8": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -480,
 		"y": -166.2768775266122,
 		"root": false
 	},
 	"tb02seqgsit6n3f6": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -544,
 		"y": -129.32646029847618,
 		"root": false
 	},
 	"zgnvv0tzxcb52j2v": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -576,
 		"y": -73.90083445627215,
 		"root": false
 	},
 	"3003dqdbqwlrb8bg": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -576,
 		"y": 0,
 		"root": false
 	},
 	"vpnn6gczvr4hesds": {
-		"definition": "ツルハシ速度+10%",
+		"definition": "Pickaxe Speed +10%",
 		"x": -576,
 		"y": 73.90083445627204,
 		"root": false
 	},
 	"k4ghlfd1a81tt3hy": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": -192,
 		"y": -36.95041722813605,
 		"root": false
 	},
 	"y5t0c6itfklldcmv": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": -192,
 		"y": 36.95041722813605,
 		"root": false
 	},
 	"s3rvye6whj8eoct5": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": -256,
 		"y": 147.8016689125442,
 		"root": false
 	},
 	"ndavmp5b682vyuut": {
-		"definition": "俊敏+5%",
+		"definition": "Agility +5%",
 		"x": -320,
 		"y": 184.75208614068023,
 		"root": false
 	},
 	"af5608b08ietpkl5": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 448,
 		"y": 0,
 		"root": false
 	},
 	"l9zmxqprk97lbmzm": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 416,
 		"y": -55.425625842204056,
 		"root": false
 	},
 	"t8d7t3bafnwc83o1": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 352,
 		"y": -55.425625842204056,
 		"root": false
 	},
 	"khxdw2s5ub5gzrhf": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 320,
 		"y": 0,
 		"root": false
 	},
 	"bzjws30y43nqd3jy": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 352,
 		"y": 55.425625842204056,
 		"root": false
 	},
 	"gh6a6qmbxh8eldta": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 416,
 		"y": 55.425625842204084,
 		"root": false
 	},
 	"eahrwopv2g1v4go5": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 320,
 		"y": 258.6529205969523,
 		"root": false
 	},
 	"214ze3t4izvsla2m": {
-		"definition": "採掘速度+10%",
+		"definition": "Mining Speed +10%",
 		"x": 320,
 		"y": -258.6529205969523,
 		"root": false
 	},
 	"lie9saa3a95djgwv": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 288,
 		"y": 92.37604307034013,
 		"root": false
 	},
 	"lr55ffjkkrsu5ull": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 352,
 		"y": 129.32646029847615,
 		"root": false
 	},
 	"sn2osscwr4pld7s4": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 416,
 		"y": 129.32646029847618,
 		"root": false
 	},
 	"1cokmdal1vajl33d": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 480,
 		"y": 92.3760430703401,
 		"root": false
 	},
 	"9owhjfogway0wf48": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 480,
 		"y": -92.37604307034013,
 		"root": false
 	},
 	"7oi1p9s4xhvt5gan": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 416,
 		"y": -129.32646029847615,
 		"root": false
 	},
 	"1do76zef4vecm2ls": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 352,
 		"y": -129.3264602984762,
 		"root": false
 	},
 	"tka1y2eg8mt8vn9p": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 288,
 		"y": -92.37604307034007,
 		"root": false
 	},
 	"1w6ockgopqvwjzvg": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 416,
 		"y": 203.22729475474827,
 		"root": false
 	},
 	"i3sdzhj8siitpvaz": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 480,
 		"y": 166.2768775266122,
 		"root": false
 	},
 	"di79ds2kxlm0m9wj": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 544,
 		"y": 129.32646029847618,
 		"root": false
 	},
 	"5xzjphixx6p02pl9": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 576,
 		"y": 73.90083445627215,
 		"root": false
 	},
 	"jqs9b0m2a2osjgge": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 576,
 		"y": 0,
 		"root": false
 	},
 	"zf20qnv6qsak2djc": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 576,
 		"y": -73.90083445627204,
 		"root": false
 	},
 	"zwzwj0llbu5vbuvd": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 544,
 		"y": -129.32646029847615,
 		"root": false
 	},
 	"92p4btdm9wb01bwh": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 480,
 		"y": -166.27687752661222,
 		"root": false
 	},
 	"o7e9g7ezhopjtk3g": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 416,
 		"y": -203.22729475474824,
 		"root": false
 	},
 	"yscgboe3r1f6bg2t": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 352,
 		"y": -203.22729475474824,
 		"root": false
 	},
 	"xg43tnbhe2cc8cl1": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 288,
 		"y": -166.27687752661222,
 		"root": false
 	},
 	"8p9i5uk4qsietgov": {
-		"definition": "食事速度+10%",
+		"definition": "Eating Speed +10%",
 		"x": 224,
 		"y": -129.32646029847615,
 		"root": false
 	},
 	"uw2gt1zfsizuyiqa": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 256,
 		"y": -36.95041722813605,
 		"root": false
 	},
 	"mqxauzfblcpj8uu1": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 256,
 		"y": 36.95041722813605,
 		"root": false
 	},
 	"pad25eezvqqjj98x": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 512,
 		"y": -36.950417228136075,
 		"root": false
 	},
 	"z9dvvgazh2an0v72": {
-		"definition": "破壊速度+10%",
+		"definition": "Breaking Speed +10%",
 		"x": 512,
 		"y": 36.950417228136075,
 		"root": false
 	},
 	"27rhzzfzyic4t14m": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": 320,
 		"y": 184.75208614068023,
 		"root": false
 	},
 	"40zbux45fxnqqd1e": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": 256,
 		"y": 147.8016689125442,
 		"root": false
 	},
 	"pfsyqbrhvwd512hg": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": 192,
 		"y": 36.95041722813605,
 		"root": false
 	},
 	"1luveqbhgomoff76": {
-		"definition": "落下軽減+1.0",
+		"definition": "Fall Damage Reduction +1.0",
 		"x": 192,
 		"y": -36.95041722813605,
 		"root": false
 	},
 	"0rkudxrct892j85k": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": -320,
 		"y": -332.55375505322445,
 		"root": false
 	},
 	"poxnup5scon2kpqh": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 320,
 		"y": -332.55375505322434,
 		"root": false
 	},
 	"coywuaudik6daiq7": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": 320,
 		"y": 332.55375505322445,
 		"root": false
 	},
 	"snxqjanwpmru3otf": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -320,
 		"y": 332.55375505322434,
 		"root": false
 	},
 	"yyrj0jjtkp790de3": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -352,
 		"y": 203.22729475474824,
 		"root": false
 	},
 	"jcpmixwtq98otoig": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -288,
 		"y": 166.27687752661222,
 		"root": false
 	},
 	"0csipziovnmbzf7y": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -224,
 		"y": 129.32646029847615,
 		"root": false
 	},
 	"74bahhrdbbzqn4za": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -192,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"epesbmcacaiamq3w": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -192,
 		"y": 0,
 		"root": false
 	},
 	"1dye8qqi0ts141tf": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -192,
 		"y": 73.9008344562721,
 		"root": false
 	},
 	"qji5m8obma1plxgz": {
-		"definition": "運+0.25",
+		"definition": "Luck +0.25",
 		"x": -64,
 		"y": 0,
 		"root": false
 	},
 	"v54zif9u1k45tu3d": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 192,
 		"y": -73.9008344562721,
 		"root": false
 	},
 	"ty74nsrm9s6ledf5": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 192,
 		"y": 0,
 		"root": false
 	},
 	"2tcueb657qytw75a": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 192,
 		"y": 73.9008344562721,
 		"root": false
 	},
 	"skh6rxrnijs7nxho": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 224,
 		"y": 129.32646029847615,
 		"root": false
 	},
 	"mwrmg8gngauqp6b0": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 288,
 		"y": 166.27687752661222,
 		"root": false
 	},
 	"p8zf0t5gwqdddni1": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 352,
 		"y": 203.22729475474824,
 		"root": false
 	},
 	"bxy7zt87y1fvnqb3": {
-		"definition": "幸運+0.25",
+		"definition": "Fortune +0.25",
 		"x": 64,
 		"y": 0,
 		"root": false
 	},
 	"z9p6agdh4ct88rzv": {
-		"definition": "体力+1",
+		"definition": "Max Health +1",
 		"x": -64,
 		"y": 110.85125168440814,
 		"root": false
 	},
 	"c0qc61jlecyog581": {
-		"definition": "体力+1",
+		"definition": "Max Health +1",
 		"x": 64,
 		"y": 110.85125168440814,
 		"root": false
 	},
 	"kpnzkk9b8obxispg": {
-		"definition": "体力+1",
+		"definition": "Max Health +1",
 		"x": 64,
 		"y": -110.85125168440814,
 		"root": false
 	},
 	"nmoxraw8wmdu3ft6": {
-		"definition": "体力+1",
+		"definition": "Max Health +1",
 		"x": -64,
 		"y": -110.85125168440814,
 		"root": false
