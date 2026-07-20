@@ -1,0 +1,26 @@
+{
+	"rxtdcb7jqtq9wc4u": {
+		"definition": "combat_skill_reset",
+		"x": -100,
+		"y": 0,
+		"root": true
+	},
+	"jlrvjpmszlditytl": {
+		"definition": "mining_skill_reset",
+		"x": 100,
+		"y": 0,
+		"root": true
+	},
+	"apxo6v9wnxr0ce2m": {
+		"definition": "new_point_log_true",
+		"x": 0,
+		"y": -96,
+		"root": true
+	},
+	"pj3nxk6tpuia0nyk": {
+		"definition": "new_point_log_false",
+		"x": 0,
+		"y": 96,
+		"root": true
+	}
+}
