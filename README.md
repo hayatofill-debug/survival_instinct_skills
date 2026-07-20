@@ -19,7 +19,7 @@
 ## ⚙️ MODの仕様 (Specifications)
 * **対応ローダー：** NeoForge / Fabric
 * **対応バージョン：** 1.21.3 - 1.21.x (26.1 - 26.x)
-* **対応言語：** 日本語のみ（英語対応は未定）
+* **対応言語：** 日本語と英語
 
 ### 概要
 [Pufferfish's Template Generator](https://puffish.net/skillsmod/editor/) を用いて作成したデータをベースに、[公式Wiki1 (Skills)](https://puffish.net/skillsmod/docs/) と [公式Wiki2 (Attributes)](https://puffish.net/attributesmod/docs/) に記載されているほぼすべてのスキルを日本語化してまとめ、さらに独自のスキルをいくつか書き加えたものです。
