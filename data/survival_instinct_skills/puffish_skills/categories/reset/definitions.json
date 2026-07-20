@@ -2,7 +2,7 @@
   "combat_skill_reset": {
     "title": "combat_skill_reset",
     "description": {
-      "translate": "sis.shared.44e5"
+      "translate": "sis-forge.shared.57f9"
     },
     "icon": {
       "type": "texture",
@@ -38,7 +38,7 @@
   "mining_skill_reset": {
     "title": "mining_skill_reset",
     "description": {
-      "translate": "sis.shared.98c0"
+      "translate": "sis-forge.shared.3f6f"
     },
     "icon": {
       "type": "texture",
@@ -74,7 +74,7 @@
   "new_point_log_true": {
     "title": "log_true",
     "description": {
-      "translate": "sis.shared.d80c"
+      "translate": "sis-forge.shared.df2f"
     },
     "icon": {
       "type": "texture",
@@ -104,7 +104,7 @@
   "new_point_log_false": {
     "title": "log_false",
     "description": {
-      "translate": "sis.shared.ae9c"
+      "translate": "sis-forge.shared.4f5e"
     },
     "icon": {
       "type": "texture",
