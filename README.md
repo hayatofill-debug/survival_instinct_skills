@@ -1,5 +1,5 @@
-![CurseForge Downloads](https://img.shields.io/curseforge/dt/1547024?logo=curseforge)
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/survival-instinct-skills?logo=modrinth)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1547024?logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/survival-instinct-skills)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/survival-instinct-skills?logo=modrinth)](https://modrinth.com/project/apNcy79D)
 
 # Survival_instinct_skills
 
