@@ -2,7 +2,7 @@
   "combat_skill_reset": {
     "title": "combat_skill_reset",
     "description": {
-      "translate": "sis-forge.shared.57f9"
+      "translate": "sis.shared.44e5"
     },
     "icon": {
       "type": "texture",
@@ -38,7 +38,7 @@
   "mining_skill_reset": {
     "title": "mining_skill_reset",
     "description": {
-      "translate": "sis-forge.shared.3f6f"
+      "translate": "sis.shared.98c0"
     },
     "icon": {
       "type": "texture",
@@ -74,7 +74,7 @@
   "new_point_log_true": {
     "title": "log_true",
     "description": {
-      "translate": "sis-forge.shared.df2f"
+      "translate": "sis.shared.d80c"
     },
     "icon": {
       "type": "texture",
@@ -86,7 +86,7 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "command": "gamerule puffish_skills:announceNewPoints true"
+          "command": "gamerule puffish_skills:announce_new_points true"
         }
       },
       {
@@ -104,7 +104,7 @@
   "new_point_log_false": {
     "title": "log_false",
     "description": {
-      "translate": "sis-forge.shared.4f5e"
+      "translate": "sis.shared.ae9c"
     },
     "icon": {
       "type": "texture",
@@ -116,7 +116,7 @@
       {
         "type": "puffish_skills:command",
         "data": {
-          "command": "gamerule puffish_skills:announceNewPoints false"
+          "command": "gamerule puffish_skills:announce_new_points false"
         }
       },
       {
