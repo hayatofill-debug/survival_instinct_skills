@@ -1,0 +1,56 @@
+{
+    "大きさ+2.0": {
+        "title": "大きさ+2.0",
+        "description": "最大値は64です\n§c必要ポイント0",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:red_mushroom"
+            }
+        },
+        "frame": {
+            "type": "advancement",
+            "data": {
+                "frame": "task"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:scale",
+                    "value": 2.0,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "cost": 0
+    },
+    "大きさ-0.09375": {
+        "title": "大きさ-0.09375",
+        "description": "最小値は0.0625です\n§c必要ポイント0",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:brown_mushroom"
+            }
+        },
+        "frame": {
+            "type": "advancement",
+            "data": {
+                "frame": "task"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:scale",
+                    "value": -0.09375,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "cost": 0
+    }
+}
