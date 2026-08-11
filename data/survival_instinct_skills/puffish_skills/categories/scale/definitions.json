@@ -1,0 +1,93 @@
+{
+  "大きさ+2.0": {
+    "title": {
+      "translate": "sis.shared.d857"
+    },
+    "description": {
+      "translate": "sis.shared.c19b"
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:red_mushroom"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:scale",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 0,
+    "metadata": {
+      "icon": "spg6pmu4pnql3knr"
+    }
+  },
+  "大きさ-0.09375": {
+    "title": {
+      "translate": "sis.shared.c058"
+    },
+    "description": {
+      "translate": "sis.shared.8865"
+    },
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brown_mushroom"
+      }
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:scale",
+          "value": -0.09375,
+          "operation": "addition"
+        }
+      }
+    ],
+    "cost": 0,
+    "metadata": {
+      "icon": "ircnnhmhdnvsmza9"
+    }
+  },
+  "大きさリセット": {
+    "title": {
+      "translate": "sis.shared.550e"
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "survival_instinct_skills:textures/icons/scale/scale_skill_reset.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:command",
+        "data": {
+          "command": "puffish_skills skills reset @s survival_instinct_skills:scale"
+        }
+      }
+    ],
+    "cost": 0,
+    "metadata": {
+      "icon": "70vfetz7iz3fs2qs"
+    }
+  }
+}

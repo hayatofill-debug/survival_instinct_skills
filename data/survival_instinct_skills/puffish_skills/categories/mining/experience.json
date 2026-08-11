@@ -3,18 +3,100 @@
     "type": "values",
     "data": {
       "values": [
-        100, 100, 100, 100, 100,
-        150, 150, 150, 150, 150, 
-        200, 200, 200, 200, 200, 200, 
-        250, 250, 250, 250, 250, 250,  
-        500, 500, 500, 500, 500, 500, 500, 500,
-        550, 550, 550, 550, 550, 550, 550, 550,
-        600, 600, 600, 600, 600, 600, 600, 600, 600,
-        650, 650, 650, 650, 650, 650, 650, 650, 650,
-        900, 900, 900, 900, 900, 900, 900, 900, 900,
-        950, 950, 950, 950, 950, 950, 950, 950, 950,
-        1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000,
-        1050, 1050, 1050, 1050, 1050, 1050, 1050, 1050, 1050, 1050,
+        100,
+        100,
+        100,
+        100,
+        100,
+        150,
+        150,
+        150,
+        150,
+        150,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        500,
+        500,
+        500,
+        500,
+        500,
+        500,
+        500,
+        500,
+        550,
+        550,
+        550,
+        550,
+        550,
+        550,
+        550,
+        550,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        600,
+        650,
+        650,
+        650,
+        650,
+        650,
+        650,
+        650,
+        650,
+        650,
+        900,
+        900,
+        900,
+        900,
+        900,
+        900,
+        900,
+        900,
+        900,
+        950,
+        950,
+        950,
+        950,
+        950,
+        950,
+        950,
+        950,
+        950,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1050,
+        1050,
+        1050,
+        1050,
+        1050,
+        1050,
+        1050,
+        1050,
+        1050,
+        1050,
         1300
       ]
     }
@@ -26,49 +108,211 @@
         "variables": {
           "silk_touch": {
             "operations": [
-              { "type": "get_tool_item_stack" },
-              { "type": "puffish_skills:test", "data": { "nbt": "{Enchantments:[{id:\"minecraft:silk_touch\"}]}" } }
+              {
+                "type": "get_tool_item_stack"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "nbt": "{Enchantments:[{id:\"minecraft:silk_touch\"}]}"
+                }
+              }
             ]
           },
           "stone_like": {
             "operations": [
-              { "type": "get_mined_block_state" },
-              { "type": "puffish_skills:test", "data": { "block": "#minecraft:base_stone_overworld" } }
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "#minecraft:base_stone_overworld"
+                }
+              }
             ]
           },
           "deepslate": {
             "operations": [
-              { "type": "get_mined_block_state" },
-              { "type": "puffish_skills:test", "data": { "block": "minecraft:deepslate" } }
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "minecraft:deepslate"
+                }
+              }
             ]
           },
           "forge_ore": {
             "operations": [
-              { "type": "get_mined_block_state" },
-              { "type": "puffish_skills:test", "data": { "block": "#c:ores" } }
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "#c:ores"
+                }
+              }
             ]
           },
           "is_log": {
             "operations": [
-              { "type": "get_mined_block_state" },
-              { "type": "puffish_skills:test", "data": { "block": "#minecraft:logs" } }
+              {
+                "type": "get_mined_block_state"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "block": "#minecraft:logs"
+                }
+              }
             ]
           }
         },
         "experience": [
-          { "condition": "!silk_touch & forge_ore", "expression": "20" },
-          { "condition": "!silk_touch & (stone_like | deepslate)", "expression": "5" },
-          { "condition": "is_log", "expression": "5" }
+          {
+            "condition": "!silk_touch & forge_ore",
+            "expression": "20"
+          },
+          {
+            "condition": "!silk_touch & (stone_like | deepslate)",
+            "expression": "5"
+          },
+          {
+            "condition": "is_log",
+            "expression": "5"
+          }
         ]
       }
     },
     {
-      "type": "puffish_skills:enchant_item",
+      "type": "puffish_skills:craft_item",
       "data": {
         "variables": {
-          "levels": { "operations": [{ "type": "get_levels" }] }
+          "is_iron_sword": {
+            "operations": [
+              {
+                "type": "get_crafted_item_stack"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "item": "minecraft:iron_sword"
+                }
+              }
+            ]
+          },
+          "is_bread": {
+            "operations": [
+              {
+                "type": "get_crafted_item_stack"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "item": "minecraft:bread"
+                }
+              }
+            ]
+          }
         },
-        "experience": "2 * levels"
+        "experience": [
+          {
+            "condition": "is_iron_sword",
+            "expression": "5"
+          },
+          {
+            "condition": "is_bread",
+            "expression": "3"
+          }
+        ]
+      }
+    },
+    {
+      "type": "puffish_skills:eat_food",
+      "data": {
+        "variables": {
+          "is_bread": {
+            "operations": [
+              {
+                "type": "get_eaten_item_stack"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "item": "minecraft:bread"
+                }
+              }
+            ]
+          }
+        },
+        "experience": [
+          {
+            "condition": "is_bread",
+            "expression": "5"
+          }
+        ]
+      }
+    },
+    {
+      "type": "puffish_skills:heal",
+      "data": {
+        "variables": {
+          "amount": {
+            "operations": [
+              {
+                "type": "get_heal_amount"
+              }
+            ]
+          }
+        },
+        "experience": "amount * 3"
+      }
+    },
+    {
+      "type": "puffish_skills:smelt_item",
+      "data": {
+        "variables": {
+          "is_ore_smelt": {
+            "operations": [
+              {
+                "type": "get_smelted_item_stack"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "item": "#c:ores"
+                }
+              }
+            ]
+          },
+          "is_glass": {
+            "operations": [
+              {
+                "type": "get_smelted_item_stack"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "item": "minecraft:glass"
+                }
+              }
+            ]
+          }
+        },
+        "experience": [
+          {
+            "condition": "is_ore_smelt",
+            "expression": "5"
+          },
+          {
+            "condition": "is_glass",
+            "expression": "1"
+          }
+        ]
       }
     }
   ]

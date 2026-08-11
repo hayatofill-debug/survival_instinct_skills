@@ -22,5 +22,23 @@
 		"x": 0,
 		"y": 96,
 		"root": true
+	},
+	"22oru7w32w7nh1lk": {
+		"definition": "life_skill_reset",
+		"x": 0,
+		"y": 0,
+		"root": true
+	},
+	"pmn4i9dempjlyh2y": {
+		"definition": "scale_skilltree_open",
+		"x": -64,
+		"y": 64,
+		"root": true
+	},
+	"665kzjwa13d27bi7": {
+		"definition": "scale_skilltree_close",
+		"x": 64,
+		"y": -64,
+		"root": true
 	}
 }

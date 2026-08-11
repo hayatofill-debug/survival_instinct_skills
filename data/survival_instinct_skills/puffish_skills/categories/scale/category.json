@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": false,
+	"title": "Scale",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "minecraft:red_mushroom"
+		}
+	},
+	"background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png"
+}
