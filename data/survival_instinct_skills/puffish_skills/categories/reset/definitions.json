@@ -2,7 +2,7 @@
   "combat_skill_reset": {
     "title": "combat_skill_reset",
     "description": {
-      "translate": "sis.shared.57f9"
+      "translate": "sis-forge.shared.57f9"
     },
     "icon": {
       "type": "texture",
@@ -35,46 +35,10 @@
       "icon": "vi11k5w2eqtylwdl"
     }
   },
-  "life_skill_reset": {
-    "title": "life_skill_reset",
-    "description": {
-      "translate": "sis.shared.3f42"
-    },
-    "icon": {
-      "type": "texture",
-      "data": {
-        "texture": "survival_instinct_skills:textures/icons/reset/life_skill_reset.png"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "puffish_skills skills reset @s survival_instinct_skills:life"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "puffish_skills skills reset @s survival_instinct_skills:reset"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "puffish_skills points add @s survival_instinct_skills:reset -10"
-        }
-      }
-    ],
-    "cost": 10,
-    "metadata": {
-      "icon": "5m23vlhv62kte5ae"
-    }
-  },
   "mining_skill_reset": {
     "title": "mining_skill_reset",
     "description": {
-      "translate": "sis.shared.3f6f"
+      "translate": "sis-forge.shared.3f6f"
     },
     "icon": {
       "type": "texture",
@@ -110,7 +74,7 @@
   "new_point_log_true": {
     "title": "log_true",
     "description": {
-      "translate": "sis.shared.df2f"
+      "translate": "sis-forge.shared.df2f"
     },
     "icon": {
       "type": "texture",
@@ -140,7 +104,7 @@
   "new_point_log_false": {
     "title": "log_false",
     "description": {
-      "translate": "sis.shared.4f5e"
+      "translate": "sis-forge.shared.4f5e"
     },
     "icon": {
       "type": "texture",
@@ -153,66 +117,6 @@
         "type": "puffish_skills:command",
         "data": {
           "command": "gamerule puffish_skills:announceNewPoints false"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "puffish_skills skills reset @s survival_instinct_skills:reset"
-        }
-      }
-    ],
-    "cost": 0,
-    "metadata": {
-      "icon": "vqi3k1blwnc4c25d"
-    }
-  },
-  "scale_skilltree_open": {
-    "title": "scale_skilltree_open",
-    "description": {
-      "translate": "sis.shared.69a4"
-    },
-    "icon": {
-      "type": "texture",
-      "data": {
-        "texture": "survival_instinct_skills:textures/icons/reset/scale_skilltree_open.png"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "puffish_skills category unlock @s survival_instinct_skills:scale"
-        }
-      },
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "puffish_skills skills reset @s survival_instinct_skills:reset"
-        }
-      }
-    ],
-    "cost": 0,
-    "metadata": {
-      "icon": "vqi3k1blwnc4c25d"
-    }
-  },
-  "scale_skilltree_close": {
-    "title": "scale_skilltree_close",
-    "description": {
-      "translate": "sis.shared.5895"
-    },
-    "icon": {
-      "type": "texture",
-      "data": {
-        "texture": "survival_instinct_skills:textures/icons/reset/scale_skilltree_close.png"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:command",
-        "data": {
-          "command": "puffish_skills category lock @s survival_instinct_skills:scale"
         }
       },
       {

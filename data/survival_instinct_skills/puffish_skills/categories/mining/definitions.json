@@ -1,533 +1,282 @@
 {
-  "root_探究の心得": {
-    "title": {
-      "translate": "sis.shared.7a9f"
-    },
-    "description": {
-      "translate": "sis.shared.5234"
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:nether_star"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:mining_speed",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "ys8ut3ie1kj9t835"
-    }
-  },
-  "解体の理": {
-    "title": {
-      "translate": "sis.shared.3f99"
-    },
-    "description": {
-      "translate": "sis.shared.6c83"
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "goal"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:netherite_pickaxe"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:mining_speed",
-          "value": 0.4,
-          "operation": "multiply_base"
-        }
-      },
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:axe_speed",
-          "value": 0.4,
-          "operation": "multiply_total"
-        }
-      },
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:shovel_speed",
-          "value": 0.4,
-          "operation": "multiply_total"
-        }
-      },
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:pickaxe_speed",
-          "value": 0.4,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "cost": 10,
-    "required_skills": 2,
-    "metadata": {
-      "icon": "dr6htxo1mlxf9fqa"
-    }
-  },
-  "万象の開拓者": {
-    "title": {
-      "translate": "sis.shared.0f50"
-    },
-    "description": {
-      "translate": "sis.shared.b5a2"
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "challenge"
-      }
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:nether_star"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:axe_speed",
-          "value": 0.5,
-          "operation": "multiply_total"
-        }
-      },
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:shovel_speed",
-          "value": 1,
-          "operation": "multiply_total"
-        }
-      },
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:pickaxe_speed",
-          "value": 1,
-          "operation": "multiply_total"
-        }
-      },
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:pickaxe_speed",
-          "value": 0.5,
-          "operation": "multiply_total"
-        }
-      }
-    ],
-    "cost": 15,
-    "required_skills": 4,
-    "metadata": {
-      "icon": "onwz76vmkailxj7v"
-    }
-  },
-  "アックス速度+10%": {
-    "title": {
-      "translate": "sis.shared.bd22"
-    },
-    "description": {
-      "translate": "sis.shared.2035"
-    },
-    "size": 1,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:golden_axe"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:axe_speed",
-          "value": 0.1,
-          "operation": "multiply_total"
-        }
-      }
-    ],
-    "cost": 2,
-    "metadata": {
-      "icon": "m8xif69cktymemyz"
-    }
-  },
-  "シャベル速度+10%": {
-    "title": {
-      "translate": "sis.shared.a1ba"
-    },
-    "description": {
-      "translate": "sis.shared.2035"
-    },
-    "size": 1,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:golden_shovel"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:shovel_speed",
-          "value": 0.1,
-          "operation": "multiply_total"
-        }
-      }
-    ],
-    "cost": 2,
-    "metadata": {
-      "icon": "3pvph6sowbg6kvq6"
-    }
-  },
-  "ツルハシ速度+10%": {
-    "title": {
-      "translate": "sis.shared.e746"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "size": 1,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:golden_pickaxe"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:pickaxe_speed",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "1zlofbr8tof1rh65"
-    }
-  },
-  "総合破壊速度+10%": {
-    "title": {
-      "translate": "sis.shared.ba6b"
-    },
-    "description": {
-      "translate": "sis.shared.bcbb"
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:diamond_pickaxe"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "challenge"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:block_break_speed",
-          "value": 0.1,
-          "operation": "multiply_total"
-        }
-      }
-    ],
-    "cost": 4,
-    "metadata": {
-      "icon": "lbqm3w6i4xvmih7s"
-    }
-  },
-  "適正採掘速度+10%": {
-    "title": {
-      "translate": "sis.shared.dd48"
-    },
-    "description": {
-      "translate": "sis.shared.6019"
-    },
-    "size": 1,
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "minecraft:haste"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "goal"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:mining_speed",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "cost": 3,
-    "metadata": {
-      "icon": "lunnx3twjqlssqgo"
-    }
-  },
-  "破壊速度+10%": {
-    "title": {
-      "translate": "sis.shared.0712"
-    },
-    "description": {
-      "translate": "sis.shared.6019"
-    },
-    "size": 1,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:netherite_pickaxe"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "goal"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:breaking_speed",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "cost": 3,
-    "metadata": {
-      "icon": "zwbeiowvto9a0289"
-    }
-  },
-  "採掘効率+0.1": {
-    "title": {
-      "translate": "sis.shared.0204"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_pickaxe"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:mining_efficiency",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "eqo0s1q52zt5lsbj"
-    }
-  },
-  "水中採掘速度+0.1": {
-    "title": {
-      "translate": "sis.shared.b57f"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:copper_pickaxe"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:submerged_mining_speed",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "tc0s1h1v5fd9pmz8"
-    }
-  },
-  "酸素ボーナス+0.5": {
-    "title": {
-      "translate": "sis.shared.b46e"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "water_breathing"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:oxygen_bonus",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "tv5hp1phz6xn9wnn"
-    }
-  },
-  "安全落下距離+0.5": {
-    "title": {
-      "translate": "sis.shared.8122"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "levitation"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "goal"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:safe_fall_distance",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "a0sp4dslh9pngh94"
-    }
-  },
-  "スニーク速度+0.1": {
-    "title": {
-      "translate": "sis.shared.58e8"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "leather_boots"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:sneaking_speed",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "b5x63udtunxrjqb3"
-    }
-  }
+	"採掘の心得": {
+		"title": "§a§l採掘の心得",
+		"description": "§7採掘の基礎。\n§9適正採掘速度+2%\n§9破壊速度+2%\n§c必要ポイント2",
+		"size": 1,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_pickaxe"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:mining_speed",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:breaking_speed",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"cost": 1
+	},
+	"解体の理": {
+		"title": "§3§l【§b§l解体の理§3§l】",
+		"description": "§7地殻を穿ち、瞬く間に山を削る採掘の極致。\n§9アックス速度+5\n§9シャベル速度+5\n§9ツルハシ速度+5\n§c前提スキル12\n§c必要ポイント5",
+		"size": 1,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_pickaxe"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:axe_speed",
+					"value": 5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:shovel_speed",
+					"value": 5,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:pickaxe_speed",
+					"value": 5,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 1
+	},
+	"万象の解体者": {
+		"title": "§0§l▷ §b§l《§f§n万象の解体者§b§l》 §0§l◁",
+		"description": "§7地殻を穿ち、瞬く間に山を削る採掘の極致。\n§9アックス速度+15\n§9シャベル速度+15\n§9ツルハシ速度+15\n§9適正破壊速度+10\n§9破壊速度+10\n§c前提スキル12\n§c必要ポイント5",
+		"size": 1,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_pickaxe"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:axe_speed",
+					"value": 15,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:shovel_speed",
+					"value": 15,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:pickaxe_speed",
+					"value": 15,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:mining_speed",
+					"value": 10,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:breaking_speed",
+					"value": 10,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 1
+	},
+	"アックス速度+5%": {
+		"title": "アックス速度+10%",
+		"description": "§c必要ポイント1",
+		"size": 1,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_axe"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:axe_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"cost": 1
+	},
+	"シャベル速度+5%": {
+		"title": "シャベル速度+10%",
+		"description": "§c必要ポイント1",
+		"size": 1,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_shovel"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:shovel_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"cost": 1
+	},
+	"ツルハシ速度+5%": {
+		"title": "ツルハシ速度+10%",
+		"description": "§c必要ポイント1",
+		"size": 1,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_pickaxe"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:pickaxe_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"cost": 1
+	},
+	"適切採掘速度+5%": {
+		"title": "適切採掘速度+5%",
+		"description": "§c必要ポイント2",
+		"size": 1,
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:haste"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:mining_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"cost": 2
+	},
+	"破壊速度+5%": {
+		"title": "破壊速度+5%",
+		"description": "§c必要ポイント2",
+		"size": 1,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:netherite_pickaxe"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:breaking_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"cost": 2
+	}
 }
