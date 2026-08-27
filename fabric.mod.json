@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
 	"id": "survival_instinct_skills",
-	"version": "1.0.2",
-	"name": "Survival Instinct Tree",
-	"description": "Pufferfish's Template Generatorを用い作成したものを加筆し、日本語化しました。",
+	"version": "1.1.0",
+	"name": "survival_instinct_skills",
+	"description": "新たに発見したスキルを追加しました",
 	"authors": [
 		"コードと名前Gemini,調整オムライス"
 	],

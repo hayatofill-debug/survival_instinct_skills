@@ -1,294 +1,37 @@
 {
 	"experience_per_level": {
-		"type": "values",
+		"type": "expression",
 		"data": {
-			"values": [
-				100,
-				100,
-				100,
-				100,
-				100,
-				150,
-				150,
-				150,
-				150,
-				150,
-				150,
-				200,
-				200,
-				200,
-				200,
-				200,
-				250,
-				250,
-				250,
-				250,
-				250,
-				250,
-				250,
-				250,
-				500,
-				500,
-				500,
-				500,
-				500,
-				500,
-				500,
-				500,
-				500,
-				500,
-				750
-			]
+			"expression": "min(level ^ 1.432 + 10, 10000)"
 		}
 	},
 	"sources": [
 		{
-			"type": "puffish_skills:mine_block",
+			"type": "puffish_skills:craft_item",
 			"data": {
 				"variables": {
-					"silk_touch": {
+					"is_iron_sword": {
 						"operations": [
 							{
-								"type": "get_tool_item_stack"
+								"type": "get_crafted_item_stack"
 							},
 							{
 								"type": "puffish_skills:test",
 								"data": {
-									"nbt": "{Enchantments:[{id:\"minecraft:silk_touch\"}]}"
+									"item": "minecraft:iron_sword"
 								}
 							}
 						]
 					},
-					"stone_like": {
+					"is_bread": {
 						"operations": [
 							{
-								"type": "get_mined_block_state"
+								"type": "get_crafted_item_stack"
 							},
 							{
 								"type": "puffish_skills:test",
 								"data": {
-									"block": "#base_stone_overworld"
-								}
-							}
-						]
-					},
-					"deepslate": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "deepslate"
-								}
-							}
-						]
-					},
-					"coal_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "coal_ore"
-								}
-							}
-						]
-					},
-					"copper_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "copper_ore"
-								}
-							}
-						]
-					},
-					"iron_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "iron_ore"
-								}
-							}
-						]
-					},
-					"gold_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "gold_ore"
-								}
-							}
-						]
-					},
-					"redstone_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "redstone_ore"
-								}
-							}
-						]
-					},
-					"lapis_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "lapis_ore"
-								}
-							}
-						]
-					},
-					"diamond_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "diamond_ore"
-								}
-							}
-						]
-					},
-					"emerald_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "emerald_ore"
-								}
-							}
-						]
-					},
-					"deepslate_coal_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "deepslate_coal_ore"
-								}
-							}
-						]
-					},
-					"deepslate_copper_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "deepslate_copper_ore"
-								}
-							}
-						]
-					},
-					"deepslate_iron_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "deepslate_iron_ore"
-								}
-							}
-						]
-					},
-					"deepslate_gold_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "deepslate_gold_ore"
-								}
-							}
-						]
-					},
-					"deepslate_redstone_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "deepslate_redstone_ore"
-								}
-							}
-						]
-					},
-					"deepslate_lapis_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "deepslate_lapis_ore"
-								}
-							}
-						]
-					},
-					"deepslate_diamond_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "deepslate_diamond_ore"
-								}
-							}
-						]
-					},
-					"deepslate_emerald_ore": {
-						"operations": [
-							{
-								"type": "get_mined_block_state"
-							},
-							{
-								"type": "puffish_skills:test",
-								"data": {
-									"block": "deepslate_emerald_ore"
+									"item": "minecraft:bread"
 								}
 							}
 						]
@@ -296,22 +39,70 @@
 				},
 				"experience": [
 					{
-						"condition": "!silk_touch & stone_like",
-						"expression": "1"
+						"condition": "is_iron_sword",
+						"expression": "5"
 					},
 					{
-						"condition": "!silk_touch & deepslate",
-						"expression": "2"
-					},
-					{
-						"condition": "!silk_touch & (coal_ore | copper_ore | iron_ore | gold_ore | redstone_ore | lapis_ore | diamond_ore | emerald_ore)",
-						"expression": "10"
-					},
-					{
-						"condition": "!silk_touch & (deepslate_coal_ore | deepslate_copper_ore | deepslate_iron_ore | deepslate_gold_ore | deepslate_redstone_ore | deepslate_lapis_ore | deepslate_diamond_ore | deepslate_emerald_ore)",
-						"expression": "12"
+						"condition": "is_bread",
+						"expression": "3"
 					}
 				]
+			}
+		},
+		{
+			"type": "puffish_skills:eat_food",
+			"data": {
+				"variables": {
+					"is_bread": {
+						"operations": [
+							{
+								"type": "get_eaten_item_stack"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"item": "minecraft:bread"
+								}
+							}
+						]
+					}
+				},
+				"experience": [
+					{
+						"condition": "is_bread",
+						"expression": "5"
+					}
+				]
+			}
+		},
+		{
+			"type": "puffish_skills:heal",
+			"data": {
+				"variables": {
+					"amount": {
+						"operations": [
+							{
+								"type": "get_heal_amount"
+							}
+						]
+					}
+				},
+				"experience": "amount * 3"
+			}
+		},
+		{
+			"type": "puffish_skills:enchant_item",
+			"data": {
+				"variables": {
+					"levels": {
+						"operations": [
+							{
+								"type": "get_levels"
+							}
+						]
+					}
+				},
+				"experience": "2 * levels"
 			}
 		}
 	]

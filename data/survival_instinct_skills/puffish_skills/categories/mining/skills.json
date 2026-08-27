@@ -1,1460 +1,542 @@
 {
-	"1mg1gc1w1otbxlab": {
+	"i4c9qvyrh9t5d2q0": {
+		"definition": "root_探究の心得",
+		"x": 0,
+		"y": 288,
+		"root": true
+	},
+	"roysq8798xrwhgdv": {
 		"definition": "解体の理",
 		"x": 0,
-		"y": 369.50417228136047,
+		"y": -128,
 		"root": false
 	},
-	"lh1jyjlcu8k36nf8": {
-		"definition": "root_探究の心得",
+	"s8ybn7p8gfabaup6": {
+		"definition": "破壊速度+10%",
 		"x": -64,
+		"y": -96,
+		"root": false
+	},
+	"q4mv3pivcai5swbl": {
+		"definition": "破壊速度+10%",
+		"x": 64,
+		"y": -96,
+		"root": false
+	},
+	"3bikh5to5d8bkpi9": {
+		"definition": "破壊速度+10%",
+		"x": -32,
+		"y": -64,
+		"root": false
+	},
+	"y2w4en4j6wkhweqb": {
+		"definition": "破壊速度+10%",
+		"x": 32,
+		"y": -64,
+		"root": false
+	},
+	"kbei3m6wbyefbbg8": {
+		"definition": "採掘効率+0.1",
+		"x": 0,
 		"y": 0,
-		"root": true
-	},
-	"1s9p7iwwx828pjak": {
-		"definition": "走破の理",
-		"x": 0,
-		"y": -369.50417228136047,
 		"root": false
 	},
-	"kvpe9sweif333b52": {
-		"definition": "経験値ボーナス+10%",
-		"x": -96,
-		"y": -424.9297981235645,
-		"root": false
-	},
-	"0j6jb38gqp40w666": {
-		"definition": "経験値ボーナス+10%",
-		"x": 96,
-		"y": -424.9297981235646,
-		"root": false
-	},
-	"y1akb1ym6yft0qq5": {
-		"definition": "経験値ボーナス+10%",
-		"x": 32,
-		"y": -424.9297981235645,
-		"root": false
-	},
-	"mymkvpq3spx9f1j8": {
-		"definition": "経験値ボーナス+10%",
-		"x": -32,
-		"y": -424.9297981235646,
-		"root": false
-	},
-	"mcrzf51vvpfxsfec": {
-		"definition": "経験値ボーナス+10%",
+	"eoq6ss2o0swki5od": {
+		"definition": "破壊速度+10%",
 		"x": -64,
-		"y": -369.5041722813605,
+		"y": -32,
 		"root": false
 	},
-	"nehivwx3dfcbvlqc": {
-		"definition": "経験値ボーナス+10%",
-		"x": -32,
-		"y": -314.0785464391564,
-		"root": false
-	},
-	"alcwmsuxlg1b42kx": {
-		"definition": "経験値ボーナス+10%",
-		"x": 0,
-		"y": -258.6529205969523,
-		"root": false
-	},
-	"o4gpkb8esq8be9ro": {
-		"definition": "経験値ボーナス+10%",
-		"x": 32,
-		"y": -314.0785464391564,
-		"root": false
-	},
-	"mo966b6quvzk23wn": {
-		"definition": "経験値ボーナス+10%",
+	"6u6i47ie97gcgely": {
+		"definition": "破壊速度+10%",
 		"x": 64,
-		"y": -369.50417228136047,
+		"y": -32,
 		"root": false
 	},
-	"zvk3pqzdlh3neo2h": {
-		"definition": "移動速度+5%",
-		"x": -160,
-		"y": -277.1281292110204,
-		"root": false
-	},
-	"cvgc8dn07c7jsp2s": {
-		"definition": "移動速度+5%",
-		"x": -128,
-		"y": -258.65292059695236,
-		"root": false
-	},
-	"je401lbayeod6oo3": {
-		"definition": "移動速度+5%",
-		"x": -96,
-		"y": -240.17771198288432,
-		"root": false
-	},
-	"a8a5xu1zow11bg4w": {
-		"definition": "移動速度+5%",
+	"wk8apsqqzzelycow": {
+		"definition": "採掘効率+0.1",
 		"x": -64,
-		"y": -221.7025033688163,
+		"y": 96,
 		"root": false
 	},
-	"3bqe1k01gxrr5nan": {
-		"definition": "移動速度+5%",
-		"x": -32,
-		"y": -203.2272947547483,
-		"root": false
-	},
-	"8orhzr4vd537h4sf": {
-		"definition": "移動速度+5%",
-		"x": 0,
-		"y": -184.75208614068026,
-		"root": false
-	},
-	"q3874xra6d45pr5n": {
-		"definition": "移動速度+5%",
-		"x": -160,
-		"y": -314.0785464391564,
-		"root": false
-	},
-	"mlltpe84ca6nual2": {
-		"definition": "移動速度+5%",
-		"x": -160,
-		"y": -351.0289636672925,
-		"root": false
-	},
-	"ht0xla43zt5biqbf": {
-		"definition": "移動速度+5%",
-		"x": -160,
-		"y": -387.9793808954285,
-		"root": false
-	},
-	"t2gftl88s2d5mk7n": {
-		"definition": "移動速度+5%",
-		"x": -160,
-		"y": -424.9297981235646,
-		"root": false
-	},
-	"5ijzjqkn1d11o8e5": {
-		"definition": "移動速度+5%",
-		"x": -160,
-		"y": -461.8802153517006,
-		"root": false
-	},
-	"t2eaby1expcyrg6b": {
-		"definition": "移動速度+5%",
-		"x": -128,
-		"y": -480.35542396576864,
-		"root": false
-	},
-	"xtklvw3e54raeige": {
-		"definition": "移動速度+5%",
-		"x": -96,
-		"y": -498.8306325798367,
-		"root": false
-	},
-	"sux3lthf1y1crlfb": {
-		"definition": "移動速度+5%",
-		"x": -64,
-		"y": -517.3058411939046,
-		"root": false
-	},
-	"qy2dzt0zgmz6gnur": {
-		"definition": "金床修理コスト-5%",
-		"x": 0,
-		"y": -554.2562584220407,
-		"root": false
-	},
-	"1f5owqw6lka3stba": {
-		"definition": "移動速度+5%",
-		"x": -32,
-		"y": -535.7810498079727,
-		"root": false
-	},
-	"hxr3mlc1hybxjhwx": {
-		"definition": "金床修理コスト-5%",
-		"x": 32,
-		"y": -535.7810498079727,
-		"root": false
-	},
-	"thy1pkyxr6elz3s1": {
-		"definition": "金床修理コスト-5%",
+	"nresnubyvl1oe9o7": {
+		"definition": "採掘効率+0.1",
 		"x": 64,
-		"y": -517.3058411939046,
+		"y": 96,
 		"root": false
 	},
-	"6zneddcuut2i1wpk": {
-		"definition": "金床修理コスト-5%",
-		"x": 96,
-		"y": -498.8306325798367,
-		"root": false
-	},
-	"np86rqum5v842qss": {
-		"definition": "金床修理コスト-5%",
+	"2ab3rs7dxk9y4ku3": {
+		"definition": "採掘効率+0.1",
 		"x": 128,
-		"y": -480.35542396576864,
+		"y": -64,
 		"root": false
 	},
-	"bqdlceywoe2tms21": {
-		"definition": "金床修理コスト-5%",
-		"x": 160,
-		"y": -461.8802153517006,
+	"vderl636d9du06fx": {
+		"definition": "採掘効率+0.1",
+		"x": -128,
+		"y": -64,
 		"root": false
 	},
-	"jbzcermgij6e4us9": {
-		"definition": "金床修理コスト-5%",
-		"x": 160,
-		"y": -424.9297981235645,
+	"uhy3sre0plmpghzq": {
+		"definition": "採掘効率+0.1",
+		"x": -128,
+		"y": 0,
 		"root": false
 	},
-	"opnbfix1d5i9f4m6": {
-		"definition": "金床修理コスト-5%",
-		"x": 160,
-		"y": -387.9793808954285,
-		"root": false
-	},
-	"fuwm4223ll33hnmt": {
-		"definition": "金床修理コスト-5%",
-		"x": 160,
-		"y": -351.0289636672925,
-		"root": false
-	},
-	"mhw9ap5p8oh0008b": {
-		"definition": "金床修理コスト-5%",
-		"x": 160,
-		"y": -314.0785464391564,
-		"root": false
-	},
-	"qo5bxa8obzwodzuu": {
-		"definition": "金床修理コスト-5%",
-		"x": 160,
-		"y": -277.12812921102034,
-		"root": false
-	},
-	"jswxm8alv7bxeyaz": {
-		"definition": "金床修理コスト-5%",
+	"fdajqh4vp2xgm74x": {
+		"definition": "採掘効率+0.1",
 		"x": 128,
-		"y": -258.65292059695236,
+		"y": 0,
 		"root": false
 	},
-	"om3p1dwhs9lxcjss": {
-		"definition": "金床修理コスト-5%",
-		"x": 96,
-		"y": -240.17771198288432,
-		"root": false
-	},
-	"33zbyrfgw7d4lsxa": {
-		"definition": "金床修理コスト-5%",
-		"x": 64,
-		"y": -221.7025033688163,
-		"root": false
-	},
-	"31vhkn4rtacij99c": {
-		"definition": "金床修理コスト-5%",
-		"x": 32,
-		"y": -203.2272947547483,
-		"root": false
-	},
-	"59qn40po88h3gj4i": {
-		"definition": "運+0.25",
-		"x": -256,
-		"y": -221.7025033688163,
-		"root": false
-	},
-	"mwrtvknbol0qyt78": {
-		"definition": "運+0.25",
-		"x": -256,
-		"y": -517.3058411939046,
-		"root": false
-	},
-	"9zs7cmp8oi5ile8t": {
-		"definition": "運+0.25",
-		"x": -256,
-		"y": -480.35542396576864,
-		"root": false
-	},
-	"uv4drftslowbc48b": {
-		"definition": "運+0.25",
-		"x": -224,
-		"y": -535.7810498079727,
-		"root": false
-	},
-	"9kp7ivo147874z61": {
-		"definition": "運+0.25",
-		"x": -224,
-		"y": -203.22729475474827,
-		"root": false
-	},
-	"liqyw5r7c8bqoc72": {
-		"definition": "運+0.25",
-		"x": -256,
-		"y": -258.65292059695236,
-		"root": false
-	},
-	"z76kkej621eklepb": {
-		"definition": "運+0.25",
-		"x": 256,
-		"y": -221.70250336881628,
-		"root": false
-	},
-	"5f0gh2wejo9s0q17": {
-		"definition": "運+0.25",
-		"x": 224,
-		"y": -203.2272947547483,
-		"root": false
-	},
-	"ih7ir3u0k2h18yts": {
-		"definition": "運+0.25",
-		"x": 256,
-		"y": -258.65292059695236,
-		"root": false
-	},
-	"lq5nzl5s223ma0w3": {
-		"definition": "運+0.25",
-		"x": 256,
-		"y": -517.3058411939046,
-		"root": false
-	},
-	"iir7ro821k7gdyl8": {
-		"definition": "運+0.25",
-		"x": 224,
-		"y": -535.7810498079727,
-		"root": false
-	},
-	"7rzau508hkx4jtkv": {
-		"definition": "運+0.25",
-		"x": 256,
-		"y": -480.3554239657686,
-		"root": false
-	},
-	"6575m02ewxhua9sy": {
-		"definition": "俊敏+5%",
-		"x": -96,
-		"y": -277.12812921102034,
-		"root": false
-	},
-	"nn6ob4g7nzrseiyw": {
-		"definition": "俊敏+5%",
+	"ghhn2jbctv7req38": {
+		"definition": "採掘効率+0.1",
 		"x": -64,
-		"y": -295.6033378250884,
+		"y": 32,
 		"root": false
 	},
-	"8iix7cos9g053bgj": {
-		"definition": "俊敏+5%",
-		"x": -32,
-		"y": -277.12812921102034,
-		"root": false
-	},
-	"bvgxkzl0om680cg3": {
-		"definition": "俊敏+5%",
-		"x": -32,
-		"y": -240.17771198288432,
-		"root": false
-	},
-	"6o0cw6sgfk1nxffp": {
-		"definition": "俊敏+5%",
-		"x": -64,
-		"y": -184.75208614068023,
-		"root": false
-	},
-	"4b65xzvlke11xvfv": {
-		"definition": "俊敏+5%",
-		"x": -96,
-		"y": -166.27687752661222,
-		"root": false
-	},
-	"yhqgzr0qxzv4p2kx": {
-		"definition": "俊敏+5%",
-		"x": -128,
-		"y": -184.75208614068023,
-		"root": false
-	},
-	"voy0w6ekip7iskd1": {
-		"definition": "俊敏+5%",
-		"x": -128,
-		"y": -221.70250336881628,
-		"root": false
-	},
-	"qegck6379d4vlzlc": {
-		"definition": "俊敏+5%",
-		"x": 32,
-		"y": -461.8802153517006,
-		"root": false
-	},
-	"bv7xbyczql7ftz1c": {
-		"definition": "俊敏+5%",
+	"bimg267cxdshdri4": {
+		"definition": "採掘効率+0.1",
 		"x": 64,
-		"y": -443.40500673763256,
+		"y": 32,
 		"root": false
 	},
-	"cikcrt9v1yahglzn": {
-		"definition": "俊敏+5%",
-		"x": 96,
-		"y": -461.88021535170054,
+	"rmjr7v16psg65w9f": {
+		"definition": "採掘効率+0.1",
+		"x": 0,
+		"y": 64,
 		"root": false
 	},
-	"10lbq5yyh0ufjhym": {
-		"definition": "俊敏+5%",
-		"x": 32,
-		"y": -498.83063257983656,
-		"root": false
-	},
-	"jsgse3o6kg28oi00": {
-		"definition": "俊敏+5%",
-		"x": 64,
-		"y": -554.2562584220407,
-		"root": false
-	},
-	"zmsz5xu70lxonywe": {
-		"definition": "俊敏+5%",
-		"x": 128,
-		"y": -517.3058411939046,
-		"root": false
-	},
-	"oyvfj0vbi4sshext": {
-		"definition": "俊敏+5%",
-		"x": 128,
-		"y": -554.2562584220407,
-		"root": false
-	},
-	"u6bxlwupkjnkstkd": {
-		"definition": "俊敏+5%",
-		"x": 96,
-		"y": -572.7314670361087,
-		"root": false
-	},
-	"gk8fcsoiivnqhnqv": {
-		"definition": "落下軽減+1.0",
-		"x": -96,
-		"y": -387.9793808954285,
-		"root": false
-	},
-	"v57chsirc5k5zdvi": {
-		"definition": "落下軽減+1.0",
-		"x": -96,
-		"y": -351.02896366729243,
-		"root": false
-	},
-	"irmr89mnhk98fq2l": {
-		"definition": "落下軽減+1.0",
+	"m27qsk0vj5nsri9s": {
+		"definition": "アックス速度+10%",
 		"x": -128,
-		"y": -332.5537550532244,
+		"y": 64,
 		"root": false
 	},
-	"ojro6t3samocndsj": {
-		"definition": "落下軽減+1.0",
-		"x": -128,
-		"y": -406.45458950949654,
-		"root": false
-	},
-	"1uqkyvfcj2telwrm": {
-		"definition": "落下軽減+1.0",
+	"y7qhch52vsttvaqb": {
+		"definition": "アックス速度+10%",
 		"x": -192,
-		"y": -406.4545895094965,
+		"y": 128,
 		"root": false
 	},
-	"cr24s0cwu7xeceki": {
-		"definition": "落下軽減+1.0",
-		"x": -224,
-		"y": -387.97938089542845,
-		"root": false
-	},
-	"5uzzf37jlf5dmomz": {
-		"definition": "落下軽減+1.0",
-		"x": -224,
-		"y": -351.02896366729243,
-		"root": false
-	},
-	"69a5s9kpoqwcunhu": {
-		"definition": "落下軽減+1.0",
-		"x": -192,
-		"y": -332.55375505322445,
-		"root": false
-	},
-	"2gpawfpgw4u0rt1i": {
-		"definition": "落下軽減+1.0",
-		"x": 96,
-		"y": -387.9793808954285,
-		"root": false
-	},
-	"gha21u5bkufh9ylg": {
-		"definition": "落下軽減+1.0",
-		"x": 96,
-		"y": -351.02896366729243,
-		"root": false
-	},
-	"2rnfm1ur9ca79bnd": {
-		"definition": "落下軽減+1.0",
-		"x": 128,
-		"y": -406.45458950949654,
-		"root": false
-	},
-	"zxr6qu917s74vjpk": {
-		"definition": "落下軽減+1.0",
-		"x": 128,
-		"y": -332.5537550532244,
-		"root": false
-	},
-	"ycl6yilwyuacsd84": {
-		"definition": "落下軽減+1.0",
-		"x": 192,
-		"y": -332.55375505322445,
-		"root": false
-	},
-	"jgeeoeemt1re12vk": {
-		"definition": "落下軽減+1.0",
-		"x": 224,
-		"y": -351.0289636672925,
-		"root": false
-	},
-	"fmu4uc8d5teio3qe": {
-		"definition": "落下軽減+1.0",
-		"x": 224,
-		"y": -387.97938089542845,
-		"root": false
-	},
-	"yoacxt6ph7lkhc3b": {
-		"definition": "落下軽減+1.0",
-		"x": 192,
-		"y": -406.4545895094965,
-		"root": false
-	},
-	"sdgz6n6d6luhecq6": {
-		"definition": "経験値ボーナス+10%",
-		"x": 0,
-		"y": 258.6529205969523,
-		"root": false
-	},
-	"rnq107s8l2ibtyqm": {
-		"definition": "経験値ボーナス+10%",
+	"crluez2tzza7yrhc": {
+		"definition": "アックス速度+10%",
 		"x": -96,
-		"y": 424.9297981235645,
+		"y": 128,
 		"root": false
 	},
-	"rbzihw9xq31p2pso": {
-		"definition": "経験値ボーナス+10%",
-		"x": 96,
-		"y": 424.9297981235645,
-		"root": false
-	},
-	"d3jifccon0zf7e3u": {
-		"definition": "経験値ボーナス+10%",
-		"x": 0,
-		"y": 406.4545895094965,
-		"root": false
-	},
-	"6wr63ee4dg2i3goi": {
-		"definition": "経験値ボーナス+10%",
-		"x": 32,
-		"y": 351.0289636672924,
-		"root": false
-	},
-	"521ln1usuh8m9kxb": {
-		"definition": "経験値ボーナス+10%",
-		"x": -32,
-		"y": 351.0289636672924,
-		"root": false
-	},
-	"tby9r3030bsdxwfa": {
-		"definition": "斧術熟練+10%",
-		"x": -32,
-		"y": 387.97938089542845,
-		"root": false
-	},
-	"gtskealxy1vu7evi": {
-		"definition": "斧術熟練+10%",
-		"x": 0,
-		"y": 332.55375505322445,
-		"root": false
-	},
-	"uxgnef8tsvvb7sfh": {
-		"definition": "斧術熟練+10%",
-		"x": 32,
-		"y": 387.97938089542845,
-		"root": false
-	},
-	"sby9vaflpo0fuys1": {
-		"definition": "攻撃速度+5%",
-		"x": -160,
-		"y": 277.12812921102034,
-		"root": false
-	},
-	"omce9k6p8q6fob4b": {
-		"definition": "攻撃速度+5%",
-		"x": -160,
-		"y": 314.0785464391563,
-		"root": false
-	},
-	"2s6n9tj1re70dleg": {
-		"definition": "攻撃速度+5%",
-		"x": -160,
-		"y": 351.0289636672924,
-		"root": false
-	},
-	"9nax6epjwvfwmaq6": {
-		"definition": "攻撃速度+5%",
-		"x": -160,
-		"y": 387.97938089542845,
-		"root": false
-	},
-	"kglxr6eo8o8sc0u8": {
-		"definition": "攻撃速度+5%",
-		"x": -160,
-		"y": 424.9297981235644,
-		"root": false
-	},
-	"wgbo8ah6rmy7habh": {
-		"definition": "攻撃速度+5%",
-		"x": -160,
-		"y": 461.8802153517005,
-		"root": false
-	},
-	"zswsl2nxhecn8d2a": {
-		"definition": "攻撃速度+5%",
-		"x": -128,
-		"y": 480.3554239657685,
-		"root": false
-	},
-	"5advw2m5os48v7jr": {
-		"definition": "攻撃速度+5%",
-		"x": -96,
-		"y": 498.83063257983645,
-		"root": false
-	},
-	"lq3vgrs38lxt6hln": {
-		"definition": "攻撃速度+5%",
+	"7r91b8rvrdm6lz3g": {
+		"definition": "アックス速度+10%",
 		"x": -64,
-		"y": 517.3058411939046,
+		"y": 160,
 		"root": false
 	},
-	"o6wycg9js62mgjch": {
-		"definition": "攻撃速度+5%",
+	"trhj4al814eytnle": {
+		"definition": "シャベル速度+10%",
+		"x": 32,
+		"y": 192,
+		"root": false
+	},
+	"jsji12g4snntxlcu": {
+		"definition": "シャベル速度+10%",
+		"x": -128,
+		"y": 160,
+		"root": false
+	},
+	"9p0tstspupcoqb9x": {
+		"definition": "シャベル速度+10%",
+		"x": 128,
+		"y": 160,
+		"root": false
+	},
+	"k09d4dp1rz2mxk3k": {
+		"definition": "シャベル速度+10%",
 		"x": -32,
-		"y": 535.7810498079725,
+		"y": 192,
 		"root": false
 	},
-	"ya90xul9bvlmrqj4": {
-		"definition": "採掘速度+10%",
-		"x": 32,
-		"y": 498.83063257983645,
-		"root": false
-	},
-	"lg9p0o1jgne4qjt7": {
-		"definition": "採掘速度+10%",
-		"x": 32,
-		"y": 461.8802153517005,
-		"root": false
-	},
-	"cp4sboh425mcusql": {
-		"definition": "採掘速度+10%",
+	"oovw7kx068u7v3nx": {
+		"definition": "ツルハシ速度+10%",
 		"x": 64,
-		"y": 443.40500673763245,
+		"y": 160,
 		"root": false
 	},
-	"xmpgn5py5ygn662j": {
-		"definition": "採掘速度+10%",
-		"x": 96,
-		"y": 461.8802153517005,
-		"root": false
-	},
-	"whr38yt0rmhx5o0i": {
-		"definition": "採掘速度+10%",
-		"x": 64,
-		"y": 554.2562584220404,
-		"root": false
-	},
-	"a2qy6v4xup9myu3g": {
-		"definition": "採掘速度+10%",
-		"x": 96,
-		"y": 572.7314670361086,
-		"root": false
-	},
-	"yxyn24tlk4baaik0": {
-		"definition": "採掘速度+10%",
-		"x": 128,
-		"y": 554.2562584220407,
-		"root": false
-	},
-	"wpur7gyusmpzzi97": {
-		"definition": "採掘速度+10%",
-		"x": 128,
-		"y": 517.3058411939046,
-		"root": false
-	},
-	"6ybyhy4yx2mpn03t": {
-		"definition": "採掘速度+10%",
-		"x": -32,
-		"y": 277.12812921102034,
-		"root": false
-	},
-	"sluwpgnsg4lhlat8": {
-		"definition": "採掘速度+10%",
-		"x": -64,
-		"y": 295.6033378250884,
-		"root": false
-	},
-	"5dkissgh1x8suyv3": {
-		"definition": "採掘速度+10%",
-		"x": -96,
-		"y": 277.12812921102034,
-		"root": false
-	},
-	"7cltk6xqfr7gof3k": {
-		"definition": "採掘速度+10%",
-		"x": -32,
-		"y": 240.1777119828843,
-		"root": false
-	},
-	"idjvbss4tk5xa0oa": {
-		"definition": "採掘速度+10%",
-		"x": -64,
-		"y": 184.75208614068023,
-		"root": false
-	},
-	"gpq21g4sa6p4k75h": {
-		"definition": "採掘速度+10%",
-		"x": -128,
-		"y": 221.70250336881625,
-		"root": false
-	},
-	"0az8oxefi6pqwndl": {
-		"definition": "採掘速度+10%",
-		"x": -128,
-		"y": 184.75208614068023,
-		"root": false
-	},
-	"95vm7kreicdcau04": {
-		"definition": "採掘速度+10%",
-		"x": -96,
-		"y": 166.2768775266122,
-		"root": false
-	},
-	"70qmj3niffzcgau1": {
+	"x3xggfphsba7tu1f": {
 		"definition": "ツルハシ速度+10%",
 		"x": 96,
-		"y": 351.0289636672924,
+		"y": 128,
 		"root": false
 	},
-	"hqm1hf894pti2iqr": {
-		"definition": "ツルハシ速度+10%",
-		"x": 96,
-		"y": 387.97938089542845,
-		"root": false
-	},
-	"a580jjdhhy9aaq70": {
-		"definition": "ツルハシ速度+10%",
-		"x": 128,
-		"y": 406.4545895094965,
-		"root": false
-	},
-	"1p4yeg0umhc5azgv": {
-		"definition": "ツルハシ速度+10%",
-		"x": 128,
-		"y": 332.55375505322434,
-		"root": false
-	},
-	"8tqvvesuiw1sxeeh": {
+	"3cjd7db6lyws8tsn": {
 		"definition": "ツルハシ速度+10%",
 		"x": 192,
-		"y": 332.55375505322434,
+		"y": 128,
 		"root": false
 	},
-	"hu97zz2lrk7sm933": {
+	"terq8j3obh10nq6c": {
 		"definition": "ツルハシ速度+10%",
+		"x": 128,
+		"y": 64,
+		"root": false
+	},
+	"gz9355ptd6u8cfee": {
+		"definition": "アックス速度+10%",
+		"x": -32,
+		"y": 128,
+		"root": false
+	},
+	"gyum2jp0jy1ve37c": {
+		"definition": "シャベル速度+10%",
+		"x": 0,
+		"y": 160,
+		"root": false
+	},
+	"6ehonfrel9rkyx86": {
+		"definition": "ツルハシ速度+10%",
+		"x": 32,
+		"y": 128,
+		"root": false
+	},
+	"z4g4ihnorp7fus9y": {
+		"definition": "破壊速度+10%",
+		"x": -96,
+		"y": 256,
+		"root": false
+	},
+	"ctue6tbonkft88fg": {
+		"definition": "破壊速度+10%",
+		"x": 96,
+		"y": 256,
+		"root": false
+	},
+	"7thjw94gvg8mdhja": {
+		"definition": "破壊速度+10%",
+		"x": -64,
+		"y": 224,
+		"root": false
+	},
+	"s51bh7n7gj6lpocw": {
+		"definition": "破壊速度+10%",
+		"x": 64,
+		"y": 224,
+		"root": false
+	},
+	"wi06vjgle3q5m9vx": {
+		"definition": "水中採掘速度+0.1",
+		"x": -192,
+		"y": 192,
+		"root": false
+	},
+	"5hz63e4bajdzk1q2": {
+		"definition": "水中採掘速度+0.1",
+		"x": -256,
+		"y": 128,
+		"root": false
+	},
+	"k2pmty1umb1osyti": {
+		"definition": "水中採掘速度+0.1",
+		"x": -256,
+		"y": 224,
+		"root": false
+	},
+	"yjd73sks78chylnr": {
+		"definition": "水中採掘速度+0.1",
 		"x": 192,
-		"y": 406.4545895094965,
+		"y": 192,
 		"root": false
 	},
-	"ws0vbv692v580nmy": {
-		"definition": "ツルハシ速度+10%",
-		"x": 224,
-		"y": 387.97938089542845,
+	"i8lnw4gcly8xlivm": {
+		"definition": "水中採掘速度+0.1",
+		"x": 256,
+		"y": 128,
 		"root": false
 	},
-	"76h334jlftjbg0ke": {
-		"definition": "ツルハシ速度+10%",
-		"x": 224,
-		"y": 351.0289636672924,
+	"wd7pwf1p5ettezdn": {
+		"definition": "水中採掘速度+0.1",
+		"x": 256,
+		"y": 224,
 		"root": false
 	},
-	"78jzg80ur5ziueyb": {
-		"definition": "ツルハシ速度+10%",
-		"x": -96,
-		"y": 351.0289636672924,
-		"root": false
-	},
-	"33gsx4av99543gjm": {
-		"definition": "ツルハシ速度+10%",
-		"x": -96,
-		"y": 387.97938089542845,
-		"root": false
-	},
-	"eqbr557xe6av73py": {
-		"definition": "ツルハシ速度+10%",
-		"x": -128,
-		"y": 406.4545895094965,
-		"root": false
-	},
-	"6s6xwbx65xz4jnvv": {
-		"definition": "ツルハシ速度+10%",
-		"x": -128,
-		"y": 332.55375505322434,
-		"root": false
-	},
-	"nx95idv8axthk2p0": {
-		"definition": "ツルハシ速度+10%",
-		"x": -192,
-		"y": 332.55375505322434,
-		"root": false
-	},
-	"j5w4uny1fp90o15n": {
-		"definition": "ツルハシ速度+10%",
-		"x": -192,
-		"y": 406.4545895094964,
-		"root": false
-	},
-	"hrrxoxulqtjnvwls": {
-		"definition": "ツルハシ速度+10%",
-		"x": -224,
-		"y": 387.97938089542833,
-		"root": false
-	},
-	"tqavscd5dj8hmbxc": {
-		"definition": "ツルハシ速度+10%",
-		"x": -224,
-		"y": 351.0289636672924,
-		"root": false
-	},
-	"sjnjcro1jdwl611f": {
-		"definition": "破壊速度+10%",
-		"x": -64,
-		"y": 443.40500673763256,
-		"root": false
-	},
-	"elyhz172valpfj2k": {
-		"definition": "破壊速度+10%",
-		"x": -32,
-		"y": 461.8802153517006,
-		"root": false
-	},
-	"f6czlf41bx3k7ajp": {
-		"definition": "破壊速度+10%",
-		"x": -32,
-		"y": 498.83063257983645,
-		"root": false
-	},
-	"qd14ajr9msiu6n32": {
-		"definition": "破壊速度+10%",
-		"x": -96,
-		"y": 461.8802153517005,
-		"root": false
-	},
-	"yfqmfveb0auhsht4": {
-		"definition": "破壊速度+10%",
-		"x": -128,
-		"y": 517.3058411939046,
-		"root": false
-	},
-	"5bs6xab6jf9fg6f4": {
-		"definition": "破壊速度+10%",
-		"x": -64,
-		"y": 554.2562584220407,
-		"root": false
-	},
-	"hcqi6cqivjvti1m1": {
-		"definition": "破壊速度+10%",
-		"x": -96,
-		"y": 572.7314670361086,
-		"root": false
-	},
-	"tsfl8pr2bwqv74kn": {
-		"definition": "破壊速度+10%",
-		"x": -128,
-		"y": 554.2562584220407,
-		"root": false
-	},
-	"ni2ofxszdzhe82zk": {
-		"definition": "破壊速度+10%",
-		"x": 32,
-		"y": 277.12812921102034,
-		"root": false
-	},
-	"8g7n01n74r5tqx33": {
-		"definition": "破壊速度+10%",
-		"x": 64,
-		"y": 295.60333782508826,
-		"root": false
-	},
-	"i9vsosy8ln3097bu": {
-		"definition": "破壊速度+10%",
-		"x": 96,
-		"y": 277.12812921102034,
-		"root": false
-	},
-	"o0gh6u8sa8ad1suj": {
-		"definition": "破壊速度+10%",
-		"x": 32,
-		"y": 240.1777119828843,
-		"root": false
-	},
-	"3nbdm3ej8od8d6cg": {
-		"definition": "破壊速度+10%",
-		"x": 64,
-		"y": 184.75208614068023,
-		"root": false
-	},
-	"mltwfke159l6a453": {
-		"definition": "破壊速度+10%",
+	"fwf10o3r46foaq7a": {
+		"definition": "水中採掘速度+0.1",
 		"x": 128,
-		"y": 221.70250336881625,
+		"y": 288,
 		"root": false
 	},
-	"m5rmind5crwkt0ct": {
-		"definition": "破壊速度+10%",
-		"x": 128,
-		"y": 184.75208614068023,
+	"3mz2o6qcrz5e0z4z": {
+		"definition": "水中採掘速度+0.1",
+		"x": 192,
+		"y": 288,
 		"root": false
 	},
-	"ois55pgv77mlhl5h": {
-		"definition": "破壊速度+10%",
+	"sc3lze6piwwelag3": {
+		"definition": "水中採掘速度+0.1",
+		"x": -128,
+		"y": 288,
+		"root": false
+	},
+	"utcuaq461dgj79b8": {
+		"definition": "水中採掘速度+0.1",
+		"x": -192,
+		"y": 288,
+		"root": false
+	},
+	"urn8jmcn70yiahq4": {
+		"definition": "スニーク速度+0.1",
+		"x": -96,
+		"y": 320,
+		"root": false
+	},
+	"t465olzpbbuqk8o1": {
+		"definition": "スニーク速度+0.1",
+		"x": -64,
+		"y": 352,
+		"root": false
+	},
+	"ps6abpfx8u7igop2": {
+		"definition": "スニーク速度+0.1",
 		"x": 96,
-		"y": 166.27687752661222,
+		"y": 320,
 		"root": false
 	},
-	"008x5sh8pl64so6n": {
-		"definition": "斧術熟練+10%",
-		"x": 256,
-		"y": 221.70250336881628,
+	"nvww927w7351tm3r": {
+		"definition": "スニーク速度+0.1",
+		"x": 64,
+		"y": 352,
 		"root": false
 	},
-	"0ml4bxszzndwzuma": {
-		"definition": "斧術熟練+10%",
-		"x": 256,
-		"y": 258.6529205969523,
+	"0u98czmhwxkf5oj4": {
+		"definition": "スニーク速度+0.1",
+		"x": 32,
+		"y": 384,
 		"root": false
 	},
-	"gubdbwj8gppph3ua": {
-		"definition": "斧術熟練+10%",
-		"x": 224,
-		"y": 203.22729475474824,
+	"8snfpkmlhwdkj602": {
+		"definition": "スニーク速度+0.1",
+		"x": -32,
+		"y": 384,
 		"root": false
 	},
-	"lmztjicaezpwrai6": {
-		"definition": "斧術熟練+10%",
-		"x": -256,
-		"y": 517.3058411939047,
+	"1jvat2lerne6yyy3": {
+		"definition": "スニーク速度+0.1",
+		"x": 0,
+		"y": 416,
 		"root": false
 	},
-	"txw913j73cvqbw93": {
-		"definition": "斧術熟練+10%",
-		"x": -256,
-		"y": 480.35542396576864,
+	"tsq2hw5n8tkf7l36": {
+		"definition": "スニーク速度+0.1",
+		"x": 128,
+		"y": 416,
 		"root": false
 	},
-	"f0012vsymqzvqng1": {
-		"definition": "斧術熟練+10%",
-		"x": -224,
-		"y": 535.7810498079727,
+	"pjvxqqdykstrao6c": {
+		"definition": "スニーク速度+0.1",
+		"x": -128,
+		"y": 416,
 		"root": false
 	},
-	"8ydot2a3etksbo0w": {
-		"definition": "斧術熟練+10%",
-		"x": 256,
-		"y": 517.3058411939046,
+	"ppq2cptdi5httjj2": {
+		"definition": "スニーク速度+0.1",
+		"x": 0,
+		"y": 512,
 		"root": false
 	},
-	"qmoibobgu37zhgky": {
-		"definition": "斧術熟練+10%",
-		"x": 256,
-		"y": 480.35542396576864,
+	"jvuir42yh9rrb5nb": {
+		"definition": "酸素ボーナス+0.5",
+		"x": -32,
+		"y": 448,
 		"root": false
 	},
-	"8o3n18okqcy0myi5": {
-		"definition": "斧術熟練+10%",
-		"x": 224,
-		"y": 535.7810498079726,
+	"5ejp52zpc1ltq7q5": {
+		"definition": "酸素ボーナス+0.5",
+		"x": 32,
+		"y": 448,
 		"root": false
 	},
-	"76f84dzaybmsexxz": {
-		"definition": "斧術熟練+10%",
-		"x": -256,
-		"y": 221.70250336881628,
+	"8ag0jwdhnwckiat2": {
+		"definition": "酸素ボーナス+0.5",
+		"x": -32,
+		"y": 576,
 		"root": false
 	},
-	"3zq5gbn5d3lnw7hc": {
-		"definition": "斧術熟練+10%",
-		"x": -224,
-		"y": 203.2272947547483,
+	"17vuo85t11zt8jt2": {
+		"definition": "酸素ボーナス+0.5",
+		"x": 32,
+		"y": 576,
 		"root": false
 	},
-	"0zcz5817jr1tatx4": {
-		"definition": "斧術熟練+10%",
-		"x": -256,
-		"y": 258.6529205969523,
+	"iocb6lczss5gncth": {
+		"definition": "酸素ボーナス+0.5",
+		"x": 64,
+		"y": 544,
 		"root": false
 	},
-	"ecrxexg8reuuuwrz": {
+	"5zo0bubjezrxx4pk": {
+		"definition": "酸素ボーナス+0.5",
+		"x": 64,
+		"y": 480,
+		"root": false
+	},
+	"i42bozwwmgd83w5j": {
+		"definition": "酸素ボーナス+0.5",
+		"x": -64,
+		"y": 544,
+		"root": false
+	},
+	"8jnnbbplsm6kcpyk": {
+		"definition": "酸素ボーナス+0.5",
+		"x": -64,
+		"y": 480,
+		"root": false
+	},
+	"nr8hc1f8pci5ajb1": {
+		"definition": "酸素ボーナス+0.5",
+		"x": 128,
+		"y": 608,
+		"root": false
+	},
+	"3vn22v0vq5wota11": {
+		"definition": "酸素ボーナス+0.5",
+		"x": -128,
+		"y": 608,
+		"root": false
+	},
+	"j3fb7r1qyh6hp85z": {
+		"definition": "安全落下距離+0.5",
+		"x": -128,
+		"y": 480,
+		"root": false
+	},
+	"3kvm8owqy5o38nby": {
+		"definition": "安全落下距離+0.5",
+		"x": -160,
+		"y": 512,
+		"root": false
+	},
+	"erq89akyl5dme9bv": {
+		"definition": "安全落下距離+0.5",
+		"x": -96,
+		"y": 512,
+		"root": false
+	},
+	"eow9pugkce0975n9": {
+		"definition": "安全落下距離+0.5",
+		"x": -128,
+		"y": 544,
+		"root": false
+	},
+	"tadcjtg1bqkltpca": {
+		"definition": "安全落下距離+0.5",
+		"x": 96,
+		"y": 512,
+		"root": false
+	},
+	"5600b38oqqwdadrs": {
+		"definition": "安全落下距離+0.5",
+		"x": 128,
+		"y": 480,
+		"root": false
+	},
+	"1qpn3n3469sho9c4": {
+		"definition": "安全落下距離+0.5",
+		"x": 160,
+		"y": 512,
+		"root": false
+	},
+	"woi5wwfgabr7t3nu": {
+		"definition": "安全落下距離+0.5",
+		"x": 128,
+		"y": 544,
+		"root": false
+	},
+	"lv13o7uecwn8vgoi": {
+		"definition": "安全落下距離+0.5",
+		"x": 32,
+		"y": 640,
+		"root": false
+	},
+	"94h52yflouig10zk": {
+		"definition": "安全落下距離+0.5",
+		"x": 0,
+		"y": 608,
+		"root": false
+	},
+	"68z23qvqj44jpr89": {
+		"definition": "安全落下距離+0.5",
+		"x": -32,
+		"y": 640,
+		"root": false
+	},
+	"ql6nsqse30bxel8a": {
+		"definition": "安全落下距離+0.5",
+		"x": 0,
+		"y": 672,
+		"root": false
+	},
+	"tp6b94vewrvdh59h": {
+		"definition": "適正採掘速度+10%",
+		"x": -64,
+		"y": -160,
+		"root": false
+	},
+	"fryf2iu9poe04hjj": {
+		"definition": "適正採掘速度+10%",
+		"x": -32,
+		"y": -192,
+		"root": false
+	},
+	"s148ggi4u3erlfqa": {
+		"definition": "総合破壊速度+10%",
+		"x": 32,
+		"y": -192,
+		"root": false
+	},
+	"aa18fv5tea9ns9hu": {
+		"definition": "総合破壊速度+10%",
+		"x": 64,
+		"y": -160,
+		"root": false
+	},
+	"e2fn7rt9ybn8bqq7": {
+		"definition": "総合破壊速度+10%",
+		"x": 128,
+		"y": -192,
+		"root": false
+	},
+	"8eqfut6ykhwgpn0f": {
+		"definition": "総合破壊速度+10%",
+		"x": 64,
+		"y": -256,
+		"root": false
+	},
+	"sa32dwftryssgxs9": {
+		"definition": "総合破壊速度+10%",
+		"x": 160,
+		"y": -288,
+		"root": false
+	},
+	"ixwpo6bfaw4xe7ag": {
+		"definition": "適正採掘速度+10%",
+		"x": -64,
+		"y": -256,
+		"root": false
+	},
+	"kwfc1fsbw6qq1pdv": {
+		"definition": "適正採掘速度+10%",
+		"x": -128,
+		"y": -192,
+		"root": false
+	},
+	"4ddgiyk9ml2finol": {
+		"definition": "適正採掘速度+10%",
+		"x": -160,
+		"y": -288,
+		"root": false
+	},
+	"lwafl3lxzjgzwj9n": {
 		"definition": "万象の開拓者",
 		"x": 0,
-		"y": 0,
-		"root": false
-	},
-	"y5sajeze45lz9zh5": {
-		"definition": "root_覚醒",
-		"x": 64,
-		"y": 0,
-		"root": true
-	},
-	"zaxi3n2enavpj018": {
-		"definition": "跳躍力+0.05",
-		"x": 64,
-		"y": -184.75208614068023,
-		"root": false
-	},
-	"wfvikodrtenc6wca": {
-		"definition": "跳躍力+0.05",
-		"x": 96,
-		"y": -166.27687752661222,
-		"root": false
-	},
-	"qp42768m24mgpr42": {
-		"definition": "跳躍力+0.05",
-		"x": 128,
-		"y": -184.7520861406802,
-		"root": false
-	},
-	"gahqwdgmlzfmadvp": {
-		"definition": "跳躍力+0.05",
-		"x": 128,
-		"y": -221.70250336881628,
-		"root": false
-	},
-	"46i0m03y34d4kb4l": {
-		"definition": "跳躍力+0.05",
-		"x": 96,
-		"y": -277.1281292110204,
-		"root": false
-	},
-	"mw6uym5wriw58txz": {
-		"definition": "跳躍力+0.05",
-		"x": 64,
-		"y": -295.6033378250884,
-		"root": false
-	},
-	"xqncbzduon40qews": {
-		"definition": "跳躍力+0.05",
-		"x": 32,
-		"y": -277.12812921102034,
-		"root": false
-	},
-	"grzerbcj2397232r": {
-		"definition": "跳躍力+0.05",
-		"x": 32,
-		"y": -240.17771198288426,
-		"root": false
-	},
-	"r0xwle51elilxf1k": {
-		"definition": "跳躍力+0.05",
-		"x": -64,
-		"y": -443.40500673763256,
-		"root": false
-	},
-	"y7qvc1sbltpr01w9": {
-		"definition": "跳躍力+0.05",
-		"x": -32,
-		"y": -461.8802153517006,
-		"root": false
-	},
-	"yn27mhxjlwegg8lz": {
-		"definition": "跳躍力+0.05",
-		"x": -32,
-		"y": -498.8306325798367,
-		"root": false
-	},
-	"1p4r3ccubo24kx65": {
-		"definition": "跳躍力+0.05",
-		"x": -96,
-		"y": -461.88021535170054,
-		"root": false
-	},
-	"yjvvfl0dna46pr6y": {
-		"definition": "跳躍力+0.05",
-		"x": -128,
-		"y": -517.3058411939046,
-		"root": false
-	},
-	"lyc58uas8lmnh3og": {
-		"definition": "跳躍力+0.05",
-		"x": -64,
-		"y": -554.2562584220407,
-		"root": false
-	},
-	"18u5w8u0r1yds4od": {
-		"definition": "跳躍力+0.05",
-		"x": -128,
-		"y": -554.2562584220407,
-		"root": false
-	},
-	"dmjzlspnoq9s6nz2": {
-		"definition": "跳躍力+0.05",
-		"x": -96,
-		"y": -572.7314670361087,
-		"root": false
-	},
-	"u636atzmaukg8kc0": {
-		"definition": "スタミナ強化+1.0",
-		"x": -128,
-		"y": 258.65292059695236,
-		"root": false
-	},
-	"76zc70vnqpwjdcmh": {
-		"definition": "スタミナ強化+1.0",
-		"x": -96,
-		"y": 240.17771198288432,
-		"root": false
-	},
-	"taecwr2yntsykq2z": {
-		"definition": "スタミナ強化+1.0",
-		"x": -64,
-		"y": 221.70250336881625,
-		"root": false
-	},
-	"88j5almjlk1cjzsz": {
-		"definition": "スタミナ強化+1.0",
-		"x": -32,
-		"y": 203.22729475474824,
-		"root": false
-	},
-	"56itzejv4xk5s7hs": {
-		"definition": "スタミナ強化+1.0",
-		"x": 0,
-		"y": 184.75208614068023,
-		"root": false
-	},
-	"swas3e6rwcs5341r": {
-		"definition": "スタミナ強化+1.0",
-		"x": 32,
-		"y": 203.22729475474824,
-		"root": false
-	},
-	"wqt9yv5e7zdq9ar7": {
-		"definition": "スタミナ強化+1.0",
-		"x": 64,
-		"y": 221.70250336881628,
-		"root": false
-	},
-	"b5iq1r96ele0xuhm": {
-		"definition": "スタミナ強化+1.0",
-		"x": 96,
-		"y": 240.17771198288432,
-		"root": false
-	},
-	"o7i6s8ppovb34xbk": {
-		"definition": "スタミナ強化+1.0",
-		"x": 128,
-		"y": 258.6529205969523,
-		"root": false
-	},
-	"di45sxj0tuvqs2p1": {
-		"definition": "スタミナ強化+1.0",
-		"x": 160,
-		"y": 277.12812921102034,
-		"root": false
-	},
-	"gnxmxohhrvz2bd89": {
-		"definition": "食事速度+10%",
-		"x": 160,
-		"y": 314.0785464391564,
-		"root": false
-	},
-	"3jqiq4iqirte980j": {
-		"definition": "食事速度+10%",
-		"x": 160,
-		"y": 351.02896366729243,
-		"root": false
-	},
-	"qj0ewyb9x1fav7rz": {
-		"definition": "食事速度+10%",
-		"x": 160,
-		"y": 387.9793808954285,
-		"root": false
-	},
-	"0juakol474jaiodr": {
-		"definition": "食事速度+10%",
-		"x": 160,
-		"y": 424.9297981235646,
-		"root": false
-	},
-	"ibkpvw265v94hvsd": {
-		"definition": "食事速度+10%",
-		"x": 160,
-		"y": 461.8802153517006,
-		"root": false
-	},
-	"49xj3tm24jj8u4vj": {
-		"definition": "食事速度+10%",
-		"x": 128,
-		"y": 480.3554239657686,
-		"root": false
-	},
-	"9u14xnilm846t535": {
-		"definition": "食事速度+10%",
-		"x": 64,
-		"y": 517.3058411939047,
-		"root": false
-	},
-	"lpujno0cnui58dp6": {
-		"definition": "食事速度+10%",
-		"x": 96,
-		"y": 498.8306325798366,
-		"root": false
-	},
-	"u0kz282ufuotqyzg": {
-		"definition": "食事速度+10%",
-		"x": 32,
-		"y": 535.7810498079726,
-		"root": false
-	},
-	"2ae44v5wdqt2erlp": {
-		"definition": "食事速度+10%",
-		"x": 0,
-		"y": 554.2562584220407,
-		"root": false
-	},
-	"uvzp7bfqdtge894e": {
-		"definition": "シャベル速度+10%",
-		"x": 288,
-		"y": 314.0785464391564,
-		"root": false
-	},
-	"6gp4im446gi1rib5": {
-		"definition": "シャベル速度+10%",
-		"x": 320,
-		"y": 332.55375505322445,
-		"root": false
-	},
-	"5ce2bajtbanebkmy": {
-		"definition": "シャベル速度+10%",
-		"x": 320,
-		"y": 406.4545895094965,
-		"root": false
-	},
-	"i99dt1x4d3s2imix": {
-		"definition": "シャベル速度+10%",
-		"x": 288,
-		"y": 424.9297981235645,
-		"root": false
-	},
-	"exyhshyrrwqazwl1": {
-		"definition": "シャベル速度+10%",
-		"x": -288,
-		"y": 314.0785464391564,
-		"root": false
-	},
-	"50glzo5t3cf2qz2o": {
-		"definition": "シャベル速度+10%",
-		"x": -320,
-		"y": 332.55375505322434,
-		"root": false
-	},
-	"0d1fecjji9ly23ge": {
-		"definition": "シャベル速度+10%",
-		"x": -320,
-		"y": 406.4545895094965,
-		"root": false
-	},
-	"qilfglfs3kkcfauh": {
-		"definition": "シャベル速度+10%",
-		"x": -288,
-		"y": 424.9297981235645,
-		"root": false
-	},
-	"a5hpnxxojtpw8s71": {
-		"definition": "シャベル速度+10%",
-		"x": -320,
-		"y": 369.5041722813604,
-		"root": false
-	},
-	"4axkjamu0pdvd1k3": {
-		"definition": "シャベル速度+10%",
-		"x": 320,
-		"y": 369.50417228136047,
-		"root": false
-	},
-	"juir7zcvcb68pr8v": {
-		"definition": "アックス速度+10%",
-		"x": -32,
-		"y": 609.6818842642448,
-		"root": false
-	},
-	"ywxdr5owhlskvcxd": {
-		"definition": "アックス速度+10%",
-		"x": 0,
-		"y": 628.1570928783128,
-		"root": false
-	},
-	"mh73558pz7h1ejdg": {
-		"definition": "アックス速度+10%",
-		"x": 32,
-		"y": 609.6818842642448,
-		"root": false
-	},
-	"xkxfg2gqxjvm0uos": {
-		"definition": "アックス速度+10%",
-		"x": 64,
-		"y": 628.1570928783128,
-		"root": false
-	},
-	"szw0lk7vajbna0qb": {
-		"definition": "アックス速度+10%",
-		"x": -64,
-		"y": 628.1570928783128,
-		"root": false
-	},
-	"1ymp2zvtdy7x8wnp": {
-		"definition": "アックス速度+10%",
-		"x": -32,
-		"y": 683.5827187205168,
-		"root": false
-	},
-	"71ghyimz8h5jgdqp": {
-		"definition": "アックス速度+10%",
-		"x": -64,
-		"y": 665.1075101064488,
-		"root": false
-	},
-	"a8wbs60ln133t1y7": {
-		"definition": "アックス速度+10%",
-		"x": 0,
-		"y": 702.0579273345849,
-		"root": false
-	},
-	"f4e5zz87fxfwsyfp": {
-		"definition": "アックス速度+10%",
-		"x": 32,
-		"y": 683.5827187205169,
-		"root": false
-	},
-	"s7l1du1a70fgvkba": {
-		"definition": "アックス速度+10%",
-		"x": 64,
-		"y": 665.1075101064489,
-		"root": false
-	},
-	"r4tc6rfbgf7cnobv": {
-		"definition": "幸運+0.25",
-		"x": -288,
-		"y": -424.9297981235645,
-		"root": false
-	},
-	"s7vcdcdp9z9r8vnd": {
-		"definition": "幸運+0.25",
-		"x": -320,
-		"y": -369.50417228136047,
-		"root": false
-	},
-	"7dtji8h5v8i6bxgc": {
-		"definition": "幸運+0.25",
-		"x": -320,
-		"y": -406.4545895094965,
-		"root": false
-	},
-	"bh1ab43i0a5va6hu": {
-		"definition": "幸運+0.25",
-		"x": -288,
-		"y": -314.0785464391564,
-		"root": false
-	},
-	"ra7xhn269ykeju5j": {
-		"definition": "幸運+0.25",
-		"x": -320,
-		"y": -332.55375505322445,
-		"root": false
-	},
-	"fnivu9tlwomf4fk8": {
-		"definition": "幸運+0.25",
-		"x": 288,
-		"y": -424.9297981235645,
-		"root": false
-	},
-	"59ox9by7i849rorq": {
-		"definition": "幸運+0.25",
-		"x": 320,
-		"y": -369.5041722813604,
-		"root": false
-	},
-	"a58lfzidbrk1n94p": {
-		"definition": "幸運+0.25",
-		"x": 320,
-		"y": -332.55375505322434,
-		"root": false
-	},
-	"cczjsrtc3h0kehsa": {
-		"definition": "幸運+0.25",
-		"x": 320,
-		"y": -406.4545895094965,
-		"root": false
-	},
-	"gwis34yj41fg76la": {
-		"definition": "幸運+0.25",
-		"x": 288,
-		"y": -314.0785464391564,
-		"root": false
-	},
-	"prw0w3azmh7nwri5": {
-		"definition": "隠密+1.0",
-		"x": 0,
-		"y": -702.0579273345849,
-		"root": false
-	},
-	"74cpmoxk2av1wdnx": {
-		"definition": "隠密+1.0",
-		"x": -32,
-		"y": -683.5827187205169,
-		"root": false
-	},
-	"ya2ied90ihjqmtcy": {
-		"definition": "隠密+1.0",
-		"x": -64,
-		"y": -665.1075101064489,
-		"root": false
-	},
-	"pbr68ewpx8pw096s": {
-		"definition": "隠密+1.0",
-		"x": -64,
-		"y": -628.1570928783128,
-		"root": false
-	},
-	"u6sacj6s01nza6aa": {
-		"definition": "隠密+1.0",
-		"x": -32,
-		"y": -609.6818842642448,
-		"root": false
-	},
-	"zv0y1l9d5vm6mkpl": {
-		"definition": "隠密+1.0",
-		"x": 0,
-		"y": -628.1570928783128,
-		"root": false
-	},
-	"imrlb3lqgvro1m7s": {
-		"definition": "隠密+1.0",
-		"x": 32,
-		"y": -609.6818842642448,
-		"root": false
-	},
-	"mnbngju9b0czv541": {
-		"definition": "隠密+1.0",
-		"x": 64,
-		"y": -628.1570928783128,
-		"root": false
-	},
-	"24m29tqtqkjaub6g": {
-		"definition": "隠密+1.0",
-		"x": 64,
-		"y": -665.1075101064488,
-		"root": false
-	},
-	"2lln55aff6iwyfnf": {
-		"definition": "隠密+1.0",
-		"x": 32,
-		"y": -683.5827187205168,
+		"y": -416,
 		"root": false
 	}
 }
