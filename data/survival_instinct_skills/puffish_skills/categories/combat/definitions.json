@@ -4,7 +4,13 @@
       "translate": "sis.shared.5315"
     },
     "description": {
-      "translate": "sis.shared.1157"
+      "translate": "sis.shared.0af2"
+    },
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "challenge"
+      }
     },
     "icon": {
       "type": "item",
@@ -15,7 +21,7 @@
     "rewards": [],
     "cost": 0,
     "metadata": {
-      "icon": "px932dl5h5a9i8qs"
+      "icon": "9b62vgequiqj73xx"
     }
   },
   "剣技の心得": {
@@ -23,7 +29,7 @@
       "translate": "sis.shared.9a89"
     },
     "description": {
-      "translate": "sis.shared.aa17"
+      "translate": "sis.shared.e245"
     },
     "icon": {
       "type": "item",
@@ -41,7 +47,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "minecraft:attack_damage",
+          "attribute": "minecraft:generic.attack_damage",
           "value": 1,
           "operation": "addition"
         }
@@ -49,7 +55,7 @@
     ],
     "cost": 1,
     "metadata": {
-      "icon": "u3r0r2wb35n9odeg"
+      "icon": "p8ut4nup5vgfpfia"
     }
   },
   "射撃の心得": {
@@ -57,7 +63,7 @@
       "translate": "sis.shared.1f05"
     },
     "description": {
-      "translate": "sis.shared.9dd6"
+      "translate": "sis.shared.8904"
     },
     "icon": {
       "type": "item",
@@ -83,7 +89,7 @@
     ],
     "cost": 1,
     "metadata": {
-      "icon": "rkln1xmb7yuksb92"
+      "icon": "4xx3p3ed7ze243uc"
     }
   },
   "守護の心得": {
@@ -91,7 +97,7 @@
       "translate": "sis.shared.c29f"
     },
     "description": {
-      "translate": "sis.shared.a158"
+      "translate": "sis.shared.841b"
     },
     "icon": {
       "type": "item",
@@ -109,7 +115,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "minecraft:armor",
+          "attribute": "minecraft:generic.armor",
           "value": 1,
           "operation": "addition"
         }
@@ -117,7 +123,7 @@
     ],
     "cost": 1,
     "metadata": {
-      "icon": "hdp4yzaehhywpghv"
+      "icon": "mnadb7sunr94y8km"
     }
   },
   "錬金術の心得": {
@@ -125,7 +131,7 @@
       "translate": "sis.shared.4547"
     },
     "description": {
-      "translate": "sis.shared.f344"
+      "translate": "sis.shared.f110"
     },
     "icon": {
       "type": "item",
@@ -151,7 +157,7 @@
     ],
     "cost": 1,
     "metadata": {
-      "icon": "okigwsxntp62t64a"
+      "icon": "gcapwkbg4jilpu5y"
     }
   },
   "剛剣の理": {
@@ -159,7 +165,7 @@
       "translate": "sis.shared.3a5f"
     },
     "description": {
-      "translate": "sis.shared.6950"
+      "translate": "sis.shared.d3ad"
     },
     "frame": {
       "type": "advancement",
@@ -185,7 +191,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "minecraft:attack_damage",
+          "attribute": "minecraft:generic.attack_damage",
           "value": 2,
           "operation": "addition"
         }
@@ -200,9 +206,9 @@
       }
     ],
     "cost": 5,
-    "required_skills": 4,
+    "required_skills": 5,
     "metadata": {
-      "icon": "1mcneg4j4p9cmrfv"
+      "icon": "jfbnucdtlhj084jo"
     }
   },
   "神速の理": {
@@ -210,7 +216,7 @@
       "translate": "sis.shared.65bb"
     },
     "description": {
-      "translate": "sis.shared.c535"
+      "translate": "sis.shared.aa43"
     },
     "frame": {
       "type": "advancement",
@@ -236,7 +242,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "movement_speed",
+          "attribute": "generic.movement_speed",
           "value": 0.1,
           "operation": "multiply_total"
         }
@@ -244,16 +250,16 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "attack_speed",
+          "attribute": "generic.attack_speed",
           "value": 0.1,
           "operation": "multiply_total"
         }
       }
     ],
     "cost": 5,
-    "required_skills": 4,
+    "required_skills": 5,
     "metadata": {
-      "icon": "vl211jpxzknzfnrl"
+      "icon": "8nxfw2i67a528yy3"
     }
   },
   "強弓の理": {
@@ -261,7 +267,7 @@
       "translate": "sis.shared.b596"
     },
     "description": {
-      "translate": "sis.shared.bcb5"
+      "translate": "sis.shared.da8d"
     },
     "frame": {
       "type": "advancement",
@@ -280,7 +286,7 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:ranged_damage",
-          "value": 2,
+          "value": 0.2,
           "operation": "multiply_base"
         }
       },
@@ -288,8 +294,8 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:armor_shred",
-          "value": 0.2,
-          "operation": "multiply_base"
+          "value": 2,
+          "operation": "addition"
         }
       },
       {
@@ -310,9 +316,9 @@
       }
     ],
     "cost": 5,
-    "required_skills": 4,
+    "required_skills": 5,
     "metadata": {
-      "icon": "ioq3h1vlehgn7685"
+      "icon": "bb5vpnid2funobf1"
     }
   },
   "連射の理": {
@@ -320,7 +326,7 @@
       "translate": "sis.shared.351b"
     },
     "description": {
-      "translate": "sis.shared.695a"
+      "translate": "sis.shared.a844"
     },
     "frame": {
       "type": "advancement",
@@ -346,7 +352,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "attack_speed",
+          "attribute": "generic.attack_speed",
           "value": 0.4,
           "operation": "multiply_total"
         }
@@ -361,9 +367,9 @@
       }
     ],
     "cost": 5,
-    "required_skills": 4,
+    "required_skills": 5,
     "metadata": {
-      "icon": "z8klo9wwobv4uk0h"
+      "icon": "d8nmiu6mxd6fa1pd"
     }
   },
   "不壊の理": {
@@ -371,7 +377,7 @@
       "translate": "sis.shared.4223"
     },
     "description": {
-      "translate": "sis.shared.78df"
+      "translate": "sis.shared.68d8"
     },
     "frame": {
       "type": "advancement",
@@ -389,7 +395,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "minecraft:armor",
+          "attribute": "minecraft:generic.armor",
           "value": 2,
           "operation": "addition"
         }
@@ -397,7 +403,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "max_health",
+          "attribute": "generic.max_health",
           "value": 4,
           "operation": "addition"
         }
@@ -412,9 +418,9 @@
       }
     ],
     "cost": 5,
-    "required_skills": 4,
+    "required_skills": 5,
     "metadata": {
-      "icon": "8g2grwknltto9it3"
+      "icon": "pc5bu9wfzwcpunmu"
     }
   },
   "再生の理": {
@@ -422,7 +428,7 @@
       "translate": "sis.shared.0d31"
     },
     "description": {
-      "translate": "sis.shared.2653"
+      "translate": "sis.shared.e023"
     },
     "frame": {
       "type": "advancement",
@@ -440,7 +446,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "minecraft:armor",
+          "attribute": "minecraft:generic.armor",
           "value": 4,
           "operation": "addition"
         }
@@ -463,9 +469,9 @@
       }
     ],
     "cost": 5,
-    "required_skills": 4,
+    "required_skills": 5,
     "metadata": {
-      "icon": "beyxgknvkygwfwaa"
+      "icon": "ftzusam9ht7vczz0"
     }
   },
   "賢者の理": {
@@ -473,7 +479,7 @@
       "translate": "sis.shared.9fdb"
     },
     "description": {
-      "translate": "sis.shared.457d"
+      "translate": "sis.shared.3130"
     },
     "frame": {
       "type": "advancement",
@@ -514,9 +520,9 @@
       }
     ],
     "cost": 5,
-    "required_skills": 4,
+    "required_skills": 5,
     "metadata": {
-      "icon": "zt3z8l5vmrwkj7hg"
+      "icon": "d7xaazkk68tujhv8"
     }
   },
   "隠者の理": {
@@ -524,7 +530,7 @@
       "translate": "sis.shared.0d05"
     },
     "description": {
-      "translate": "sis.shared.6246"
+      "translate": "sis.shared.9789"
     },
     "frame": {
       "type": "advancement",
@@ -558,16 +564,16 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "luck",
+          "attribute": "generic.luck",
           "value": 0.5,
           "operation": "addition"
         }
       }
     ],
     "cost": 5,
-    "required_skills": 4,
+    "required_skills": 5,
     "metadata": {
-      "icon": "ji15ssvl6j0gg6rz"
+      "icon": "pdfczsefniv04868"
     }
   },
   "剣神の領域": {
@@ -575,7 +581,7 @@
       "translate": "sis.shared.09d6"
     },
     "description": {
-      "translate": "sis.shared.923b"
+      "translate": "sis.shared.8488"
     },
     "frame": {
       "type": "advancement",
@@ -586,14 +592,15 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:netherite_sword"
+        "item": "minecraft:netherite_sword",
+        "nbt": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:10}]}"
       }
     },
     "rewards": [
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "luck",
+          "attribute": "generic.luck",
           "value": 1,
           "operation": "addition"
         }
@@ -608,9 +615,9 @@
       }
     ],
     "cost": 10,
-    "required_skills": 10,
+    "required_skills": 8,
     "metadata": {
-      "icon": "zsubfbwi3lgvswsd"
+      "icon": "y6i9tknmmqtgfmmg"
     }
   },
   "極星の射手": {
@@ -618,7 +625,7 @@
       "translate": "sis.shared.c4e9"
     },
     "description": {
-      "translate": "sis.shared.24cf"
+      "translate": "sis.shared.f191"
     },
     "frame": {
       "type": "advancement",
@@ -629,14 +636,15 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:bow"
+        "item": "minecraft:bow",
+        "nbt": "{Enchantments:[{id:\"minecraft:power\",lvl:10}]}"
       }
     },
     "rewards": [
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "luck",
+          "attribute": "generic.luck",
           "value": 1,
           "operation": "addition"
         }
@@ -675,9 +683,9 @@
       }
     ],
     "cost": 10,
-    "required_skills": 10,
+    "required_skills": 8,
     "metadata": {
-      "icon": "tn95xvx0ej751ugx"
+      "icon": "m5s0l3qfrhgm188e"
     }
   },
   "不抜の守護神": {
@@ -685,7 +693,7 @@
       "translate": "sis.shared.ff5f"
     },
     "description": {
-      "translate": "sis.shared.ee59"
+      "translate": "sis.shared.42b8"
     },
     "frame": {
       "type": "advancement",
@@ -703,7 +711,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "luck",
+          "attribute": "generic.luck",
           "value": 1,
           "operation": "addition"
         }
@@ -719,7 +727,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "minecraft:armor",
+          "attribute": "minecraft:generic.armor",
           "value": 12,
           "operation": "addition"
         }
@@ -727,16 +735,16 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "max_health",
+          "attribute": "generic.max_health",
           "value": 12,
           "operation": "addition"
         }
       }
     ],
     "cost": 10,
-    "required_skills": 10,
+    "required_skills": 8,
     "metadata": {
-      "icon": "emtm5jyigv01eo50"
+      "icon": "qi6q0i3w7wbpp4xm"
     }
   },
   "大賢者の深淵": {
@@ -744,7 +752,7 @@
       "translate": "sis.shared.5d32"
     },
     "description": {
-      "translate": "sis.shared.cdc0"
+      "translate": "sis.shared.078e"
     },
     "frame": {
       "type": "advancement",
@@ -762,7 +770,7 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "luck",
+          "attribute": "generic.luck",
           "value": 4,
           "operation": "addition"
         }
@@ -793,18 +801,19 @@
       }
     ],
     "cost": 10,
-    "required_skills": 10,
+    "required_skills": 8,
     "metadata": {
-      "icon": "oxtsxd0jv5uqrvm4"
+      "icon": "4m7jr73urt2jjwwp"
     }
   },
-  "攻撃ノックバック+10%": {
+  "ノックバック強化+0.2": {
     "title": {
-      "translate": "sis.shared.3863"
+      "translate": "sis.shared.ede2"
     },
     "description": {
       "translate": "sis.shared.438e"
     },
+    "size": 1,
     "icon": {
       "type": "item",
       "data": {
@@ -821,118 +830,15 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "minecraft:attack_knockback",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "vzvhf41d2lyii3rk"
-    }
-  },
-  "ノックバック+0.2": {
-    "title": {
-      "translate": "sis.shared.930d"
-    },
-    "description": {
-      "translate": "sis.shared.2035"
-    },
-    "size": 1,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:sticky_piston"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
           "attribute": "puffish_attributes:knockback",
-          "value": 0.2,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 2,
-    "metadata": {
-      "icon": "bxgnpb1tqasbxu08"
-    }
-  },
-  "ノックバック耐性+10%": {
-    "title": {
-      "translate": "sis.shared.bc86"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:chainmail_chestplate"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:knockback_resistance",
           "value": 0.1,
-          "operation": "addition"
+          "operation": "multiply_base"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "1bhwj9yyfnqznjly"
-    }
-  },
-  "爆発ノックバック耐性+10%": {
-    "title": {
-      "translate": "sis.shared.c0f2"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:netherite_chestplate"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:explosion_knockback_resistance",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "wxcwiptyx6paix9a"
+      "icon": "1u22x9aiucd2bqrj"
     }
   },
   "使役獣攻撃力+10%": {
@@ -967,50 +873,12 @@
     ],
     "cost": 1,
     "metadata": {
-      "icon": "5ptyqzt7esqlog0f"
+      "icon": "7gmrhgpgko610pwh"
     }
   },
-  "使役獣耐性+10%": {
+  "防御力+2.0": {
     "title": {
-      "translate": "sis.shared.d076"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "size": 1,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:wolf_armor"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:tamed_resistance",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "sdlyuurqv488cwwk"
-    }
-  },
-  "防御力+0.5": {
-    "title": {
-      "translate": "sis.shared.35c3"
-    },
-    "description": {
-      "translate": "sis.shared.2035"
+      "translate": "sis.shared.e709"
     },
     "size": 1,
     "icon": {
@@ -1029,20 +897,20 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "minecraft:armor",
-          "value": 1,
+          "attribute": "minecraft:generic.armor",
+          "value": 2,
           "operation": "addition"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "oh78cxcetyvv3c2x"
+      "icon": "1pofw23ih559iqi8"
     }
   },
-  "ダメージ反射+10%": {
+  "ダメージ反射+5%": {
     "title": {
-      "translate": "sis.shared.1324"
+      "translate": "sis.shared.e9fe"
     },
     "description": {
       "translate": "sis.shared.438e"
@@ -1065,14 +933,14 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:damage_reflection",
-          "value": 0.1,
-          "operation": "addition"
+          "value": 0.05,
+          "operation": "multiply_base"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "w1910b75yxr3ghoy"
+      "icon": "af0uw030ed12tr48"
     }
   },
   "耐性+5%": {
@@ -1101,18 +969,18 @@
         "data": {
           "attribute": "puffish_attributes:resistance",
           "value": 0.05,
-          "operation": "addition"
+          "operation": "multiply_base"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "27en5gyceirp2jr6"
+      "icon": "8rn557gc3e55zgui"
     }
   },
-  "防御無視+1.0": {
+  "防御無視+2.0": {
     "title": {
-      "translate": "sis.shared.8335"
+      "translate": "sis.shared.ae3f"
     },
     "description": {
       "translate": "sis.shared.2035"
@@ -1121,7 +989,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:iron_spear"
+        "item": "minecraft:chainmail_chestplate"
       }
     },
     "frame": {
@@ -1135,19 +1003,19 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:armor_shred",
-          "value": 1,
-          "operation": "multiply_base"
+          "value": 2,
+          "operation": "addition"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "euu5zmzluor6o5e1"
+      "icon": "ii5vbkam2rca7leq"
     }
   },
-  "防具強度無視+1.0": {
+  "防具強度無視+2.0": {
     "title": {
-      "translate": "sis.shared.39ec"
+      "translate": "sis.shared.05c3"
     },
     "description": {
       "translate": "sis.shared.2035"
@@ -1156,7 +1024,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:diamond_spear"
+        "item": "minecraft:spectral_arrow"
       }
     },
     "frame": {
@@ -1170,19 +1038,19 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:toughness_shred",
-          "value": 1,
-          "operation": "multiply_base"
+          "value": 2,
+          "operation": "addition"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "j32kxx3mp8g1acvo"
+      "icon": "38ltowq6xhlsxr90"
     }
   },
-  "ポーション攻撃力+10%": {
+  "ポーション攻撃力+30%": {
     "title": {
-      "translate": "sis.shared.985c"
+      "translate": "sis.shared.3cf9"
     },
     "description": {
       "translate": "sis.shared.438e"
@@ -1205,14 +1073,14 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:magic_damage",
-          "value": 0.1,
+          "value": 0.3,
           "operation": "multiply_base"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "z6bnawh6qo2iz2ui"
+      "icon": "4lzei1rg9cysni22"
     }
   },
   "ポーション耐性+10%": {
@@ -1241,18 +1109,18 @@
         "data": {
           "attribute": "puffish_attributes:magic_resistance",
           "value": 0.1,
-          "operation": "addition"
+          "operation": "multiply_base"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "i0w7vlz5n1w5wfva"
+      "icon": "6h66xa05750wwjju"
     }
   },
-  "ポーション耐性無視+1.0": {
+  "ポーション耐性無視+2.0": {
     "title": {
-      "translate": "sis.shared.7eba"
+      "translate": "sis.shared.ac45"
     },
     "description": {
       "translate": "sis.shared.2035"
@@ -1275,14 +1143,14 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:magic_resistance_shred",
-          "value": 1,
-          "operation": "multiply_base"
+          "value": 2,
+          "operation": "addition"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "9lgmf7umtzktkvib"
+      "icon": "ygqessfpadncfjdr"
     }
   },
   "落下軽減+1.0": {
@@ -1296,7 +1164,7 @@
     "icon": {
       "type": "effect",
       "data": {
-        "effect": "slow_falling"
+        "effect": "minecraft:slow_falling"
       }
     },
     "frame": {
@@ -1317,148 +1185,12 @@
     ],
     "cost": 2,
     "metadata": {
-      "icon": "ep2tc5qlv5jaxnoq"
+      "icon": "y52tvju0fubjaqza"
     }
   },
-  "攻撃力+10%": {
+  "斧術熟練+20%": {
     "title": {
-      "translate": "sis.shared.e41c"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "strength"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:attack_damage",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "gplybdanbvap0lzx"
-    }
-  },
-  "防具強度+1": {
-    "title": {
-      "translate": "sis.shared.ad23"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:iron_chestplate"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:armor_toughness",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "jgr5off206m27nle"
-    }
-  },
-  "衝撃吸収+10%": {
-    "title": {
-      "translate": "sis.shared.cbf5"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "absorption"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:max_absorption",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "wxkfv09jm4t42bkw"
-    }
-  },
-  "炎上時間-0.1": {
-    "title": {
-      "translate": "sis.shared.f2c1"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "effect",
-      "data": {
-        "effect": "fire_resistance"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:burning_time",
-          "value": -0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "dfhk5spn3s84yohh"
-    }
-  },
-  "斧術熟練+10%": {
-    "title": {
-      "translate": "sis.shared.b8a5"
+      "translate": "sis.shared.fc1f"
     },
     "description": {
       "translate": "sis.shared.438e"
@@ -1481,19 +1213,19 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:axe_damage",
-          "value": 0.1,
+          "value": 0.2,
           "operation": "multiply_base"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "elxacvbto7dkkqp7"
+      "icon": "fqqt3u57hg329uzm"
     }
   },
-  "三叉槍熟練+10%": {
+  "三叉槍熟練+20%": {
     "title": {
-      "translate": "sis.shared.6a74"
+      "translate": "sis.shared.946f"
     },
     "description": {
       "translate": "sis.shared.438e"
@@ -1516,54 +1248,19 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:trident_damage",
-          "value": 0.1,
+          "value": 0.2,
           "operation": "multiply_base"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "6mf5xxn0hv46bkwp"
+      "icon": "nllx5vwiqs2ckp4v"
     }
   },
-  "メイス熟練+10%": {
+  "攻撃速度+7.5": {
     "title": {
-      "translate": "sis.shared.d215"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "size": 1,
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:mace"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "puffish_attributes:mace_damage",
-          "value": 0.1,
-          "operation": "multiply_base"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "isr1bynwh7fjb3a8"
-    }
-  },
-  "攻撃速度+5%": {
-    "title": {
-      "translate": "sis.shared.b981"
+      "translate": "sis.shared.0d71"
     },
     "description": {
       "translate": "sis.shared.438e"
@@ -1585,20 +1282,20 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "attack_speed",
-          "value": 0.05,
-          "operation": "multiply_total"
+          "attribute": "generic.attack_speed",
+          "value": 7.5,
+          "operation": "addition"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "bls99mt177comkjx"
+      "icon": "4bfhm6ae8t0vplsf"
     }
   },
-  "剣術熟練+10%": {
+  "剣術熟練+20%": {
     "title": {
-      "translate": "sis.shared.e7eb"
+      "translate": "sis.shared.77b8"
     },
     "description": {
       "translate": "sis.shared.438e"
@@ -1621,19 +1318,19 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:sword_damage",
-          "value": 0.1,
+          "value": 0.2,
           "operation": "multiply_base"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "m0b6g8o6o7mcu001"
+      "icon": "5go6hzf5yhpn0x2x"
     }
   },
-  "近接攻撃力+10%": {
+  "近接攻撃力+20%": {
     "title": {
-      "translate": "sis.shared.1f66"
+      "translate": "sis.shared.e9f2"
     },
     "description": {
       "translate": "sis.shared.438e"
@@ -1656,14 +1353,14 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:melee_damage",
-          "value": 0.1,
+          "value": 0.2,
           "operation": "multiply_base"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "skkxpe0nloanfgxh"
+      "icon": "tw5asrm07qutab3z"
     }
   },
   "近接耐性+10%": {
@@ -1692,18 +1389,18 @@
         "data": {
           "attribute": "puffish_attributes:melee_resistance",
           "value": 0.1,
-          "operation": "addition"
+          "operation": "multiply_base"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "je16qa8h0dsmurnk"
+      "icon": "te2qcs289j1b47mz"
     }
   },
-  "近接耐性無視+1.0": {
+  "近接耐性無視+2.0": {
     "title": {
-      "translate": "sis.shared.3d4d"
+      "translate": "sis.shared.f695"
     },
     "description": {
       "translate": "sis.shared.2035"
@@ -1712,7 +1409,7 @@
     "icon": {
       "type": "item",
       "data": {
-        "item": "minecraft:netherite_spear"
+        "item": "minecraft:tipped_arrow"
       }
     },
     "frame": {
@@ -1726,19 +1423,19 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:melee_resistance_shred",
-          "value": 1,
-          "operation": "multiply_base"
+          "value": 2,
+          "operation": "addition"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "jwsous23ukvo1bf5"
+      "icon": "eudqprg5585uvdqr"
     }
   },
-  "射撃攻撃力+5%": {
+  "射撃攻撃力+20%": {
     "title": {
-      "translate": "sis.shared.94c5"
+      "translate": "sis.shared.f3ad"
     },
     "description": {
       "translate": "sis.shared.438e"
@@ -1761,14 +1458,14 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:ranged_damage",
-          "value": 0.05,
+          "value": 0.2,
           "operation": "multiply_base"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "lwx9birx79vtdf9h"
+      "icon": "pknt7c213kjxeg8w"
     }
   },
   "弾速+5%": {
@@ -1796,27 +1493,27 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:bow_projectile_speed",
-          "value": 0.5,
-          "operation": "multiply_total"
+          "value": 0.05,
+          "operation": "multiply_base"
         }
       },
       {
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:crossbow_projectile_speed",
-          "value": 0.5,
-          "operation": "multiply_total"
+          "value": 0.1,
+          "operation": "multiply_base"
         }
       }
     ],
     "cost": 1,
     "metadata": {
-      "icon": "29v4eqr4077k97f3"
+      "icon": "5j2u0um9f54x0xmj"
     }
   },
-  "射撃耐性+10%": {
+  "射撃耐性+2.0": {
     "title": {
-      "translate": "sis.shared.a53a"
+      "translate": "sis.shared.1a0c"
     },
     "description": {
       "translate": "sis.shared.2035"
@@ -1839,19 +1536,19 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:ranged_resistance",
-          "value": 0.1,
+          "value": 2,
           "operation": "addition"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "8bakzigruqqb89kk"
+      "icon": "hmxnyp5kc0j6jvd8"
     }
   },
-  "射撃耐性無視+1.0": {
+  "射撃耐性無視+2.0": {
     "title": {
-      "translate": "sis.shared.e960"
+      "translate": "sis.shared.4c2f"
     },
     "description": {
       "translate": "sis.shared.2035"
@@ -1874,19 +1571,19 @@
         "type": "puffish_skills:attribute",
         "data": {
           "attribute": "puffish_attributes:ranged_resistance_shred",
-          "value": 1,
-          "operation": "multiply_base"
+          "value": 2,
+          "operation": "addition"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "06yzfbmtp6wagtur"
+      "icon": "fvaertq893pm375f"
     }
   },
-  "体力+1": {
+  "体力+2.0": {
     "title": {
-      "translate": "sis.shared.df77"
+      "translate": "sis.shared.15db"
     },
     "description": {
       "translate": "sis.shared.2035"
@@ -1907,15 +1604,15 @@
       {
         "type": "puffish_skills:attribute",
         "data": {
-          "attribute": "max_health",
-          "value": 2,
+          "attribute": "generic.max_health",
+          "value": 5,
           "operation": "addition"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "d9ytvbgbmdcr3ycc"
+      "icon": "us8bmtqdibxrbtva"
     }
   },
   "吸血+5%": {
@@ -1944,13 +1641,13 @@
         "data": {
           "attribute": "puffish_attributes:life_steal",
           "value": 0.05,
-          "operation": "addition"
+          "operation": "multiply_base"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "f23dw1bs4x56yoeq"
+      "icon": "6zepq1jnjtkwimsd"
     }
   },
   "全耐性無視+1.0": {
@@ -1979,13 +1676,13 @@
         "data": {
           "attribute": "puffish_attributes:resistance_shred",
           "value": 1,
-          "operation": "multiply_base"
+          "operation": "addition"
         }
       }
     ],
     "cost": 4,
     "metadata": {
-      "icon": "1tmb23xzmzuev85e"
+      "icon": "09w2aoca0knhff19"
     }
   },
   "軽減エンチャント無視+1.0": {
@@ -2014,47 +1711,13 @@
         "data": {
           "attribute": "puffish_attributes:protection_shred",
           "value": 1,
-          "operation": "multiply_base"
+          "operation": "addition"
         }
       }
     ],
     "cost": 2,
     "metadata": {
-      "icon": "d8tlxqw08l3srqun"
-    }
-  },
-  "なぎ払いダメージ比率+10%": {
-    "title": {
-      "translate": "sis.shared.163f"
-    },
-    "description": {
-      "translate": "sis.shared.438e"
-    },
-    "icon": {
-      "type": "item",
-      "data": {
-        "item": "minecraft:netherite_sword"
-      }
-    },
-    "frame": {
-      "type": "advancement",
-      "data": {
-        "frame": "task"
-      }
-    },
-    "rewards": [
-      {
-        "type": "puffish_skills:attribute",
-        "data": {
-          "attribute": "minecraft:sweeping_damage_ratio",
-          "value": 0.1,
-          "operation": "addition"
-        }
-      }
-    ],
-    "cost": 1,
-    "metadata": {
-      "icon": "0v0lg6jh84di3wwe"
+      "icon": "awnzn1urj0lvdsog"
     }
   }
 }

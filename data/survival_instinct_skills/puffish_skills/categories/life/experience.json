@@ -1,8 +1,57 @@
 {
 	"experience_per_level": {
-		"type": "expression",
+		"type": "values",
 		"data": {
-			"expression": "min(level ^ 1.432 + 10, 10000)"
+			"values": [
+				100,
+				100,
+				100,
+				100,
+				100,
+				150,
+				150,
+				150,
+				150,
+				150,
+				150,
+				200,
+				200,
+				200,
+				200,
+				200,
+				250,
+				250,
+				250,
+				250,
+				250,
+				250,
+				250,
+				250,
+				500,
+				500,
+				500,
+				500,
+				500,
+				500,
+				500,
+				500,
+				500,
+				500,
+				750,
+				750,
+				750,
+				750,
+				750,
+				1000,
+				1000,
+				1000,
+				1000,
+				1250,
+				1250,
+				1250,
+				1250,
+				1500
+			]
 		}
 	},
 	"sources": [
@@ -10,6 +59,16 @@
 			"type": "puffish_skills:craft_item",
 			"data": {
 				"variables": {
+					"count": {
+						"operations": [
+							{
+								"type": "get_crafted_item_stack"
+							},
+							{
+								"type": "get_count"
+							}
+						]
+					},
 					"is_iron_sword": {
 						"operations": [
 							{
@@ -40,10 +99,62 @@
 				"experience": [
 					{
 						"condition": "is_iron_sword",
-						"expression": "5"
+						"expression": "count * 5"
 					},
 					{
 						"condition": "is_bread",
+						"expression": "count * 3"
+					}
+				]
+			}
+		},
+		{
+			"type": "puffish_skills:eat_food",
+			"data": {
+				"variables": {
+					"is_food": {
+						"operations": [
+							{
+								"type": "get_eaten_item_stack"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"item": "#survival_instinct_skills:custom_foods-advance"
+								}
+							}
+						]
+					}
+				},
+				"experience": [
+					{
+						"condition": "is_food",
+						"expression": "5"
+					}
+				]
+			}
+		},
+		{
+			"type": "puffish_skills:eat_food",
+			"data": {
+				"variables": {
+					"is_food": {
+						"operations": [
+							{
+								"type": "get_eaten_item_stack"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"item": "#survival_instinct_skills:custom_foods-medium"
+								}
+							}
+						]
+					}
+				},
+				"experience": [
+					{
+						"condition": "is_food",
 						"expression": "3"
 					}
 				]
@@ -53,7 +164,7 @@
 			"type": "puffish_skills:eat_food",
 			"data": {
 				"variables": {
-					"is_bread": {
+					"is_food": {
 						"operations": [
 							{
 								"type": "get_eaten_item_stack"
@@ -61,7 +172,7 @@
 							{
 								"type": "puffish_skills:test",
 								"data": {
-									"item": "minecraft:bread"
+									"item": "#survival_instinct_skills:custom_foods-beginner"
 								}
 							}
 						]
@@ -69,8 +180,8 @@
 				},
 				"experience": [
 					{
-						"condition": "is_bread",
-						"expression": "5"
+						"condition": "is_food",
+						"expression": "1"
 					}
 				]
 			}

@@ -1,2594 +1,2222 @@
 {
-	"34jibm2o82e6zcal": {
+	"r35ky1uu0c5r137x": {
 		"definition": "root_覚醒",
 		"x": 0,
 		"y": 0,
 		"root": true
 	},
-	"d1aioxbrlkdt6mvd": {
+	"i78i0tlcn3rue42i": {
 		"definition": "剣技の心得",
 		"x": -64,
 		"y": 0,
 		"root": false
 	},
-	"fsnqqahvx18yke93": {
+	"nmb216uk5zk1coxl": {
 		"definition": "射撃の心得",
 		"x": 0,
-		"y": -73.9008344562721,
+		"y": -64,
 		"root": false
 	},
-	"t26touo6pkqy2lnr": {
+	"6ax1z6zc3tsiar47": {
+		"definition": "錬金術の心得",
+		"x": 0,
+		"y": 64,
+		"root": false
+	},
+	"mokbwzch1mlpbqry": {
 		"definition": "守護の心得",
 		"x": 64,
 		"y": 0,
 		"root": false
 	},
-	"adhdjajlzikvmj9d": {
-		"definition": "錬金術の心得",
+	"j32womiug7362uem": {
+		"definition": "ノックバック強化+0.2",
 		"x": 0,
-		"y": 73.9008344562721,
+		"y": -128,
 		"root": false
 	},
-	"04dtfe7w4yrcd8sf": {
-		"definition": "近接耐性無視+1.0",
-		"x": -67.88225099390857,
-		"y": -67.88225099390857,
+	"te9l63d7lfujwwkh": {
+		"definition": "ノックバック強化+0.2",
+		"x": -55.425625842204056,
+		"y": -224,
 		"root": false
 	},
-	"rj0ihfe0z2gsxfa2": {
-		"definition": "防具強度無視+1.0",
-		"x": 67.88225099390857,
-		"y": -67.88225099390857,
+	"0w21hrnuqskh08u1": {
+		"definition": "ノックバック強化+0.2",
+		"x": 55.425625842204084,
+		"y": -224,
 		"root": false
 	},
-	"ppdxsjwfkxh9ihrb": {
-		"definition": "防御無視+1.0",
-		"x": 67.88225099390857,
-		"y": 67.88225099390857,
+	"gp0r3cg8mje97p3s": {
+		"definition": "ノックバック強化+0.2",
+		"x": -36.95041722813605,
+		"y": -256,
 		"root": false
 	},
-	"h1sxnt2j1mayg6q1": {
-		"definition": "落下軽減+1.0",
-		"x": -67.88225099390857,
-		"y": 67.88225099390857,
+	"t0kp2lb3a45aju52": {
+		"definition": "ノックバック強化+0.2",
+		"x": 36.95041722813605,
+		"y": -256,
 		"root": false
 	},
-	"b0n9dz1uxtkade48": {
-		"definition": "攻撃力+10%",
+	"4x14ewxfrrqklfau": {
+		"definition": "ノックバック強化+0.2",
 		"x": -128,
-		"y": 36.95041722813605,
-		"root": false
-	},
-	"7wwocjfxbp1xmjex": {
-		"definition": "近接攻撃力+10%",
-		"x": -192,
 		"y": 0,
 		"root": false
 	},
-	"nqz9hf6kswdreezf": {
-		"definition": "攻撃ノックバック+10%",
+	"6bgv9vse6zh9otdi": {
+		"definition": "ノックバック強化+0.2",
+		"x": -224,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"9x9gyc1kraj32nly": {
+		"definition": "ノックバック強化+0.2",
+		"x": -224,
+		"y": 55.425625842204084,
+		"root": false
+	},
+	"kpvpo7iuvhryi19a": {
+		"definition": "ノックバック強化+0.2",
 		"x": -256,
 		"y": -36.95041722813605,
 		"root": false
 	},
-	"riqywevmhv15mt04": {
-		"definition": "攻撃ノックバック+10%",
+	"xgd6sobr2v7mks0p": {
+		"definition": "ノックバック強化+0.2",
 		"x": -256,
 		"y": 36.95041722813605,
 		"root": false
 	},
-	"6j525aj8hjms5boc": {
-		"definition": "近接攻撃力+10%",
-		"x": -320,
+	"xp34rxf6fwbbu1p6": {
+		"definition": "体力+2.0",
+		"x": -288,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"4qjsf555cj57sq2s": {
+		"definition": "体力+2.0",
+		"x": -192,
 		"y": 0,
 		"root": false
 	},
-	"qb17c2v7bke9p9he": {
-		"definition": "攻撃ノックバック+10%",
-		"x": -352,
-		"y": -55.425625842204056,
+	"74gwfa94k8ur1vbi": {
+		"definition": "体力+2.0",
+		"x": -224,
+		"y": -18.47520861406801,
 		"root": false
 	},
-	"ul3oe4pi0xmavulf": {
-		"definition": "攻撃ノックバック+10%",
+	"ui15lh5kcitr55au": {
+		"definition": "体力+2.0",
+		"x": -288,
+		"y": 18.47520861406801,
+		"root": false
+	},
+	"h5skbymxi46jx4ev": {
+		"definition": "体力+2.0",
+		"x": -224,
+		"y": 18.475208614068038,
+		"root": false
+	},
+	"s1deppiei5o8202b": {
+		"definition": "体力+2.0",
+		"x": 0,
+		"y": -192,
+		"root": false
+	},
+	"rta6v58oiaab0e4q": {
+		"definition": "体力+2.0",
+		"x": 18.475208614068038,
+		"y": -224,
+		"root": false
+	},
+	"pe9sjpi9wf1foyci": {
+		"definition": "体力+2.0",
+		"x": -18.47520861406801,
+		"y": -224,
+		"root": false
+	},
+	"ywzw65d5hxggzvf4": {
+		"definition": "体力+2.0",
+		"x": -18.475208614068038,
+		"y": -288,
+		"root": false
+	},
+	"0tqcpp5eny44q9m5": {
+		"definition": "体力+2.0",
+		"x": 18.47520861406801,
+		"y": -288,
+		"root": false
+	},
+	"uj0v5xivfjt0drbf": {
+		"definition": "近接攻撃力+20%",
+		"x": -128,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"uhe6jdi33fbiy79c": {
+		"definition": "近接攻撃力+20%",
+		"x": -192,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"5ze62teb2iis9w94": {
+		"definition": "近接攻撃力+20%",
+		"x": -160,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"83s42bicx6ynge12": {
+		"definition": "近接攻撃力+20%",
+		"x": -224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"bfjgptllvtj8ut2o": {
+		"definition": "近接攻撃力+20%",
+		"x": -256,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"c33sh25oyf8c73eq": {
+		"definition": "剣術熟練+20%",
+		"x": -128,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"vf7clpv0dzvl3u0f": {
+		"definition": "剣術熟練+20%",
+		"x": -160,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"f28ur7y9apnqkrgi": {
+		"definition": "剣術熟練+20%",
+		"x": -192,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"itf1e6smcptjlqmd": {
+		"definition": "剣術熟練+20%",
+		"x": -224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"akq2nsggcqtxn66e": {
+		"definition": "剣術熟練+20%",
+		"x": -256,
+		"y": 110.85125168440815,
+		"root": false
+	},
+	"gkcwqftyo5vw10d6": {
+		"definition": "近接耐性無視+2.0",
+		"x": -384,
+		"y": 110.85125168440817,
+		"root": false
+	},
+	"l92did2ouuq2nlh0": {
+		"definition": "近接耐性無視+2.0",
 		"x": -352,
 		"y": 55.425625842204056,
 		"root": false
 	},
-	"fpn7vghw0kir8z6v": {
-		"definition": "攻撃ノックバック+10%",
-		"x": -256,
+	"hh6ut6nte4mg3q71": {
+		"definition": "近接耐性無視+2.0",
+		"x": -320,
 		"y": 0,
 		"root": false
 	},
-	"zxvy3zje3f4qsxaw": {
-		"definition": "攻撃力+10%",
-		"x": -192,
-		"y": 73.9008344562721,
+	"aoaytdcgz4gatvaw": {
+		"definition": "攻撃速度+7.5",
+		"x": -352,
+		"y": -55.425625842204056,
 		"root": false
 	},
-	"gt4uk5elpvpmkes2": {
-		"definition": "攻撃力+10%",
-		"x": -256,
-		"y": 73.9008344562721,
+	"59e88al9l5uu3mcb": {
+		"definition": "攻撃速度+7.5",
+		"x": -384,
+		"y": -110.85125168440814,
 		"root": false
 	},
-	"j9f8btajji9op8qk": {
-		"definition": "攻撃力+10%",
+	"cf7hu6nbncuo1oh4": {
+		"definition": "攻撃速度+7.5",
 		"x": -288,
-		"y": 129.32646029847615,
+		"y": -55.425625842204084,
 		"root": false
 	},
-	"8ir6j3piqh7z74g3": {
-		"definition": "攻撃力+10%",
-		"x": -352,
-		"y": 92.37604307034013,
+	"dq09no0qn2biyi7k": {
+		"definition": "近接耐性無視+2.0",
+		"x": -288,
+		"y": 55.425625842204056,
 		"root": false
 	},
-	"jhku60otbusdpbp2": {
-		"definition": "攻撃力+10%",
-		"x": -352,
-		"y": 166.27687752661222,
-		"root": false
-	},
-	"j7ek72q74mramiug": {
-		"definition": "攻撃力+10%",
-		"x": -416,
-		"y": 129.32646029847615,
-		"root": false
-	},
-	"f6idpndxrga2ik8o": {
-		"definition": "攻撃力+10%",
-		"x": -416,
-		"y": 166.27687752661217,
-		"root": false
-	},
-	"0l9tkclnta5ajlr0": {
-		"definition": "攻撃力+10%",
-		"x": -480,
-		"y": 203.2272947547483,
-		"root": false
-	},
-	"rojjh8a9i6sv7as9": {
-		"definition": "剛剣の理",
-		"x": -640,
-		"y": 221.70250336881628,
-		"root": false
-	},
-	"ecv8cc9z5b50807y": {
-		"definition": "攻撃力+10%",
-		"x": -352,
-		"y": 129.3264602984762,
-		"root": false
-	},
-	"4ml1mv6arni6djj9": {
-		"definition": "近接攻撃力+10%",
+	"8dj8b26z60ekx2fl": {
+		"definition": "攻撃速度+7.5",
 		"x": -384,
 		"y": 0,
 		"root": false
 	},
-	"sktq46fef27qbmvt": {
-		"definition": "近接攻撃力+10%",
-		"x": -416,
-		"y": 64,
-		"root": false
-	},
-	"1ul9k8qgqdnntli8": {
-		"definition": "近接攻撃力+10%",
-		"x": -416,
-		"y": -55.425625842204084,
-		"root": false
-	},
-	"pxxp7o7ylodu1hsy": {
-		"definition": "剣術熟練+10%",
-		"x": -128,
+	"vlqt0sl3m0km91ku": {
+		"definition": "攻撃速度+7.5",
+		"x": -384,
 		"y": -36.95041722813605,
 		"root": false
 	},
-	"r3mk17nx4ybeminu": {
-		"definition": "剣術熟練+10%",
-		"x": -192,
-		"y": -73.9008344562721,
+	"mgzk37qbffs4s3zc": {
+		"definition": "近接耐性無視+2.0",
+		"x": -384,
+		"y": 36.95041722813602,
 		"root": false
 	},
-	"j8gev93ldmf0xl33": {
-		"definition": "剣術熟練+10%",
-		"x": -256,
-		"y": -73.9008344562721,
+	"we0io7ty9qbxomnb": {
+		"definition": "剛剣の理",
+		"x": -480,
+		"y": 92.37604307034013,
 		"root": false
 	},
-	"cj0lr1j2gagczisi": {
-		"definition": "剣術熟練+10%",
-		"x": -288,
-		"y": -129.32646029847618,
-		"root": false
-	},
-	"t7h6cn9mot1qvktt": {
-		"definition": "剣術熟練+10%",
-		"x": -352,
-		"y": -129.32646029847615,
-		"root": false
-	},
-	"vhrtg02l7geflk2p": {
-		"definition": "剣術熟練+10%",
-		"x": -352,
+	"gl8fgzp3s00v8q1s": {
+		"definition": "神速の理",
+		"x": -480,
 		"y": -92.3760430703401,
 		"root": false
 	},
-	"5eafyv1ul7nnjz6k": {
-		"definition": "剣術熟練+10%",
-		"x": -352,
-		"y": -166.2768775266122,
+	"k8cpanxllc62hot1": {
+		"definition": "射撃攻撃力+20%",
+		"x": 36.95041722813605,
+		"y": -128,
 		"root": false
 	},
-	"iwwhazp2sx361shh": {
-		"definition": "剣術熟練+10%",
-		"x": -416,
-		"y": -129.32646029847618,
+	"5i93vpmawma3cd3z": {
+		"definition": "射撃攻撃力+20%",
+		"x": 73.9008344562721,
+		"y": -192,
 		"root": false
 	},
-	"wybjb8pqwh1t4nuw": {
-		"definition": "剣術熟練+10%",
-		"x": -416,
-		"y": -166.27687752661222,
+	"wupgfxoccoz1huco": {
+		"definition": "射撃攻撃力+20%",
+		"x": 92.37604307034012,
+		"y": -160,
 		"root": false
 	},
-	"e4pu0rclx504gjcp": {
-		"definition": "剣術熟練+10%",
-		"x": -480,
-		"y": -203.22729475474824,
+	"1zhvtn16nq42wq7x": {
+		"definition": "射撃攻撃力+20%",
+		"x": 110.85125168440811,
+		"y": -256,
 		"root": false
 	},
-	"r5i3258c3dsb56wa": {
-		"definition": "神速の理",
-		"x": -640,
-		"y": -221.70250336881628,
+	"as3l46jt8hxhraga": {
+		"definition": "射撃攻撃力+20%",
+		"x": 129.32646029847615,
+		"y": -224,
 		"root": false
 	},
-	"entaqf9d8y8ba31n": {
+	"ldkdjvrog6ozqgsg": {
+		"definition": "攻撃速度+7.5",
+		"x": 55.425625842204056,
+		"y": -288,
+		"root": false
+	},
+	"0a3g01ph8on8a7pu": {
+		"definition": "攻撃速度+7.5",
+		"x": 0,
+		"y": -384,
+		"root": false
+	},
+	"ajk01geq2pycv51e": {
+		"definition": "攻撃速度+7.5",
+		"x": 36.95041722813602,
+		"y": -384,
+		"root": false
+	},
+	"0jh4pryr0db9etj3": {
+		"definition": "攻撃速度+7.5",
+		"x": 55.425625842204056,
+		"y": -352,
+		"root": false
+	},
+	"lq6zdu7wq6zcumaz": {
+		"definition": "攻撃速度+7.5",
+		"x": 110.85125168440817,
+		"y": -384,
+		"root": false
+	},
+	"jjvxin6qq4ipu3dh": {
+		"definition": "弾速+5%",
+		"x": 0,
+		"y": -320,
+		"root": false
+	},
+	"1m70gsjztbus7jgr": {
+		"definition": "弾速+5%",
+		"x": -55.425625842204084,
+		"y": -288,
+		"root": false
+	},
+	"zkeh5eq882j6dw5k": {
+		"definition": "弾速+5%",
+		"x": -55.425625842204056,
+		"y": -352,
+		"root": false
+	},
+	"53x14xktcao1peq7": {
+		"definition": "弾速+5%",
+		"x": -36.95041722813605,
+		"y": -384,
+		"root": false
+	},
+	"qm2so33flr5bofm6": {
+		"definition": "弾速+5%",
+		"x": -110.85125168440814,
+		"y": -384,
+		"root": false
+	},
+	"b5e9t7amht0a44z3": {
+		"definition": "射撃耐性無視+2.0",
+		"x": -36.95041722813605,
+		"y": -128,
+		"root": false
+	},
+	"6x6xkrqfj8619628": {
+		"definition": "射撃耐性無視+2.0",
+		"x": -73.9008344562721,
+		"y": -192,
+		"root": false
+	},
+	"39raipwt7ew1uzin": {
+		"definition": "射撃耐性無視+2.0",
+		"x": -92.37604307034012,
+		"y": -160,
+		"root": false
+	},
+	"oviy0pr223vx7cbi": {
+		"definition": "射撃耐性無視+2.0",
+		"x": -110.85125168440814,
+		"y": -256,
+		"root": false
+	},
+	"6hi8lmh1njnwigr8": {
+		"definition": "射撃耐性無視+2.0",
+		"x": -129.32646029847615,
+		"y": -224,
+		"root": false
+	},
+	"rqano4r1zavyy37y": {
+		"definition": "連射の理",
+		"x": 92.37604307034013,
+		"y": -480,
+		"root": false
+	},
+	"wygihkeospmmlbnc": {
+		"definition": "強弓の理",
+		"x": -92.3760430703401,
+		"y": -480,
+		"root": false
+	},
+	"dhndw2yflz4mfxaw": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 0,
+		"y": 128,
+		"root": false
+	},
+	"kncljnm3gmbrka57": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -55.425625842204084,
+		"y": 224,
+		"root": false
+	},
+	"4pqxu0o9bnmpaza0": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 55.425625842204056,
+		"y": 224,
+		"root": false
+	},
+	"ptgzb701iq1jztyq": {
+		"definition": "体力+2.0",
+		"x": 18.47520861406801,
+		"y": 224,
+		"root": false
+	},
+	"k05iqm7apt5228ic": {
+		"definition": "体力+2.0",
+		"x": 0,
+		"y": 192,
+		"root": false
+	},
+	"sc737un3ksl3812u": {
+		"definition": "体力+2.0",
+		"x": -18.475208614068038,
+		"y": 224,
+		"root": false
+	},
+	"zobakaudh3dqgw70": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -36.95041722813605,
+		"y": 256,
+		"root": false
+	},
+	"zg9gnd4ee2pzzxdx": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 36.95041722813605,
+		"y": 256,
+		"root": false
+	},
+	"opgc0oog2suoxk1n": {
+		"definition": "体力+2.0",
+		"x": 18.475208614068038,
+		"y": 288,
+		"root": false
+	},
+	"ky46ymp1x53l7v1c": {
+		"definition": "体力+2.0",
+		"x": -18.47520861406801,
+		"y": 288,
+		"root": false
+	},
+	"kkgm6guhq38zsjaw": {
+		"definition": "ポーション攻撃力+30%",
+		"x": -36.95041722813605,
+		"y": 128,
+		"root": false
+	},
+	"od4blc08athx0xcl": {
+		"definition": "ポーション攻撃力+30%",
+		"x": -73.9008344562721,
+		"y": 192,
+		"root": false
+	},
+	"yawp1yt3htlhymnc": {
+		"definition": "ポーション攻撃力+30%",
+		"x": -92.37604307034012,
+		"y": 160,
+		"root": false
+	},
+	"7wxu6f2x17btgxgx": {
+		"definition": "ポーション攻撃力+30%",
+		"x": -110.85125168440811,
+		"y": 256,
+		"root": false
+	},
+	"f4byf5ckarh1rhw2": {
+		"definition": "ポーション攻撃力+30%",
+		"x": -129.32646029847615,
+		"y": 224,
+		"root": false
+	},
+	"dcfl5z26yyvhc7sh": {
+		"definition": "ポーション耐性+10%",
+		"x": 36.95041722813605,
+		"y": 128,
+		"root": false
+	},
+	"lispmmvpuj420s5v": {
+		"definition": "ポーション耐性+10%",
+		"x": 73.9008344562721,
+		"y": 192,
+		"root": false
+	},
+	"njoy9amylsfm9c3v": {
+		"definition": "ポーション耐性+10%",
+		"x": 92.37604307034012,
+		"y": 160,
+		"root": false
+	},
+	"qguqngzfq519g8kq": {
+		"definition": "ポーション耐性+10%",
+		"x": 110.85125168440814,
+		"y": 256,
+		"root": false
+	},
+	"wwqlpicochyg2bvf": {
+		"definition": "ポーション耐性+10%",
+		"x": 129.32646029847615,
+		"y": 224,
+		"root": false
+	},
+	"du4gqlbpbyj7byw8": {
+		"definition": "攻撃速度+7.5",
+		"x": -55.425625842204056,
+		"y": 288,
+		"root": false
+	},
+	"l4gvmm4n45m46ncm": {
+		"definition": "攻撃速度+7.5",
+		"x": 0,
+		"y": 384,
+		"root": false
+	},
+	"1urira3v3hsz8oid": {
+		"definition": "攻撃速度+7.5",
+		"x": -110.85125168440817,
+		"y": 384,
+		"root": false
+	},
+	"9kx8wwfgn1eeliy5": {
+		"definition": "攻撃速度+7.5",
+		"x": -55.425625842204056,
+		"y": 352,
+		"root": false
+	},
+	"ogwa06tp8355q1kb": {
+		"definition": "攻撃速度+7.5",
+		"x": -36.95041722813602,
+		"y": 384,
+		"root": false
+	},
+	"f3ez660lbo2oj97a": {
+		"definition": "ポーション耐性無視+2.0",
+		"x": 0,
+		"y": 320,
+		"root": false
+	},
+	"l6e3rjk8qika7571": {
+		"definition": "ポーション耐性無視+2.0",
+		"x": 55.425625842204084,
+		"y": 288,
+		"root": false
+	},
+	"xlat30xgc5lqp93i": {
+		"definition": "ポーション耐性無視+2.0",
+		"x": 36.95041722813605,
+		"y": 384,
+		"root": false
+	},
+	"02q0y43l8konxqob": {
+		"definition": "ポーション耐性無視+2.0",
+		"x": 55.425625842204056,
+		"y": 352,
+		"root": false
+	},
+	"5ac6xv8s3pl0hdfs": {
+		"definition": "ポーション耐性無視+2.0",
+		"x": 110.85125168440814,
+		"y": 384,
+		"root": false
+	},
+	"kei4rrcufdlfwcy9": {
+		"definition": "賢者の理",
+		"x": -92.37604307034013,
+		"y": 480,
+		"root": false
+	},
+	"818vvob4dzalb4qt": {
+		"definition": "隠者の理",
+		"x": 92.3760430703401,
+		"y": 480,
+		"root": false
+	},
+	"r2xbf3fos7425426": {
+		"definition": "防御力+2.0",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"uox0jfmcodzkvunn": {
+		"definition": "体力+2.0",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"lpgkv6r74znm15yd": {
+		"definition": "体力+2.0",
+		"x": 224,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"ppow8hfegos20bv1": {
+		"definition": "体力+2.0",
+		"x": 224,
+		"y": 18.47520861406801,
+		"root": false
+	},
+	"wv2ldkdf44jinue7": {
+		"definition": "防御力+2.0",
+		"x": 224,
+		"y": -55.425625842204084,
+		"root": false
+	},
+	"qbl3dimd03o24t4x": {
+		"definition": "防御力+2.0",
+		"x": 224,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"cfo0nu8snlwrejeu": {
+		"definition": "防御力+2.0",
+		"x": 256,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"y89j2n4zj0fsg0s7": {
+		"definition": "防御力+2.0",
+		"x": 256,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"fyorfrwnzunix7kl": {
+		"definition": "体力+2.0",
+		"x": 288,
+		"y": -18.47520861406801,
+		"root": false
+	},
+	"jx1cp891dhclt2po": {
+		"definition": "体力+2.0",
+		"x": 288,
+		"y": 18.475208614068038,
+		"root": false
+	},
+	"l8h68rwsugc2lk2o": {
+		"definition": "ダメージ反射+5%",
+		"x": 128,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"yvcnoywa4b9qkf9p": {
+		"definition": "ダメージ反射+5%",
+		"x": 192,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"ht6ctjva3dt1lc7d": {
+		"definition": "ダメージ反射+5%",
+		"x": 160,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"sn52lradfz73p1rw": {
+		"definition": "ダメージ反射+5%",
+		"x": 256,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"t7tacebrj9r2lqch": {
+		"definition": "ダメージ反射+5%",
+		"x": 224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"73ysaay7421cvhor": {
+		"definition": "耐性+5%",
+		"x": 128,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"1a5gddufalbacyjb": {
+		"definition": "耐性+5%",
+		"x": 192,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"cyokk0nzomikupac": {
+		"definition": "耐性+5%",
+		"x": 160,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"czxuzngnsep17ghh": {
+		"definition": "耐性+5%",
+		"x": 256,
+		"y": -110.85125168440811,
+		"root": false
+	},
+	"tvrfpdtbu0a5owfd": {
+		"definition": "耐性+5%",
+		"x": 224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"9otgv74g7i0pd4xy": {
+		"definition": "全耐性無視+1.0",
+		"x": 288,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"7u8z3jehlu3enkp2": {
+		"definition": "全耐性無視+1.0",
+		"x": 384,
+		"y": -110.85125168440817,
+		"root": false
+	},
+	"l67ds5isb8eamvkf": {
+		"definition": "全耐性無視+1.0",
+		"x": 352,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"v5nczhd00l2872ae": {
+		"definition": "全耐性無視+1.0",
+		"x": 384,
+		"y": -36.95041722813602,
+		"root": false
+	},
+	"1x05i2klpcl5chp0": {
+		"definition": "全耐性無視+1.0",
+		"x": 320,
+		"y": 0,
+		"root": false
+	},
+	"ztw47opfney2b6j9": {
+		"definition": "攻撃速度+7.5",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"1ga7wmank7oopuzd": {
+		"definition": "攻撃速度+7.5",
+		"x": 384,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"ba3lombo6iti1c5z": {
+		"definition": "攻撃速度+7.5",
+		"x": 352,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"t3if81p86ojo82ut": {
+		"definition": "攻撃速度+7.5",
+		"x": 384,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"k4vbfxzd5qwuv08o": {
+		"definition": "攻撃速度+7.5",
+		"x": 288,
+		"y": 55.425625842204084,
+		"root": false
+	},
+	"obsoxe8afmr2dhtz": {
+		"definition": "再生の理",
+		"x": 480,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"krdr240kfj3ax6xk": {
+		"definition": "不壊の理",
+		"x": 480,
+		"y": 92.3760430703401,
+		"root": false
+	},
+	"2morrfwukay92q0s": {
+		"definition": "射撃耐性+2.0",
+		"x": 90.50966799187809,
+		"y": -90.50966799187809,
+		"root": false
+	},
+	"v4c7tb3hxpd61rpa": {
+		"definition": "吸血+5%",
+		"x": 90.50966799187809,
+		"y": 90.50966799187809,
+		"root": false
+	},
+	"h7wprx4wku3l3f4u": {
+		"definition": "落下軽減+1.0",
+		"x": -90.50966799187809,
+		"y": 90.50966799187809,
+		"root": false
+	},
+	"pog72zt3u3fr8g50": {
+		"definition": "近接耐性+10%",
+		"x": -90.50966799187809,
+		"y": -90.50966799187809,
+		"root": false
+	},
+	"u1wj2rg5a7xj3agl": {
+		"definition": "落下軽減+1.0",
+		"x": -45.254833995939045,
+		"y": 90.50966799187809,
+		"root": false
+	},
+	"v184e6axqedc4afj": {
+		"definition": "落下軽減+1.0",
+		"x": -90.50966799187809,
+		"y": 45.254833995939045,
+		"root": false
+	},
+	"deyqxuwflaj83bbv": {
+		"definition": "落下軽減+1.0",
+		"x": -113.13708498984761,
+		"y": 67.88225099390857,
+		"root": false
+	},
+	"37fu6bd78gznumd6": {
+		"definition": "落下軽減+1.0",
+		"x": -67.88225099390857,
+		"y": 113.13708498984761,
+		"root": false
+	},
+	"i8nybkqiy70nqj68": {
+		"definition": "落下軽減+1.0",
+		"x": -113.13708498984761,
+		"y": 113.13708498984761,
+		"root": false
+	},
+	"olts805c9yq5or7p": {
+		"definition": "落下軽減+1.0",
+		"x": -135.76450198781714,
+		"y": 135.76450198781714,
+		"root": false
+	},
+	"6bldfuq7vyh0f0xb": {
+		"definition": "落下軽減+1.0",
+		"x": -181.01933598375618,
+		"y": 135.76450198781714,
+		"root": false
+	},
+	"mn9w8xbm9oaqw2uo": {
+		"definition": "落下軽減+1.0",
+		"x": -135.76450198781714,
+		"y": 181.01933598375618,
+		"root": false
+	},
+	"59hhcws1fdqckq7s": {
+		"definition": "落下軽減+1.0",
+		"x": -181.01933598375618,
+		"y": 181.01933598375618,
+		"root": false
+	},
+	"z5lt04qd9xbdximr": {
+		"definition": "防御無視+2.0",
+		"x": -67.88225099390857,
+		"y": 67.88225099390857,
+		"root": false
+	},
+	"i6eys60bb4nlzno4": {
+		"definition": "防御無視+2.0",
+		"x": -45.254833995939045,
+		"y": 45.254833995939045,
+		"root": false
+	},
+	"lx1xl86bjl4gmjki": {
+		"definition": "防御無視+2.0",
+		"x": 45.254833995939045,
+		"y": -45.254833995939045,
+		"root": false
+	},
+	"cpu2jdka5u5090yg": {
+		"definition": "防御無視+2.0",
+		"x": 67.88225099390857,
+		"y": -67.88225099390857,
+		"root": false
+	},
+	"8re728s5jwrkhy3h": {
+		"definition": "射撃耐性+2.0",
+		"x": 90.50966799187809,
+		"y": -45.254833995939045,
+		"root": false
+	},
+	"0l76mwoq3qjtvp7n": {
+		"definition": "射撃耐性+2.0",
+		"x": 45.254833995939045,
+		"y": -90.50966799187809,
+		"root": false
+	},
+	"axzlgxrpfxd4syct": {
+		"definition": "射撃耐性+2.0",
+		"x": 67.88225099390857,
+		"y": -113.13708498984761,
+		"root": false
+	},
+	"prmzuf3z0f2f6gvq": {
+		"definition": "射撃耐性+2.0",
+		"x": 113.13708498984761,
+		"y": -67.88225099390857,
+		"root": false
+	},
+	"zufl51aj3i52ndsm": {
+		"definition": "射撃耐性+2.0",
+		"x": 113.13708498984761,
+		"y": -113.13708498984761,
+		"root": false
+	},
+	"wbxj0oo3k1m0dvq6": {
+		"definition": "射撃耐性+2.0",
+		"x": 135.76450198781714,
+		"y": -135.76450198781714,
+		"root": false
+	},
+	"tdgq9e5bnlnrqmsp": {
+		"definition": "射撃耐性+2.0",
+		"x": 135.76450198781714,
+		"y": -181.01933598375618,
+		"root": false
+	},
+	"xc70vr6geguoiank": {
+		"definition": "射撃耐性+2.0",
+		"x": 181.01933598375618,
+		"y": -135.76450198781714,
+		"root": false
+	},
+	"0bw93pqf8cc6cxtp": {
+		"definition": "射撃耐性+2.0",
+		"x": 181.01933598375618,
+		"y": -181.01933598375618,
+		"root": false
+	},
+	"uyzxib6rmdtdera4": {
+		"definition": "防具強度無視+2.0",
+		"x": -45.254833995939045,
+		"y": -45.254833995939045,
+		"root": false
+	},
+	"0ty17zibhuxf3l76": {
+		"definition": "防具強度無視+2.0",
+		"x": -67.88225099390857,
+		"y": -67.88225099390857,
+		"root": false
+	},
+	"8twk8ia9eiu5hzvc": {
+		"definition": "近接耐性+10%",
+		"x": -90.50966799187809,
+		"y": -45.254833995939045,
+		"root": false
+	},
+	"as6dzl9v5o8jcjo0": {
+		"definition": "近接耐性+10%",
+		"x": -45.254833995939045,
+		"y": -90.50966799187809,
+		"root": false
+	},
+	"6lfkqx8bkzwm2xs9": {
+		"definition": "近接耐性+10%",
+		"x": -67.88225099390857,
+		"y": -113.13708498984761,
+		"root": false
+	},
+	"8csfsg3tqshs96b0": {
+		"definition": "近接耐性+10%",
+		"x": -113.13708498984761,
+		"y": -67.88225099390857,
+		"root": false
+	},
+	"g6wh7b8gcwnylmwd": {
+		"definition": "近接耐性+10%",
+		"x": -113.13708498984761,
+		"y": -113.13708498984761,
+		"root": false
+	},
+	"mpsd7uiyd3u7c0mo": {
+		"definition": "近接耐性+10%",
+		"x": -135.76450198781714,
+		"y": -135.76450198781714,
+		"root": false
+	},
+	"0rmqvofyrkew09mm": {
+		"definition": "近接耐性+10%",
+		"x": -181.01933598375618,
+		"y": -135.76450198781714,
+		"root": false
+	},
+	"as2snp47hsvphg37": {
+		"definition": "近接耐性+10%",
+		"x": -181.01933598375618,
+		"y": -181.01933598375618,
+		"root": false
+	},
+	"okumhzgcy9k1mmfz": {
+		"definition": "近接耐性+10%",
+		"x": -135.76450198781714,
+		"y": -181.01933598375618,
+		"root": false
+	},
+	"2igsiy8r2zvv9k68": {
+		"definition": "防具強度無視+2.0",
+		"x": 67.88225099390857,
+		"y": 67.88225099390857,
+		"root": false
+	},
+	"r61idzulotkrcjs4": {
+		"definition": "防具強度無視+2.0",
+		"x": 45.254833995939045,
+		"y": 45.254833995939045,
+		"root": false
+	},
+	"4xxykqpyc10e63wj": {
+		"definition": "吸血+5%",
+		"x": 45.254833995939045,
+		"y": 90.50966799187809,
+		"root": false
+	},
+	"io52f4smdnxnwnrr": {
+		"definition": "吸血+5%",
+		"x": 90.50966799187809,
+		"y": 45.254833995939045,
+		"root": false
+	},
+	"kk6jmo5iy04fwnkh": {
+		"definition": "吸血+5%",
+		"x": 113.13708498984761,
+		"y": 67.88225099390857,
+		"root": false
+	},
+	"0aprrznu5epw06d1": {
+		"definition": "吸血+5%",
+		"x": 67.88225099390857,
+		"y": 113.13708498984761,
+		"root": false
+	},
+	"8qk1qvq9322gkl6u": {
+		"definition": "吸血+5%",
+		"x": 113.13708498984761,
+		"y": 113.13708498984761,
+		"root": false
+	},
+	"tk6gtryi163ofixs": {
+		"definition": "吸血+5%",
+		"x": 135.76450198781714,
+		"y": 135.76450198781714,
+		"root": false
+	},
+	"v2jujw6mj34fn50d": {
+		"definition": "吸血+5%",
+		"x": 135.76450198781714,
+		"y": 181.01933598375618,
+		"root": false
+	},
+	"t3xm2rpxwo0v3no2": {
+		"definition": "吸血+5%",
+		"x": 181.01933598375618,
+		"y": 135.76450198781714,
+		"root": false
+	},
+	"12nh1byfcpit9ax7": {
+		"definition": "吸血+5%",
+		"x": 181.01933598375618,
+		"y": 181.01933598375618,
+		"root": false
+	},
+	"elsf1i0n3vcp2z97": {
+		"definition": "三叉槍熟練+20%",
+		"x": 226.27416997969522,
+		"y": -226.27416997969522,
+		"root": false
+	},
+	"0dpqhp5lhtefk2ro": {
+		"definition": "三叉槍熟練+20%",
+		"x": 226.27416997969522,
+		"y": -271.5290039756343,
+		"root": false
+	},
+	"m78vmu5453n4vr15": {
+		"definition": "三叉槍熟練+20%",
+		"x": 271.5290039756343,
+		"y": -226.27416997969522,
+		"root": false
+	},
+	"eqjq420dfimfvosg": {
+		"definition": "三叉槍熟練+20%",
+		"x": 316.7838379715733,
+		"y": -271.5290039756343,
+		"root": false
+	},
+	"ktr8xir5u2ghirai": {
+		"definition": "三叉槍熟練+20%",
+		"x": 316.7838379715733,
+		"y": -316.7838379715733,
+		"root": false
+	},
+	"5gbizbvskpl3mno2": {
+		"definition": "三叉槍熟練+20%",
+		"x": 271.5290039756343,
+		"y": -316.7838379715733,
+		"root": false
+	},
+	"3ofthxwo438p6ey4": {
+		"definition": "三叉槍熟練+20%",
+		"x": 181.01933598375618,
+		"y": -271.5290039756343,
+		"root": false
+	},
+	"af72ip3z4fe1x0jb": {
+		"definition": "三叉槍熟練+20%",
+		"x": 271.5290039756343,
+		"y": -181.01933598375618,
+		"root": false
+	},
+	"9gm2fg4jo16srdl6": {
+		"definition": "三叉槍熟練+20%",
+		"x": 226.27416997969522,
+		"y": -181.01933598375618,
+		"root": false
+	},
+	"frbv6wpdbyoy7xqu": {
+		"definition": "三叉槍熟練+20%",
+		"x": 181.01933598375618,
+		"y": -226.27416997969522,
+		"root": false
+	},
+	"kj4cj113v2y9o0zs": {
+		"definition": "斧術熟練+20%",
+		"x": -226.27416997969522,
+		"y": -181.01933598375618,
+		"root": false
+	},
+	"ktmc2faqh2wmlcgv": {
+		"definition": "斧術熟練+20%",
+		"x": -181.01933598375618,
+		"y": -226.27416997969522,
+		"root": false
+	},
+	"4guhm9vu11jwqc1v": {
+		"definition": "斧術熟練+20%",
+		"x": -226.27416997969522,
+		"y": -226.27416997969522,
+		"root": false
+	},
+	"eejoh4o9ineqbgir": {
+		"definition": "斧術熟練+20%",
+		"x": -271.5290039756343,
+		"y": -181.01933598375618,
+		"root": false
+	},
+	"6fc4f9tuj4568fsr": {
+		"definition": "斧術熟練+20%",
+		"x": -181.01933598375618,
+		"y": -271.5290039756343,
+		"root": false
+	},
+	"kweb5nbi95zrb9sh": {
+		"definition": "斧術熟練+20%",
+		"x": -226.27416997969522,
+		"y": -271.5290039756343,
+		"root": false
+	},
+	"q8fjp985c95a3uzm": {
+		"definition": "斧術熟練+20%",
+		"x": -271.5290039756343,
+		"y": -226.27416997969522,
+		"root": false
+	},
+	"jbguw00e7og008iz": {
+		"definition": "斧術熟練+20%",
+		"x": -316.7838379715733,
+		"y": -271.5290039756343,
+		"root": false
+	},
+	"bmmre9pwc8sn6prh": {
+		"definition": "斧術熟練+20%",
+		"x": -271.5290039756343,
+		"y": -316.7838379715733,
+		"root": false
+	},
+	"cpw63k5wpv99mfx8": {
+		"definition": "斧術熟練+20%",
+		"x": -316.7838379715733,
+		"y": -316.7838379715733,
+		"root": false
+	},
+	"sjn2wiveufcja00m": {
+		"definition": "防具強度無視+2.0",
+		"x": -203.6467529817257,
+		"y": -203.6467529817257,
+		"root": false
+	},
+	"gci2f391bituhfx5": {
+		"definition": "防御無視+2.0",
+		"x": 203.6467529817257,
+		"y": -203.6467529817257,
+		"root": false
+	},
+	"x7qz9q3gjg5zz3t8": {
+		"definition": "防御無視+2.0",
+		"x": -181.01933598375618,
+		"y": 226.27416997969522,
+		"root": false
+	},
+	"rrqybsftb84cx9i7": {
+		"definition": "防御無視+2.0",
+		"x": -226.27416997969522,
+		"y": 181.01933598375618,
+		"root": false
+	},
+	"qim238nkbqcvhqsb": {
+		"definition": "防御無視+2.0",
+		"x": -181.01933598375618,
+		"y": 271.5290039756343,
+		"root": false
+	},
+	"0r3l6vp1t7jt643e": {
+		"definition": "防具強度無視+2.0",
+		"x": -226.27416997969522,
+		"y": 271.5290039756343,
+		"root": false
+	},
+	"zriiy3rdmpjl2jqp": {
+		"definition": "防御無視+2.0",
+		"x": -271.5290039756343,
+		"y": 181.01933598375618,
+		"root": false
+	},
+	"dydczvneabq6c62p": {
+		"definition": "防具強度無視+2.0",
+		"x": -271.5290039756343,
+		"y": 226.27416997969522,
+		"root": false
+	},
+	"epqsq0bhn8dkoblw": {
+		"definition": "防具強度無視+2.0",
+		"x": -316.7838379715733,
+		"y": 271.5290039756343,
+		"root": false
+	},
+	"cpp1s7fapg41o3qu": {
+		"definition": "防具強度無視+2.0",
+		"x": -316.7838379715733,
+		"y": 316.7838379715733,
+		"root": false
+	},
+	"pqsstu9xhiq4o056": {
+		"definition": "防具強度無視+2.0",
+		"x": -271.5290039756343,
+		"y": 316.7838379715733,
+		"root": false
+	},
+	"2p2vuxq0c5kn82q3": {
+		"definition": "防御無視+2.0",
+		"x": -226.27416997969522,
+		"y": 226.27416997969522,
+		"root": false
+	},
+	"bc0z4bw0kjzjwme8": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 181.01933598375618,
+		"y": 226.27416997969522,
+		"root": false
+	},
+	"17t98z4s35l44lhj": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 226.27416997969522,
+		"y": 181.01933598375618,
+		"root": false
+	},
+	"zxccg27sm3qd5s9p": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 226.27416997969522,
+		"y": 226.27416997969522,
+		"root": false
+	},
+	"mpobnyyk8dmb72xm": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 226.27416997969522,
+		"y": 271.5290039756343,
+		"root": false
+	},
+	"nluwvr144dcheqhj": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 181.01933598375618,
+		"y": 271.5290039756343,
+		"root": false
+	},
+	"0pb0fy7qpy6rvpov": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 271.5290039756343,
+		"y": 226.27416997969522,
+		"root": false
+	},
+	"9alv6h0asz8ijpum": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 271.5290039756343,
+		"y": 181.01933598375618,
+		"root": false
+	},
+	"97x580c4dvnqx6yx": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 316.7838379715733,
+		"y": 271.5290039756343,
+		"root": false
+	},
+	"l7at36sm29xqi8xs": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 271.5290039756343,
+		"y": 316.7838379715733,
+		"root": false
+	},
+	"t4khcsa9vrzwo1zx": {
+		"definition": "使役獣攻撃力+10%",
+		"x": 316.7838379715733,
+		"y": 316.7838379715733,
+		"root": false
+	},
+	"vkbezlwuvhoiwf59": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -316.7838379715733,
+		"y": 226.27416997969522,
+		"root": false
+	},
+	"oo7q9p80ocba9h3k": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -226.27416997969522,
+		"y": 316.7838379715733,
+		"root": false
+	},
+	"reseolt67v3kiwxg": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -271.5290039756343,
+		"y": 271.5290039756343,
+		"root": false
+	},
+	"gvs9x4r01t5rhg2m": {
+		"definition": "全耐性無視+1.0",
+		"x": 271.5290039756343,
+		"y": 271.5290039756343,
+		"root": false
+	},
+	"7k7vg2nzmxom57r4": {
+		"definition": "全耐性無視+1.0",
+		"x": 226.27416997969522,
+		"y": 316.7838379715733,
+		"root": false
+	},
+	"3076cxdzschse36g": {
+		"definition": "全耐性無視+1.0",
+		"x": 316.7838379715733,
+		"y": 226.27416997969522,
+		"root": false
+	},
+	"rhwkrw9grn8glazp": {
+		"definition": "全耐性無視+1.0",
+		"x": -226.27416997969522,
+		"y": -316.7838379715733,
+		"root": false
+	},
+	"p846s26x97e5cy7d": {
+		"definition": "全耐性無視+1.0",
+		"x": -271.5290039756343,
+		"y": -271.5290039756343,
+		"root": false
+	},
+	"m9xz2h34saty90ay": {
+		"definition": "全耐性無視+1.0",
+		"x": -316.7838379715733,
+		"y": -226.27416997969522,
+		"root": false
+	},
+	"ezt5ip66dopf2qks": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 271.5290039756343,
+		"y": -271.5290039756343,
+		"root": false
+	},
+	"izyrjgy9kmtaf6pp": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 226.27416997969522,
+		"y": -316.7838379715733,
+		"root": false
+	},
+	"wmsvlt25l6kg8qm7": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 316.7838379715733,
+		"y": -226.27416997969522,
+		"root": false
+	},
+	"ng028gc343jjtgt2": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -203.6467529817257,
+		"y": 203.6467529817257,
+		"root": false
+	},
+	"rxmds2ehugwwv8cg": {
+		"definition": "全耐性無視+1.0",
+		"x": 203.6467529817257,
+		"y": 203.6467529817257,
+		"root": false
+	},
+	"trvhubsnhes90amk": {
 		"definition": "剣神の領域",
 		"x": -640,
 		"y": 0,
 		"root": false
 	},
-	"c98uwg21envpz394": {
-		"definition": "ノックバック耐性+10%",
+	"c3kp1hchaply0yyu": {
+		"definition": "剣術熟練+20%",
 		"x": -640,
-		"y": 73.90083445627204,
+		"y": 73.9008344562721,
 		"root": false
 	},
-	"na6a4sy1ldpipe2t": {
-		"definition": "ノックバック耐性+10%",
-		"x": -640,
-		"y": 147.8016689125442,
-		"root": false
-	},
-	"0bstg0ulkh9ebjl6": {
-		"definition": "ノックバック耐性+10%",
-		"x": -672,
-		"y": 92.37604307034007,
-		"root": false
-	},
-	"3p03tzope8ppd4om": {
-		"definition": "ノックバック耐性+10%",
-		"x": -608,
-		"y": 92.37604307034007,
-		"root": false
-	},
-	"xes6bp1p51w42f3z": {
-		"definition": "ノックバック耐性+10%",
-		"x": -640,
-		"y": 110.85125168440806,
-		"root": false
-	},
-	"eeo6qrq094satw3b": {
-		"definition": "なぎ払いダメージ比率+10%",
-		"x": -640,
-		"y": -73.90083445627215,
-		"root": false
-	},
-	"1j3s9d2ygq6snhn8": {
-		"definition": "なぎ払いダメージ比率+10%",
-		"x": -640,
-		"y": -110.85125168440823,
-		"root": false
-	},
-	"i2brcorojoehkis3": {
-		"definition": "なぎ払いダメージ比率+10%",
-		"x": -640,
-		"y": -147.80166891254422,
-		"root": false
-	},
-	"sis40qvp6r128vf6": {
-		"definition": "なぎ払いダメージ比率+10%",
-		"x": -672,
-		"y": -92.37604307034019,
-		"root": false
-	},
-	"wq5nwckzcdwkf47g": {
-		"definition": "なぎ払いダメージ比率+10%",
-		"x": -608,
-		"y": -92.37604307034019,
-		"root": false
-	},
-	"m6hw93ju2r7vgzh5": {
-		"definition": "攻撃速度+5%",
-		"x": -640,
-		"y": 36.95041722813602,
-		"root": false
-	},
-	"zk11wz41tc5aag1y": {
-		"definition": "攻撃速度+5%",
-		"x": -672,
-		"y": 18.475208614068038,
-		"root": false
-	},
-	"uyep8ptsqqe4dqle": {
-		"definition": "攻撃速度+5%",
-		"x": -672,
-		"y": -18.47520861406798,
-		"root": false
-	},
-	"szi0pwi4jnm5x302": {
-		"definition": "攻撃速度+5%",
-		"x": -640,
+	"sw3wzodnpfj1y0r0": {
+		"definition": "剣術熟練+20%",
+		"x": -576,
 		"y": -36.950417228136075,
 		"root": false
 	},
-	"i991687lobh3ln08": {
-		"definition": "攻撃速度+5%",
-		"x": -608,
-		"y": -18.475208614068038,
-		"root": false
-	},
-	"z5ara6qsrt2mp5od": {
-		"definition": "攻撃速度+5%",
-		"x": -608,
-		"y": 18.475208614068038,
-		"root": false
-	},
-	"q1tnu0k2mbbmyxa5": {
-		"definition": "剣術熟練+10%",
-		"x": -768,
-		"y": 0,
-		"root": false
-	},
-	"472zlkptftghftab": {
-		"definition": "攻撃速度+5%",
-		"x": -736,
-		"y": -18.475208614068094,
-		"root": false
-	},
-	"c1zg81rauwjkdvon": {
-		"definition": "攻撃速度+5%",
-		"x": -544,
-		"y": 18.475208614068038,
-		"root": false
-	},
-	"upmx3x0a0iffw472": {
-		"definition": "剣術熟練+10%",
-		"x": -512,
-		"y": 0,
-		"root": false
-	},
-	"ierp6iulcupzan8n": {
-		"definition": "攻撃速度+5%",
-		"x": -736,
-		"y": 18.475208614067924,
-		"root": false
-	},
-	"vhr8rqk1izpzxvou": {
-		"definition": "攻撃速度+5%",
-		"x": -544,
-		"y": -18.475208614068038,
-		"root": false
-	},
-	"ryimlpwdl63tfu7g": {
-		"definition": "剣術熟練+10%",
+	"5hcucqo2c86vlf6u": {
+		"definition": "剣術熟練+20%",
 		"x": -704,
-		"y": 73.90083445627204,
+		"y": -36.95041722813602,
 		"root": false
 	},
-	"5uvw8wzhz5yi3zo0": {
-		"definition": "剣術熟練+10%",
-		"x": -736,
-		"y": 55.425625842204,
-		"root": false
-	},
-	"ugfdkxlozd7xfb59": {
-		"definition": "剣術熟練+10%",
-		"x": -576,
-		"y": -73.90083445627215,
-		"root": false
-	},
-	"2br6fnj41g0263g8": {
-		"definition": "剣術熟練+10%",
-		"x": -544,
-		"y": -55.42562584220411,
-		"root": false
-	},
-	"im9x4ngw9ucp2gpt": {
-		"definition": "剣術熟練+10%",
-		"x": -576,
-		"y": 73.90083445627204,
-		"root": false
-	},
-	"gvw69rd6hxc2wllo": {
-		"definition": "剣術熟練+10%",
-		"x": -544,
-		"y": 55.42562584220411,
-		"root": false
-	},
-	"q92t7xq6vtm3cp97": {
-		"definition": "剣術熟練+10%",
-		"x": -736,
-		"y": -55.42562584220411,
-		"root": false
-	},
-	"6ih9xkcd673z5291": {
-		"definition": "剣術熟練+10%",
+	"qdarlxuaii7zj452": {
+		"definition": "近接攻撃力+20%",
 		"x": -704,
-		"y": -73.90083445627215,
+		"y": 36.950417228136075,
 		"root": false
 	},
-	"eaiuhqtjazyrw0fz": {
-		"definition": "近接攻撃力+10%",
-		"x": -672,
-		"y": 166.27687752661217,
-		"root": false
-	},
-	"vkc8la988zhmiv0z": {
-		"definition": "近接攻撃力+10%",
-		"x": -704,
-		"y": 147.8016689125442,
-		"root": false
-	},
-	"cs9crshanrnt560h": {
-		"definition": "近接攻撃力+10%",
-		"x": -736,
-		"y": 129.32646029847615,
-		"root": false
-	},
-	"7ms7a3ufv90bf35c": {
-		"definition": "近接攻撃力+10%",
-		"x": -768,
-		"y": 110.85125168440811,
-		"root": false
-	},
-	"7wvzyzc4g51ug8fq": {
-		"definition": "近接攻撃力+10%",
-		"x": -800,
-		"y": 92.37604307034007,
-		"root": false
-	},
-	"v3uf6ab73in1e2ao": {
-		"definition": "近接攻撃力+10%",
-		"x": -800,
-		"y": 55.425625842204,
-		"root": false
-	},
-	"c5z66x7b2ljyckyt": {
-		"definition": "近接攻撃力+10%",
-		"x": -800,
-		"y": 18.475208614068038,
-		"root": false
-	},
-	"xkmeybdjh2w649rw": {
-		"definition": "近接攻撃力+10%",
-		"x": -800,
-		"y": -18.475208614068038,
-		"root": false
-	},
-	"atrl32ksati922bo": {
-		"definition": "近接攻撃力+10%",
-		"x": -800,
-		"y": -55.42562584220411,
-		"root": false
-	},
-	"tyf0ymg1igv7kz23": {
-		"definition": "近接攻撃力+10%",
-		"x": -800,
-		"y": -92.37604307034013,
-		"root": false
-	},
-	"dhp0h7g6omtu0eue": {
-		"definition": "近接攻撃力+10%",
-		"x": -672,
-		"y": -166.27687752661222,
-		"root": false
-	},
-	"neytf2pko5uplwgu": {
-		"definition": "近接攻撃力+10%",
-		"x": -704,
-		"y": -147.8016689125442,
-		"root": false
-	},
-	"b49qqf6zheo8pg2v": {
-		"definition": "近接攻撃力+10%",
-		"x": -736,
-		"y": -129.32646029847615,
-		"root": false
-	},
-	"05wzryt6ihqjotxg": {
-		"definition": "近接攻撃力+10%",
-		"x": -768,
-		"y": -110.85125168440811,
-		"root": false
-	},
-	"34m6n2ufpy32nyyy": {
-		"definition": "近接攻撃力+10%",
+	"10ssa84umhgnotn9": {
+		"definition": "近接攻撃力+20%",
 		"x": -640,
-		"y": -184.75208614068023,
+		"y": -73.9008344562721,
 		"root": false
 	},
-	"a7rt8uykvyms4lr9": {
-		"definition": "全耐性無視+1.0",
-		"x": -640,
-		"y": 184.7520861406802,
-		"root": false
-	},
-	"enblc7njcex2hts3": {
-		"definition": "全耐性無視+1.0",
-		"x": -608,
-		"y": 166.27687752661217,
-		"root": false
-	},
-	"2a002jgppyunp1pu": {
-		"definition": "全耐性無視+1.0",
+	"dersaz8kg21ogvol": {
+		"definition": "近接攻撃力+20%",
 		"x": -576,
-		"y": 147.8016689125442,
-		"root": false
-	},
-	"gf9yzfye8owv4qj7": {
-		"definition": "全耐性無視+1.0",
-		"x": -544,
-		"y": 129.32646029847615,
-		"root": false
-	},
-	"k642ib815mk1x0js": {
-		"definition": "全耐性無視+1.0",
-		"x": -512,
-		"y": 110.85125168440811,
-		"root": false
-	},
-	"vfwxmmbg8tt4fymi": {
-		"definition": "全耐性無視+1.0",
-		"x": -480,
-		"y": 92.37604307034013,
-		"root": false
-	},
-	"6i695xnw4awdiw4d": {
-		"definition": "全耐性無視+1.0",
-		"x": -480,
-		"y": 55.42562584220411,
-		"root": false
-	},
-	"z80904kj0xeew4vi": {
-		"definition": "全耐性無視+1.0",
-		"x": -480,
-		"y": 18.475208614068038,
-		"root": false
-	},
-	"sjhf6eese66dhpth": {
-		"definition": "全耐性無視+1.0",
-		"x": -480,
-		"y": -18.475208614068038,
-		"root": false
-	},
-	"y77l02qxvoy7j027": {
-		"definition": "全耐性無視+1.0",
-		"x": -480,
-		"y": -55.425625842204056,
-		"root": false
-	},
-	"5j0po37vv5bb9uff": {
-		"definition": "全耐性無視+1.0",
-		"x": -480,
-		"y": -92.3760430703401,
-		"root": false
-	},
-	"6rlwdule2b8edex8": {
-		"definition": "全耐性無視+1.0",
-		"x": -512,
-		"y": -110.85125168440814,
-		"root": false
-	},
-	"oua470sh9cp8i6ug": {
-		"definition": "全耐性無視+1.0",
-		"x": -544,
-		"y": -129.32646029847618,
-		"root": false
-	},
-	"8ik7jg8fskjng82l": {
-		"definition": "全耐性無視+1.0",
-		"x": -576,
-		"y": -147.80166891254422,
-		"root": false
-	},
-	"q1liciz6b5d6bj7k": {
-		"definition": "全耐性無視+1.0",
-		"x": -608,
-		"y": -166.2768775266122,
-		"root": false
-	},
-	"lj39mhbh1w9g3uqn": {
-		"definition": "射撃攻撃力+5%",
-		"x": -36.95041722813605,
-		"y": -128,
-		"root": false
-	},
-	"0jafbkwu484uui64": {
-		"definition": "射撃攻撃力+5%",
-		"x": -73.9008344562721,
-		"y": -192,
-		"root": false
-	},
-	"tbswvkn1bmc9cscb": {
-		"definition": "射撃攻撃力+5%",
-		"x": -73.9008344562721,
-		"y": -256,
-		"root": false
-	},
-	"4avifb9pk7h5hum8": {
-		"definition": "射撃攻撃力+5%",
-		"x": -129.32646029847618,
-		"y": -288,
-		"root": false
-	},
-	"25p3ti91y57bpf9e": {
-		"definition": "射撃攻撃力+5%",
-		"x": -166.2768775266122,
-		"y": -352,
-		"root": false
-	},
-	"wefg89faaapd920i": {
-		"definition": "射撃攻撃力+5%",
-		"x": -129.32646029847615,
-		"y": -352,
-		"root": false
-	},
-	"z4jhtf4s1290u80m": {
-		"definition": "射撃攻撃力+5%",
-		"x": -92.3760430703401,
-		"y": -352,
-		"root": false
-	},
-	"ixuo7f7hgmx8potw": {
-		"definition": "射撃攻撃力+5%",
-		"x": -166.27687752661222,
-		"y": -416,
-		"root": false
-	},
-	"puxt36fplkfacen0": {
-		"definition": "射撃攻撃力+5%",
-		"x": -129.32646029847618,
-		"y": -416,
-		"root": false
-	},
-	"asbii5jzaposve4h": {
-		"definition": "射撃攻撃力+5%",
-		"x": -192,
-		"y": -480.35542396576864,
-		"root": false
-	},
-	"p1yvax80vxyv4hoe": {
-		"definition": "強弓の理",
-		"x": -224,
-		"y": -646.6323014923807,
-		"root": false
-	},
-	"9nhhz1rrfh4nu10n": {
-		"definition": "射撃耐性+10%",
-		"x": 0,
-		"y": -192,
-		"root": false
-	},
-	"0a3bnu68zpu31gpz": {
-		"definition": "射撃耐性無視+1.0",
-		"x": -36.95041722813605,
-		"y": -256,
-		"root": false
-	},
-	"suuaxbn97akchuzw": {
-		"definition": "射撃耐性無視+1.0",
-		"x": 0,
-		"y": -256,
-		"root": false
-	},
-	"vxknhsz3ythybf5o": {
-		"definition": "射撃耐性無視+1.0",
-		"x": 36.95041722813605,
-		"y": -256,
-		"root": false
-	},
-	"0ehvfwkium5w0gba": {
-		"definition": "射撃耐性+10%",
-		"x": 0,
-		"y": -320,
-		"root": false
-	},
-	"wdlnybe2k0runaqo": {
-		"definition": "射撃耐性無視+1.0",
-		"x": -55.425625842204056,
-		"y": -352,
-		"root": false
-	},
-	"f2eb3yzmesd3j6eg": {
-		"definition": "射撃耐性無視+1.0",
-		"x": 55.425625842204056,
-		"y": -352,
-		"root": false
-	},
-	"7j3lz201yzyfdijt": {
-		"definition": "射撃耐性+10%",
-		"x": -55.425625842204084,
-		"y": -416,
-		"root": false
-	},
-	"dkbnyhcse3x26248": {
-		"definition": "射撃耐性+10%",
-		"x": 0,
-		"y": -384,
-		"root": false
-	},
-	"q3w7hbwb4fa1sal1": {
-		"definition": "射撃耐性+10%",
-		"x": 55.425625842204056,
-		"y": -416,
-		"root": false
-	},
-	"e9k4ujhux9lmy1g2": {
-		"definition": "弾速+5%",
-		"x": 36.95041722813605,
-		"y": -128,
-		"root": false
-	},
-	"562x2njg91vtslix": {
-		"definition": "弾速+5%",
-		"x": 73.9008344562721,
-		"y": -192,
-		"root": false
-	},
-	"bvld1ie3y6lsed69": {
-		"definition": "弾速+5%",
-		"x": 73.9008344562721,
-		"y": -256,
-		"root": false
-	},
-	"hd23atgos5yd0pup": {
-		"definition": "弾速+5%",
-		"x": 129.32646029847615,
-		"y": -288,
-		"root": false
-	},
-	"6oklm9xozszvcllt": {
-		"definition": "弾速+5%",
-		"x": 92.37604307034013,
-		"y": -352,
-		"root": false
-	},
-	"hyf7a0xq26cx56at": {
-		"definition": "弾速+5%",
-		"x": 129.3264602984762,
-		"y": -352,
-		"root": false
-	},
-	"wyj36qmnmg0wtw35": {
-		"definition": "弾速+5%",
-		"x": 166.27687752661222,
-		"y": -352,
-		"root": false
-	},
-	"uhhpavreqaefrfla": {
-		"definition": "弾速+5%",
-		"x": 166.27687752661217,
-		"y": -416,
-		"root": false
-	},
-	"fu4zok8srh8i2yer": {
-		"definition": "弾速+5%",
-		"x": 129.32646029847615,
-		"y": -416,
-		"root": false
-	},
-	"q5c2se176nlcqm52": {
-		"definition": "弾速+5%",
-		"x": 184.75208614068026,
-		"y": -448,
-		"root": false
-	},
-	"krgyv9u3uv95v9j0": {
-		"definition": "連射の理",
-		"x": 221.70250336881628,
-		"y": -640,
-		"root": false
-	},
-	"h43er11kxtzni7ub": {
-		"definition": "射撃攻撃力+5%",
-		"x": -184.75208614068026,
-		"y": -640,
-		"root": false
-	},
-	"13n40vcvt018fayv": {
-		"definition": "射撃攻撃力+5%",
-		"x": -166.27687752661222,
-		"y": -608,
-		"root": false
-	},
-	"k5xkzre7g2th0g9s": {
-		"definition": "射撃攻撃力+5%",
-		"x": -147.80166891254424,
-		"y": -576,
-		"root": false
-	},
-	"h1mcsbix38jj8f4w": {
-		"definition": "射撃攻撃力+5%",
-		"x": -129.3264602984762,
-		"y": -544,
-		"root": false
-	},
-	"opx53wi938k408qg": {
-		"definition": "射撃攻撃力+5%",
-		"x": -110.85125168440817,
-		"y": -512,
-		"root": false
-	},
-	"omo4f58ib1amhp3i": {
-		"definition": "射撃攻撃力+5%",
-		"x": -92.37604307034013,
-		"y": -480,
-		"root": false
-	},
-	"0lfkz1k74jcd392h": {
-		"definition": "射撃攻撃力+5%",
-		"x": -55.425625842204084,
-		"y": -480,
-		"root": false
-	},
-	"0gkihas6vwhohxtf": {
-		"definition": "射撃攻撃力+5%",
-		"x": -18.475208614068038,
-		"y": -480,
-		"root": false
-	},
-	"i4gun16xp0qggihw": {
-		"definition": "射撃攻撃力+5%",
-		"x": 18.47520861406798,
-		"y": -480,
-		"root": false
-	},
-	"q8kf9a8alb5eu3q2": {
-		"definition": "射撃攻撃力+5%",
-		"x": 55.425625842204056,
-		"y": -480,
-		"root": false
-	},
-	"5xn3fto6e558dmda": {
-		"definition": "射撃攻撃力+5%",
-		"x": 92.37604307034013,
-		"y": -480,
-		"root": false
-	},
-	"a28n2pxlkr9tyjwd": {
-		"definition": "射撃攻撃力+5%",
-		"x": 110.85125168440811,
-		"y": -512,
-		"root": false
-	},
-	"2aoknw1br81yl7eq": {
-		"definition": "射撃攻撃力+5%",
-		"x": 129.32646029847615,
-		"y": -544,
-		"root": false
-	},
-	"ac8caknanz8qp1qp": {
-		"definition": "射撃攻撃力+5%",
-		"x": 147.8016689125442,
-		"y": -576,
-		"root": false
-	},
-	"c11pgkzs3b7kj3dt": {
-		"definition": "射撃攻撃力+5%",
-		"x": 166.27687752661217,
-		"y": -608,
-		"root": false
-	},
-	"ne16du8r8ytw7lzw": {
-		"definition": "弾速+5%",
-		"x": 184.7520861406802,
-		"y": -640,
-		"root": false
-	},
-	"40sdegbx2d3h25rm": {
-		"definition": "弾速+5%",
-		"x": 166.27687752661217,
-		"y": -672,
-		"root": false
-	},
-	"zahv73vinmiezmd6": {
-		"definition": "弾速+5%",
-		"x": 147.8016689125442,
-		"y": -704,
-		"root": false
-	},
-	"fjvkklwhcrewnkgc": {
-		"definition": "弾速+5%",
-		"x": 129.32646029847615,
-		"y": -736,
-		"root": false
-	},
-	"65mv4khl4v7rmfnm": {
-		"definition": "弾速+5%",
-		"x": 110.85125168440811,
-		"y": -768,
-		"root": false
-	},
-	"w9hbgisfaq7mwko5": {
-		"definition": "弾速+5%",
-		"x": 92.37604307034007,
-		"y": -800,
-		"root": false
-	},
-	"h5u1nszm4wj6yj8n": {
-		"definition": "弾速+5%",
-		"x": 55.425625842204,
-		"y": -800,
-		"root": false
-	},
-	"hybpta9ly4vhtn0e": {
-		"definition": "弾速+5%",
-		"x": 18.475208614068038,
-		"y": -800,
-		"root": false
-	},
-	"jb99ps5swq8u02zh": {
-		"definition": "弾速+5%",
-		"x": -55.42562584220411,
-		"y": -800,
-		"root": false
-	},
-	"9sk8qol8wilx42cu": {
-		"definition": "弾速+5%",
-		"x": -92.37604307034013,
-		"y": -800,
-		"root": false
-	},
-	"508ydtbh9ynct0l8": {
-		"definition": "弾速+5%",
-		"x": -110.85125168440811,
-		"y": -768,
-		"root": false
-	},
-	"40guv3fb4yowts5z": {
-		"definition": "弾速+5%",
-		"x": -129.32646029847615,
-		"y": -736,
-		"root": false
-	},
-	"zev2bq2dsytm5odo": {
-		"definition": "弾速+5%",
-		"x": -147.8016689125442,
-		"y": -704,
-		"root": false
-	},
-	"9qn5tx8eqso87hrk": {
-		"definition": "弾速+5%",
-		"x": -166.27687752661222,
-		"y": -672,
-		"root": false
-	},
-	"w412c0owqxlpw6i8": {
-		"definition": "弾速+5%",
-		"x": -18.475208614068038,
-		"y": -800,
-		"root": false
-	},
-	"0krtugit5qqmc6bf": {
-		"definition": "射撃耐性+10%",
-		"x": -147.8016689125442,
-		"y": -640,
-		"root": false
-	},
-	"ra0izqrrw22dx57o": {
-		"definition": "射撃耐性+10%",
-		"x": -110.85125168440817,
-		"y": -640,
-		"root": false
-	},
-	"up57dx3nd9x1ibkm": {
-		"definition": "射撃耐性+10%",
-		"x": -73.9008344562721,
-		"y": -640,
-		"root": false
-	},
-	"220fk2ohywoaf4uq": {
-		"definition": "射撃耐性+10%",
-		"x": -92.37604307034013,
-		"y": -672,
-		"root": false
-	},
-	"kyz4ktf3egltd1w1": {
-		"definition": "射撃耐性+10%",
-		"x": -92.37604307034013,
-		"y": -608,
-		"root": false
-	},
-	"gw50fwwqkz82lmc0": {
-		"definition": "射撃耐性無視+1.0",
-		"x": 147.80166891254413,
-		"y": -640,
-		"root": false
-	},
-	"uom0zxna8dagejsl": {
-		"definition": "射撃耐性無視+1.0",
-		"x": 110.85125168440817,
-		"y": -640,
-		"root": false
-	},
-	"62u7p4rdvvm2nri4": {
-		"definition": "射撃耐性無視+1.0",
-		"x": 73.9008344562721,
-		"y": -640,
-		"root": false
-	},
-	"5doyechnvgq99qj7": {
-		"definition": "射撃耐性無視+1.0",
-		"x": 92.37604307034013,
-		"y": -672,
-		"root": false
-	},
-	"14ur8528ingvo2zr": {
-		"definition": "射撃耐性無視+1.0",
-		"x": 92.37604307034013,
-		"y": -608,
-		"root": false
-	},
-	"x7146ayq4uvwc4i8": {
-		"definition": "極星の射手",
-		"x": 0,
-		"y": -640,
-		"root": false
-	},
-	"mkkl1b6vqobtmr25": {
-		"definition": "防具強度無視+1.0",
-		"x": -18.47520861406798,
-		"y": -608,
-		"root": false
-	},
-	"8mf1zq8g9cco2cz8": {
-		"definition": "防具強度無視+1.0",
-		"x": -36.95041722813602,
-		"y": -640,
-		"root": false
-	},
-	"mvrshcn408404ld5": {
-		"definition": "防具強度無視+1.0",
-		"x": -18.475208614068038,
-		"y": -672,
-		"root": false
-	},
-	"4rod4mukf3yylmxi": {
-		"definition": "防具強度無視+1.0",
-		"x": 18.47520861406798,
-		"y": -672,
-		"root": false
-	},
-	"2lc3jnpil5q5z0ur": {
-		"definition": "防具強度無視+1.0",
-		"x": 36.95041722813602,
-		"y": -640,
-		"root": false
-	},
-	"ggbwqo3exxh3we3p": {
-		"definition": "防具強度無視+1.0",
-		"x": 18.475208614068038,
-		"y": -608,
-		"root": false
-	},
-	"v0jy09xlw99am0k5": {
-		"definition": "防具強度無視+1.0",
-		"x": 18.475208614068038,
-		"y": -544,
-		"root": false
-	},
-	"oz11yyt4nmo5mxe5": {
-		"definition": "防具強度無視+1.0",
-		"x": -18.475208614068038,
-		"y": -544,
-		"root": false
-	},
-	"qt5hz6gqvpixowkh": {
-		"definition": "防具強度無視+1.0",
-		"x": 18.475208614068038,
-		"y": -736,
-		"root": false
-	},
-	"3r0nu1bbenipqjyr": {
-		"definition": "防具強度無視+1.0",
-		"x": -18.475208614068038,
-		"y": -736,
-		"root": false
-	},
-	"suqqyputvgd7ls7r": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": -55.42562584220411,
-		"y": -544,
-		"root": false
-	},
-	"477y13sohennjgt9": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": -73.90083445627215,
-		"y": -576,
-		"root": false
-	},
-	"pbgj0ql739s5rb4p": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 55.425625842204056,
-		"y": -544,
-		"root": false
-	},
-	"oc3axrkoccyktsec": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 73.90083445627204,
-		"y": -576,
-		"root": false
-	},
-	"ryogucaf5ledf2h9": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 73.90083445627215,
-		"y": -704,
-		"root": false
-	},
-	"97xvy4ieytdu9dtj": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 55.42562584220411,
-		"y": -736,
-		"root": false
-	},
-	"3r0xvtle15gpro2h": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": -55.425625842204056,
-		"y": -736,
-		"root": false
-	},
-	"spwpmqwr2v06hjib": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": -73.90083445627204,
-		"y": -704,
-		"root": false
-	},
-	"0z6k4nogh5otvcam": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 0,
-		"y": -768,
-		"root": false
-	},
-	"94vqj9sfty1tubmd": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 0,
-		"y": -512,
-		"root": false
-	},
-	"3vgxo3g0bqjvow4k": {
-		"definition": "防御力+0.5",
-		"x": 128,
-		"y": -36.95041722813605,
-		"root": false
-	},
-	"ui0srzabgok2tn67": {
-		"definition": "防御力+0.5",
-		"x": 192,
-		"y": -73.9008344562721,
-		"root": false
-	},
-	"z0nxe34248x07nlr": {
-		"definition": "防御力+0.5",
-		"x": 288,
-		"y": -129.32646029847615,
-		"root": false
-	},
-	"rteojpmnxhorj378": {
-		"definition": "防御力+0.5",
-		"x": 256,
-		"y": -73.9008344562721,
-		"root": false
-	},
-	"h4r0ipqk8n0abwng": {
-		"definition": "防御力+0.5",
-		"x": 352,
-		"y": -129.3264602984762,
-		"root": false
-	},
-	"y1yhiibd56e0kn2f": {
-		"definition": "防御力+0.5",
-		"x": 352,
-		"y": -166.27687752661222,
-		"root": false
-	},
-	"nlp6fwtdp2d3t9cg": {
-		"definition": "防御力+0.5",
-		"x": 352,
-		"y": -92.37604307034013,
-		"root": false
-	},
-	"kjiajqqlypb1d44b": {
-		"definition": "防御力+0.5",
-		"x": 416,
-		"y": -166.27687752661217,
-		"root": false
-	},
-	"frcs8493fnbs1egn": {
-		"definition": "防御力+0.5",
-		"x": 416,
-		"y": -129.32646029847615,
-		"root": false
-	},
-	"we4n93j3r7yymq5d": {
-		"definition": "防御力+0.5",
-		"x": 480,
-		"y": -203.2272947547483,
-		"root": false
-	},
-	"nfcfftjpp54531td": {
-		"definition": "体力+1",
-		"x": 128,
-		"y": 36.95041722813605,
-		"root": false
-	},
-	"ex3c2x4oofiopdjj": {
-		"definition": "体力+1",
-		"x": 192,
-		"y": 73.9008344562721,
-		"root": false
-	},
-	"g963xjqzft1nknwx": {
-		"definition": "体力+1",
-		"x": 256,
-		"y": 73.9008344562721,
-		"root": false
-	},
-	"0sl1l0y2lmfaln4u": {
-		"definition": "体力+1",
-		"x": 288,
-		"y": 129.32646029847618,
-		"root": false
-	},
-	"2im84py2m2lyp95a": {
-		"definition": "体力+1",
-		"x": 352,
-		"y": 166.2768775266122,
-		"root": false
-	},
-	"9o7jqrxaxwym5oi6": {
-		"definition": "体力+1",
-		"x": 352,
-		"y": 129.32646029847615,
-		"root": false
-	},
-	"0a3acjtuxw919u28": {
-		"definition": "体力+1",
-		"x": 352,
-		"y": 92.3760430703401,
-		"root": false
-	},
-	"ec60lzubnkqdt71w": {
-		"definition": "体力+1",
-		"x": 416,
-		"y": 166.27687752661222,
-		"root": false
-	},
-	"2s939mm531gd8ldv": {
-		"definition": "体力+1",
-		"x": 416,
-		"y": 129.32646029847618,
-		"root": false
-	},
-	"q6wg9el7u944f8dm": {
-		"definition": "体力+1",
-		"x": 480,
-		"y": 203.22729475474824,
-		"root": false
-	},
-	"mulfhrv8ulzsx6ju": {
-		"definition": "防具強度+1",
-		"x": 192,
-		"y": 0,
-		"root": false
-	},
-	"6xb578xfbn66ajl9": {
-		"definition": "防具強度+1",
-		"x": 320,
-		"y": 0,
-		"root": false
-	},
-	"gfpbkbctmcrbjldk": {
-		"definition": "防具強度+1",
-		"x": 384,
-		"y": 0,
-		"root": false
-	},
-	"62a8iggxlust6b8f": {
-		"definition": "防具強度+1",
-		"x": 416,
-		"y": -55.425625842204056,
-		"root": false
-	},
-	"k1jbsswcxhqpcm8s": {
-		"definition": "防具強度+1",
-		"x": 416,
-		"y": 55.425625842204084,
-		"root": false
-	},
-	"f4uvwtvcosn1j3ex": {
-		"definition": "ダメージ反射+10%",
-		"x": 256,
-		"y": -36.95041722813605,
-		"root": false
-	},
-	"bd8wfyqr0v1r5xwm": {
-		"definition": "ダメージ反射+10%",
-		"x": 256,
-		"y": 0,
-		"root": false
-	},
-	"zpbn83wsaz8u3o0b": {
-		"definition": "ダメージ反射+10%",
-		"x": 256,
-		"y": 36.95041722813605,
-		"root": false
-	},
-	"pdkix171cmy7y39i": {
-		"definition": "ダメージ反射+10%",
-		"x": 352,
-		"y": 55.425625842204056,
-		"root": false
-	},
-	"yr6hc10k1304p094": {
-		"definition": "ダメージ反射+10%",
-		"x": 352,
-		"y": -55.425625842204056,
-		"root": false
-	},
-	"dn2ph1bzs73s1i39": {
-		"definition": "不壊の理",
-		"x": 640,
-		"y": -221.70250336881628,
-		"root": false
-	},
-	"g6opl0l6ulec8f6g": {
-		"definition": "再生の理",
-		"x": 640,
-		"y": 224,
-		"root": false
-	},
-	"fg50xkz43ze30dtw": {
-		"definition": "耐性+5%",
-		"x": 608,
-		"y": -166.27687752661217,
-		"root": false
-	},
-	"q3sjt64zwm1ityhy": {
-		"definition": "耐性+5%",
-		"x": 576,
-		"y": -147.8016689125442,
-		"root": false
-	},
-	"mu67gnm13vzqy27u": {
-		"definition": "耐性+5%",
-		"x": 544,
-		"y": -129.32646029847615,
-		"root": false
-	},
-	"iq8lfhtu7bcyyhlp": {
-		"definition": "耐性+5%",
-		"x": 512,
-		"y": -110.85125168440811,
-		"root": false
-	},
-	"pk4wt4t4yhuugzzj": {
-		"definition": "耐性+5%",
-		"x": 480,
-		"y": -92.37604307034013,
-		"root": false
-	},
-	"zk50swdt8dtwfe8j": {
-		"definition": "耐性+5%",
-		"x": 480,
-		"y": -55.42562584220411,
-		"root": false
-	},
-	"kkr2j6n3949i2yxq": {
-		"definition": "耐性+5%",
-		"x": 480,
-		"y": -18.475208614068038,
-		"root": false
-	},
-	"uvq2xvxjykny4ekm": {
-		"definition": "耐性+5%",
-		"x": 480,
-		"y": 18.475208614068038,
-		"root": false
-	},
-	"efj8hy21lq7r83ei": {
-		"definition": "耐性+5%",
-		"x": 480,
-		"y": 55.425625842204056,
-		"root": false
-	},
-	"cutco6a6n9w9bv61": {
-		"definition": "耐性+5%",
-		"x": 480,
-		"y": 92.3760430703401,
-		"root": false
-	},
-	"scwdjtlkidvjapo9": {
-		"definition": "耐性+5%",
-		"x": 512,
-		"y": 110.85125168440814,
-		"root": false
-	},
-	"1zp1zj71bk1noncs": {
-		"definition": "耐性+5%",
-		"x": 544,
-		"y": 129.32646029847618,
-		"root": false
-	},
-	"an45hpi4595ccr4p": {
-		"definition": "耐性+5%",
-		"x": 576,
-		"y": 147.80166891254422,
-		"root": false
-	},
-	"pm2rhc2s1jkroqwu": {
-		"definition": "耐性+5%",
-		"x": 640,
-		"y": -184.7520861406802,
-		"root": false
-	},
-	"rdez331d3eftruqo": {
-		"definition": "耐性+5%",
-		"x": 608,
-		"y": 166.2768775266122,
-		"root": false
-	},
-	"xa6c4kptytbh68ew": {
-		"definition": "衝撃吸収+10%",
-		"x": 640,
-		"y": 184.75208614068023,
-		"root": false
-	},
-	"pisht8vxpq64ojr4": {
-		"definition": "衝撃吸収+10%",
-		"x": 672,
-		"y": 166.27687752661222,
-		"root": false
-	},
-	"j369xjwndi150vbc": {
-		"definition": "衝撃吸収+10%",
-		"x": 704,
-		"y": 147.8016689125442,
-		"root": false
-	},
-	"8ps900kmy1vxjpx2": {
-		"definition": "衝撃吸収+10%",
-		"x": 736,
-		"y": 129.32646029847615,
-		"root": false
-	},
-	"45ki2wrlzqsqcjc3": {
-		"definition": "衝撃吸収+10%",
-		"x": 768,
-		"y": 110.85125168440811,
-		"root": false
-	},
-	"9idxti15ewgqx7dr": {
-		"definition": "衝撃吸収+10%",
-		"x": 800,
-		"y": 92.37604307034013,
-		"root": false
-	},
-	"konz27pocgzr1cgo": {
-		"definition": "衝撃吸収+10%",
-		"x": 800,
-		"y": 55.42562584220411,
-		"root": false
-	},
-	"9m3cbvix8mrmamka": {
-		"definition": "衝撃吸収+10%",
-		"x": 800,
-		"y": 18.475208614068038,
-		"root": false
-	},
-	"zz50fj9d2gaetd7a": {
-		"definition": "衝撃吸収+10%",
-		"x": 800,
-		"y": -18.475208614068038,
-		"root": false
-	},
-	"gw2pvmsk9gelm5ll": {
-		"definition": "衝撃吸収+10%",
-		"x": 800,
-		"y": -55.425625842204,
-		"root": false
-	},
-	"udgzdgd2sog9cce3": {
-		"definition": "衝撃吸収+10%",
-		"x": 800,
-		"y": -92.37604307034007,
-		"root": false
-	},
-	"9u40r6zabuixpgx0": {
-		"definition": "衝撃吸収+10%",
-		"x": 768,
-		"y": -110.85125168440811,
-		"root": false
-	},
-	"twzkexpw6z46v396": {
-		"definition": "衝撃吸収+10%",
-		"x": 736,
-		"y": -129.32646029847615,
-		"root": false
-	},
-	"mywbiwmucuhd972l": {
-		"definition": "衝撃吸収+10%",
-		"x": 704,
-		"y": -147.8016689125442,
-		"root": false
-	},
-	"n608ccyp59y550ha": {
-		"definition": "衝撃吸収+10%",
-		"x": 672,
-		"y": -166.27687752661217,
-		"root": false
-	},
-	"deiga2763dfmgtwe": {
-		"definition": "近接耐性+10%",
-		"x": 640,
-		"y": -147.80166891254413,
-		"root": false
-	},
-	"fr73pbkrnkdwesno": {
-		"definition": "近接耐性+10%",
-		"x": 640,
-		"y": -110.85125168440817,
-		"root": false
-	},
-	"vpo661us79ac9bj7": {
-		"definition": "近接耐性+10%",
-		"x": 640,
-		"y": -73.9008344562721,
-		"root": false
-	},
-	"4nes5f42i74atggy": {
-		"definition": "近接耐性+10%",
-		"x": 608,
-		"y": -92.37604307034013,
-		"root": false
-	},
-	"lf704j20vdwon3en": {
-		"definition": "近接耐性+10%",
-		"x": 672,
-		"y": -92.37604307034013,
-		"root": false
-	},
-	"pu8v1xkbfc7ep9y8": {
-		"definition": "吸血+5%",
-		"x": 640,
-		"y": 147.8016689125442,
-		"root": false
-	},
-	"5qmb9q3r09g9cy6f": {
-		"definition": "吸血+5%",
-		"x": 640,
-		"y": 110.85125168440817,
-		"root": false
-	},
-	"btc468zl3rgfpcmv": {
-		"definition": "吸血+5%",
-		"x": 640,
-		"y": 73.9008344562721,
-		"root": false
-	},
-	"it4oxq90tanr0vkh": {
-		"definition": "吸血+5%",
-		"x": 608,
-		"y": 92.37604307034013,
-		"root": false
-	},
-	"687gtcb0dy4el0j0": {
-		"definition": "吸血+5%",
-		"x": 672,
-		"y": 92.37604307034013,
-		"root": false
-	},
-	"yq8yh0h2ahiskl5f": {
-		"definition": "体力+1",
-		"x": 640,
 		"y": 36.95041722813602,
 		"root": false
 	},
-	"du6jn1yh1o0kzrtv": {
-		"definition": "体力+1",
-		"x": 672,
+	"z5oi7t3f93a7f2u4": {
+		"definition": "近接耐性無視+2.0",
+		"x": -704,
+		"y": 0,
+		"root": false
+	},
+	"pm67kskcb28h6sj5": {
+		"definition": "近接耐性無視+2.0",
+		"x": -576,
+		"y": 0,
+		"root": false
+	},
+	"lbg2ad23ixpmbih3": {
+		"definition": "近接耐性無視+2.0",
+		"x": -672,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"rc44zuvet1s8oszn": {
+		"definition": "近接耐性無視+2.0",
+		"x": -608,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"16u807rd9jnojr0p": {
+		"definition": "近接攻撃力+20%",
+		"x": -672,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"yfvqi03gdah5ayen": {
+		"definition": "剣術熟練+20%",
+		"x": -608,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"kkjembqcy4eoxjm0": {
+		"definition": "近接耐性無視+2.0",
+		"x": -672,
+		"y": 18.47520861406798,
+		"root": false
+	},
+	"e2cq8j13o13vfzc6": {
+		"definition": "近接攻撃力+20%",
+		"x": -640,
+		"y": -36.95041722813602,
+		"root": false
+	},
+	"p590ux1w1ml9zffj": {
+		"definition": "剣術熟練+20%",
+		"x": -608,
 		"y": 18.475208614068038,
 		"root": false
 	},
-	"vwgajpiyw07tmdnd": {
-		"definition": "体力+1",
-		"x": 672,
-		"y": -18.47520861406798,
+	"imaw5vrazdbdjekq": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -512,
+		"y": -36.950417228136075,
 		"root": false
 	},
-	"x8c0kdfxfqpuxd7u": {
-		"definition": "体力+1",
+	"w4bct2vm2lw5qqji": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -576,
+		"y": -110.85125168440817,
+		"root": false
+	},
+	"bmd0wyr03t9brho4": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -512,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"xa4fef1mp2j2m50m": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -544,
+		"y": -55.42562584220411,
+		"root": false
+	},
+	"jmaa2g4uy4ikgs5u": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -544,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"p6ghrwtksit9iwyj": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -512,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"bezb10vzrbruel20": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -576,
+		"y": 110.85125168440811,
+		"root": false
+	},
+	"06aciy1w9lf6n57q": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -512,
+		"y": 36.950417228136075,
+		"root": false
+	},
+	"fruceye9c41ak3nz": {
+		"definition": "全耐性無視+1.0",
+		"x": -768,
+		"y": 73.90083445627204,
+		"root": false
+	},
+	"42x0b51jy5dnl6x7": {
+		"definition": "全耐性無視+1.0",
+		"x": -736,
+		"y": 55.42562584220411,
+		"root": false
+	},
+	"ll3f00zjl5n9nywf": {
+		"definition": "全耐性無視+1.0",
+		"x": -768,
+		"y": 36.950417228136075,
+		"root": false
+	},
+	"b4eiti7t74d3yqj8": {
+		"definition": "全耐性無視+1.0",
+		"x": -800,
+		"y": 18.475208614068038,
+		"root": false
+	},
+	"xm2v4lyd458pl32t": {
+		"definition": "全耐性無視+1.0",
+		"x": -800,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"aipw8lqb418m3e8g": {
+		"definition": "全耐性無視+1.0",
+		"x": -768,
+		"y": -36.950417228136075,
+		"root": false
+	},
+	"t74weasaegbsbh6o": {
+		"definition": "全耐性無視+1.0",
+		"x": -768,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"lesmsuyd96ar1sf1": {
+		"definition": "全耐性無視+1.0",
+		"x": -736,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"xbgqyg0b8hd78qsv": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 512,
+		"y": -36.950417228136075,
+		"root": false
+	},
+	"w5lz6m2bbptl38t5": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 512,
+		"y": 36.950417228136075,
+		"root": false
+	},
+	"1voys9qt6qo78aa4": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 544,
+		"y": 55.42562584220411,
+		"root": false
+	},
+	"u7k5htj9wg5pqdls": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 544,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"yttj0k7a639j8lox": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 576,
+		"y": 110.85125168440817,
+		"root": false
+	},
+	"7c808yklu1muny3a": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 512,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"4by71lwlgiuwnn7s": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 576,
+		"y": -110.85125168440811,
+		"root": false
+	},
+	"n3wqdowu89v0dott": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 512,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"zg54gwidmdqbuot2": {
+		"definition": "防御力+2.0",
+		"x": 576,
+		"y": 0,
+		"root": false
+	},
+	"wmrqv78c2au17ffo": {
+		"definition": "ダメージ反射+5%",
+		"x": 576,
+		"y": -36.95041722813602,
+		"root": false
+	},
+	"1epekyim4won0kio": {
+		"definition": "耐性+5%",
+		"x": 608,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"u161mkr67p3j2cln": {
+		"definition": "防御力+2.0",
+		"x": 640,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"amut7mfc4hopqofo": {
+		"definition": "ダメージ反射+5%",
+		"x": 672,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"jlm9zi2c2qccfwev": {
+		"definition": "耐性+5%",
+		"x": 704,
+		"y": -36.950417228136075,
+		"root": false
+	},
+	"r0toxe66l0yser66": {
+		"definition": "防御力+2.0",
+		"x": 704,
+		"y": 0,
+		"root": false
+	},
+	"pgxqjxukfoxdpp9r": {
+		"definition": "ダメージ反射+5%",
+		"x": 704,
+		"y": 36.95041722813602,
+		"root": false
+	},
+	"scmv9mfm27zqnril": {
+		"definition": "耐性+5%",
+		"x": 672,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"jmvwm9r3rgftbcgw": {
+		"definition": "防御力+2.0",
+		"x": 640,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"lblyxsxevhqjx891": {
+		"definition": "ダメージ反射+5%",
+		"x": 608,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"yr1qn86puy44p9ev": {
+		"definition": "耐性+5%",
+		"x": 576,
+		"y": 36.950417228136075,
+		"root": false
+	},
+	"f7fw4geafb2as100": {
+		"definition": "耐性+5%",
 		"x": 640,
 		"y": -36.95041722813602,
 		"root": false
 	},
-	"rzl091fozvo96zfq": {
-		"definition": "体力+1",
-		"x": 608,
-		"y": -18.475208614068038,
+	"smlhp8dc1w8fxpcj": {
+		"definition": "ダメージ反射+5%",
+		"x": 672,
+		"y": 18.475208614068038,
 		"root": false
 	},
-	"n3hv4z80nhhom056": {
-		"definition": "体力+1",
+	"ncj74a6ohpkjmgm1": {
+		"definition": "防御力+2.0",
 		"x": 608,
 		"y": 18.47520861406798,
 		"root": false
 	},
-	"zkd0wvaph4bdsx2o": {
-		"definition": "体力+1",
-		"x": 544,
-		"y": 18.475208614068038,
+	"ujeuieoygjnhg3zj": {
+		"definition": "防御力+2.0",
+		"x": 640,
+		"y": 36.95041722813602,
 		"root": false
 	},
-	"f0is17401yg6helo": {
-		"definition": "体力+1",
+	"btzifyfi68ot45ce": {
+		"definition": "防御力+2.0",
+		"x": 672,
+		"y": -18.47520861406798,
+		"root": false
+	},
+	"r5rps94pfud8853m": {
+		"definition": "防御力+2.0",
+		"x": 608,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"s9zib2v4o6sutv9t": {
+		"definition": "防御力+2.0",
 		"x": 544,
 		"y": -18.475208614068038,
 		"root": false
 	},
-	"ij4wvccizm5qwi6z": {
-		"definition": "体力+1",
-		"x": 736,
+	"6njir35o9xvgkzbr": {
+		"definition": "防御力+2.0",
+		"x": 544,
 		"y": 18.475208614068038,
 		"root": false
 	},
-	"kp2hlaxzv4q9pm4d": {
-		"definition": "体力+1",
-		"x": 736,
-		"y": -18.475208614068038,
-		"root": false
-	},
-	"ay02z4qdgsclzd4o": {
+	"a7xzt8npwo6mdqbx": {
 		"definition": "不抜の守護神",
 		"x": 640,
 		"y": 0,
 		"root": false
 	},
-	"c45la72vl8m1l9ns": {
-		"definition": "防御力+0.5",
-		"x": 576,
-		"y": 73.90083445627215,
-		"root": false
-	},
-	"6psucgt7l359rdli": {
-		"definition": "防御力+0.5",
-		"x": 544,
-		"y": 55.42562584220411,
-		"root": false
-	},
-	"xbbucb0lqof6732e": {
-		"definition": "防御力+0.5",
-		"x": 544,
-		"y": -55.425625842204056,
-		"root": false
-	},
-	"jiyl7g2o2rimezl5": {
-		"definition": "防御力+0.5",
-		"x": 576,
-		"y": -73.90083445627204,
-		"root": false
-	},
-	"vlv2c2bog76ce3nz": {
-		"definition": "防御力+0.5",
-		"x": 704,
-		"y": -73.90083445627215,
-		"root": false
-	},
-	"t4izbekknzxikb1s": {
-		"definition": "防御力+0.5",
-		"x": 736,
-		"y": -55.42562584220411,
-		"root": false
-	},
-	"kd8qtlb8pb6pr6hx": {
-		"definition": "防御力+0.5",
+	"yzeyrhhw7bl7kpm3": {
+		"definition": "全耐性無視+1.0",
 		"x": 736,
 		"y": 55.425625842204056,
 		"root": false
 	},
-	"i0kq0jm07ujenis6": {
-		"definition": "防御力+0.5",
-		"x": 704,
-		"y": 73.90083445627204,
-		"root": false
-	},
-	"dlqrmuy1kdtq6yr1": {
-		"definition": "防御力+0.5",
-		"x": 512,
-		"y": 0,
-		"root": false
-	},
-	"nl3liwik2q7g1hfh": {
-		"definition": "防御力+0.5",
+	"vsnmj6im6k3loyeg": {
+		"definition": "全耐性無視+1.0",
 		"x": 768,
-		"y": 0,
+		"y": 73.9008344562721,
 		"root": false
 	},
-	"i4xotpisiu34lg9k": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -36.95041722813605,
-		"y": 128,
+	"gfiey479st75q8px": {
+		"definition": "全耐性無視+1.0",
+		"x": 768,
+		"y": 36.950417228136075,
 		"root": false
 	},
-	"2mq96gj8jxxyt0e4": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -73.9008344562721,
-		"y": 192,
+	"xcb04fnhpre0geyz": {
+		"definition": "全耐性無視+1.0",
+		"x": 768,
+		"y": -73.90083445627204,
 		"root": false
 	},
-	"dv0t0c2g7crao27n": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -73.9008344562721,
-		"y": 256,
+	"j775bbcl87xy4pwr": {
+		"definition": "全耐性無視+1.0",
+		"x": 768,
+		"y": -36.950417228136075,
 		"root": false
 	},
-	"evbvd9kz3xla049m": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -129.32646029847615,
-		"y": 288,
+	"hjf20xppx9ctczwv": {
+		"definition": "全耐性無視+1.0",
+		"x": 736,
+		"y": -55.42562584220411,
 		"root": false
 	},
-	"6u0uoxwc7cix0bl6": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -129.3264602984762,
-		"y": 352,
+	"peib9g5wiln7mnft": {
+		"definition": "全耐性無視+1.0",
+		"x": 800,
+		"y": -18.475208614068038,
 		"root": false
 	},
-	"vzrit9uk49d4w14i": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -166.27687752661222,
-		"y": 352,
+	"y7vcwzhijrtazfd4": {
+		"definition": "全耐性無視+1.0",
+		"x": 800,
+		"y": 18.475208614068038,
 		"root": false
 	},
-	"mlp1rk98ji26uh6f": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -92.37604307034013,
-		"y": 352,
+	"194y2rlykqf3hag7": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 36.950417228136075,
+		"y": -512,
 		"root": false
 	},
-	"08ruqtpk1ys5ja49": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -129.32646029847615,
-		"y": 416,
+	"d1mzomoh2y6k6l80": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -36.950417228136075,
+		"y": -512,
 		"root": false
 	},
-	"nvxat4j0d2x23vr7": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -166.27687752661217,
-		"y": 416,
-		"root": false
-	},
-	"o0bjwomvrkhvqw09": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -203.2272947547483,
-		"y": 480,
-		"root": false
-	},
-	"g2f6van3l2mcvdb4": {
-		"definition": "ポーション耐性+10%",
-		"x": 0,
-		"y": 192,
-		"root": false
-	},
-	"i5a1ddvn47vbl8t5": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 36.95041722813605,
-		"y": 256,
-		"root": false
-	},
-	"ojevgnpg71lznrt5": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 0,
-		"y": 256,
-		"root": false
-	},
-	"uv7ps3cudx27myti": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -36.95041722813605,
-		"y": 256,
-		"root": false
-	},
-	"2doi53bv04fgmnue": {
-		"definition": "ポーション耐性+10%",
-		"x": 0,
-		"y": 320,
-		"root": false
-	},
-	"lgmnxoojfr43ntw2": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -55.425625842204056,
-		"y": 352,
-		"root": false
-	},
-	"5q83k0gtd7molctq": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 55.425625842204056,
-		"y": 352,
-		"root": false
-	},
-	"mq969bhfcg8pvxcj": {
-		"definition": "ポーション耐性+10%",
-		"x": 0,
-		"y": 384,
-		"root": false
-	},
-	"3cuxfxvwzhfuuada": {
-		"definition": "ポーション耐性+10%",
-		"x": -55.425625842204056,
-		"y": 416,
-		"root": false
-	},
-	"2iyc4hlzl5b1zjo1": {
-		"definition": "ポーション耐性+10%",
-		"x": 55.425625842204084,
-		"y": 416,
-		"root": false
-	},
-	"b2qa41izxyoi34xn": {
-		"definition": "ポーション耐性+10%",
-		"x": -92.37604307034013,
-		"y": 480,
-		"root": false
-	},
-	"a1zis8pfbnn4m1pw": {
-		"definition": "ポーション耐性+10%",
-		"x": -55.42562584220411,
-		"y": 480,
-		"root": false
-	},
-	"ximt4ejdl8tbf4ni": {
-		"definition": "ポーション耐性+10%",
-		"x": -18.475208614068038,
-		"y": 480,
-		"root": false
-	},
-	"a8esdb7pbj641lz5": {
-		"definition": "ポーション耐性+10%",
-		"x": 18.475208614068038,
-		"y": 480,
-		"root": false
-	},
-	"7l3rlvgn1olir8zk": {
-		"definition": "ポーション耐性+10%",
-		"x": 55.425625842204056,
-		"y": 480,
-		"root": false
-	},
-	"6d0xbimfkyopq1c3": {
-		"definition": "ポーション耐性+10%",
-		"x": 92.3760430703401,
-		"y": 480,
-		"root": false
-	},
-	"6pcj3fimik8izog5": {
-		"definition": "ポーション耐性+10%",
-		"x": 110.85125168440814,
-		"y": 512,
-		"root": false
-	},
-	"kav3510iecn7h360": {
-		"definition": "ポーション耐性+10%",
-		"x": 129.32646029847618,
-		"y": 544,
-		"root": false
-	},
-	"h9nwa20d9rjcjl0f": {
-		"definition": "ポーション耐性+10%",
-		"x": 147.80166891254422,
-		"y": 576,
-		"root": false
-	},
-	"zyo1taakl6qgm2vu": {
-		"definition": "ポーション耐性+10%",
-		"x": 166.2768775266122,
-		"y": 608,
-		"root": false
-	},
-	"r6cedr4vpvk3rhcr": {
-		"definition": "ポーション耐性+10%",
-		"x": 184.75208614068023,
-		"y": 640,
-		"root": false
-	},
-	"qwtiax0eui9e70e4": {
-		"definition": "ポーション耐性+10%",
-		"x": -110.85125168440811,
-		"y": 512,
-		"root": false
-	},
-	"952u3nf5xrjavkkk": {
-		"definition": "ポーション耐性+10%",
-		"x": -129.32646029847615,
-		"y": 544,
-		"root": false
-	},
-	"s2ga9zkq65y2zpjq": {
-		"definition": "ポーション耐性+10%",
+	"ri6gm9vvmn3kuzrn": {
+		"definition": "軽減エンチャント無視+1.0",
 		"x": -147.8016689125442,
-		"y": 576,
+		"y": -512,
 		"root": false
 	},
-	"b2m9z4z80l9f618k": {
-		"definition": "ポーション耐性+10%",
-		"x": -166.27687752661217,
-		"y": 608,
-		"root": false
-	},
-	"ppd94tqaf10bh7im": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -184.7520861406802,
-		"y": 640,
-		"root": false
-	},
-	"u9x3gl5enjuadr1i": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -166.27687752661217,
-		"y": 672,
-		"root": false
-	},
-	"1g4qxzjhuetcqrch": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -147.8016689125442,
-		"y": 704,
-		"root": false
-	},
-	"mj1hflkisfy0x05i": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -129.32646029847615,
-		"y": 736,
-		"root": false
-	},
-	"j6go4573he3gaazb": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -110.85125168440811,
-		"y": 768,
-		"root": false
-	},
-	"tbcfs50noh0p5s29": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -92.37604307034007,
-		"y": 800,
-		"root": false
-	},
-	"q6b4l42td8ef4xuc": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -55.425625842204,
-		"y": 800,
-		"root": false
-	},
-	"1rd2pladuvtv4u9x": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": -18.475208614068038,
-		"y": 800,
-		"root": false
-	},
-	"bh7dqetrnwr0juoa": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 18.475208614068038,
-		"y": 800,
-		"root": false
-	},
-	"eg5bg2ug4oi6m0tr": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 55.42562584220411,
-		"y": 800,
-		"root": false
-	},
-	"quholcynqudj2k4u": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 92.37604307034013,
-		"y": 800,
-		"root": false
-	},
-	"jxqbekgqvwfwppa2": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 166.27687752661222,
-		"y": 672,
-		"root": false
-	},
-	"y8ttk4j99g6df2fu": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 147.8016689125442,
-		"y": 704,
-		"root": false
-	},
-	"6as7422v3yutg3y5": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 129.32646029847615,
-		"y": 736,
-		"root": false
-	},
-	"w0c33adryi1kmisu": {
-		"definition": "ポーション耐性無視+1.0",
-		"x": 110.85125168440811,
-		"y": 768,
-		"root": false
-	},
-	"y8e2af2xpdydebjr": {
-		"definition": "賢者の理",
-		"x": -221.70250336881628,
-		"y": 640,
-		"root": false
-	},
-	"16kyv7omb12kqg49": {
-		"definition": "隠者の理",
-		"x": 221.70250336881628,
-		"y": 640,
-		"root": false
-	},
-	"3imv2tgh0cudfjz7": {
-		"definition": "吸血+5%",
-		"x": -147.80166891254413,
-		"y": 640,
-		"root": false
-	},
-	"xabt7wb2axv1t2uz": {
-		"definition": "吸血+5%",
+	"8qzsldgci6h7h3qz": {
+		"definition": "軽減エンチャント無視+1.0",
 		"x": -110.85125168440817,
-		"y": 640,
+		"y": -576,
 		"root": false
 	},
-	"kkk86t2m7hkpdu3t": {
-		"definition": "吸血+5%",
+	"njvel60k0uhejanm": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -55.42562584220411,
+		"y": -544,
+		"root": false
+	},
+	"jvw16pk9l9p2psq2": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 55.425625842204056,
+		"y": -544,
+		"root": false
+	},
+	"c4me3x7o8ewpcy3x": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 110.85125168440811,
+		"y": -576,
+		"root": false
+	},
+	"rlyqylv49xergfzv": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 147.8016689125442,
+		"y": -512,
+		"root": false
+	},
+	"b60h0v6knrb1h5y0": {
+		"definition": "射撃攻撃力+20%",
+		"x": -36.950417228136075,
+		"y": -576,
+		"root": false
+	},
+	"mpbwhfcdik8qovqc": {
+		"definition": "弾速+5%",
+		"x": 0,
+		"y": -576,
+		"root": false
+	},
+	"zigpgtibu280pqne": {
+		"definition": "射撃耐性無視+2.0",
+		"x": 36.95041722813602,
+		"y": -576,
+		"root": false
+	},
+	"f1azf9ilyy6cuwha": {
+		"definition": "射撃耐性無視+2.0",
+		"x": -55.425625842204056,
+		"y": -608,
+		"root": false
+	},
+	"0ruzq1kxn85invv0": {
+		"definition": "弾速+5%",
+		"x": -73.9008344562721,
+		"y": -640,
+		"root": false
+	},
+	"21elqc6edxjxojdj": {
+		"definition": "射撃攻撃力+20%",
+		"x": -55.425625842204056,
+		"y": -672,
+		"root": false
+	},
+	"lwfdrndd8ft3hykv": {
+		"definition": "射撃耐性無視+2.0",
+		"x": -36.95041722813602,
+		"y": -704,
+		"root": false
+	},
+	"8uhnoul7f3faagyz": {
+		"definition": "弾速+5%",
+		"x": 0,
+		"y": -704,
+		"root": false
+	},
+	"vekd06vojxxkcy7y": {
+		"definition": "射撃攻撃力+20%",
+		"x": 36.950417228136075,
+		"y": -704,
+		"root": false
+	},
+	"xb2qdhdwi4gj94ye": {
+		"definition": "射撃耐性無視+2.0",
+		"x": 55.425625842204056,
+		"y": -672,
+		"root": false
+	},
+	"fht7xqhkirhhzf01": {
+		"definition": "射撃攻撃力+20%",
+		"x": 55.425625842204056,
+		"y": -608,
+		"root": false
+	},
+	"nkb5ehwm4sgdgb3d": {
+		"definition": "弾速+5%",
+		"x": 73.9008344562721,
+		"y": -640,
+		"root": false
+	},
+	"9evnxdnrzb3n4zet": {
+		"definition": "射撃攻撃力+20%",
+		"x": 18.47520861406798,
+		"y": -672,
+		"root": false
+	},
+	"v6fc5r5kxcrwcadn": {
+		"definition": "弾速+5%",
+		"x": -36.95041722813602,
+		"y": -640,
+		"root": false
+	},
+	"kq2gw47yzejn8hjv": {
+		"definition": "射撃耐性無視+2.0",
+		"x": 18.475208614068038,
+		"y": -608,
+		"root": false
+	},
+	"4zql38wdssbu8xn4": {
+		"definition": "極星の射手",
+		"x": 0,
+		"y": -640,
+		"root": false
+	},
+	"28leoye0zuhq2woz": {
+		"definition": "全耐性無視+1.0",
+		"x": 55.42562584220411,
+		"y": -736,
+		"root": false
+	},
+	"8crnkpu3xe08r1cr": {
+		"definition": "全耐性無視+1.0",
+		"x": 73.90083445627204,
+		"y": -768,
+		"root": false
+	},
+	"y103x3si74hssjo5": {
+		"definition": "全耐性無視+1.0",
+		"x": 36.950417228136075,
+		"y": -768,
+		"root": false
+	},
+	"xbic8ulhcqx80kv8": {
+		"definition": "全耐性無視+1.0",
+		"x": -55.425625842204056,
+		"y": -736,
+		"root": false
+	},
+	"kme9x2t6gywiqqpd": {
+		"definition": "全耐性無視+1.0",
+		"x": -36.950417228136075,
+		"y": -768,
+		"root": false
+	},
+	"fsr9jzmiifzd94at": {
+		"definition": "全耐性無視+1.0",
+		"x": -73.9008344562721,
+		"y": -768,
+		"root": false
+	},
+	"68n5h8p09v2mcaw8": {
+		"definition": "全耐性無視+1.0",
+		"x": -18.475208614068038,
+		"y": -800,
+		"root": false
+	},
+	"gw4geu83ap1fajya": {
+		"definition": "全耐性無視+1.0",
+		"x": 18.475208614068038,
+		"y": -800,
+		"root": false
+	},
+	"jmtilh2tqlpb4c4m": {
+		"definition": "ポーション攻撃力+30%",
+		"x": -36.95041722813613,
+		"y": 576,
+		"root": false
+	},
+	"yiqed5a2mw0u7kuy": {
+		"definition": "ポーション耐性+10%",
+		"x": -5.684341886080802e-14,
+		"y": 576,
+		"root": false
+	},
+	"41257jvan3zha6y0": {
+		"definition": "ポーション耐性無視+2.0",
+		"x": 36.95041722813602,
+		"y": 576,
+		"root": false
+	},
+	"wiri8ubv7cfr5dvh": {
+		"definition": "ポーション耐性無視+2.0",
+		"x": -55.42562584220411,
+		"y": 608,
+		"root": false
+	},
+	"zyh2q1dfjlzk8tmi": {
+		"definition": "ポーション耐性+10%",
 		"x": -73.9008344562721,
 		"y": 640,
 		"root": false
 	},
-	"8an7bpbuw9xh7jby": {
-		"definition": "吸血+5%",
-		"x": -92.37604307034013,
-		"y": 608,
-		"root": false
-	},
-	"r4xdimursucd9rou": {
-		"definition": "吸血+5%",
-		"x": -92.37604307034013,
+	"xwu42ewzmnzyr3kw": {
+		"definition": "ポーション攻撃力+30%",
+		"x": -55.42562584220411,
 		"y": 672,
 		"root": false
 	},
-	"k8a0n67zc63hr80u": {
-		"definition": "吸血+5%",
-		"x": 147.8016689125442,
-		"y": 640,
+	"m1hbcv9sh34h95oi": {
+		"definition": "ポーション攻撃力+30%",
+		"x": 55.425625842204056,
+		"y": 608,
 		"root": false
 	},
-	"n7aczfbxs6anscv4": {
-		"definition": "吸血+5%",
-		"x": 110.85125168440817,
-		"y": 640,
-		"root": false
-	},
-	"xozxts58ssmym1zm": {
-		"definition": "吸血+5%",
+	"pamw9zr87uzunjj4": {
+		"definition": "ポーション耐性+10%",
 		"x": 73.9008344562721,
 		"y": 640,
 		"root": false
 	},
-	"yu31lyjcdmx76x45": {
-		"definition": "吸血+5%",
-		"x": 92.37604307034013,
-		"y": 608,
-		"root": false
-	},
-	"qu3n124ppem27pz5": {
-		"definition": "吸血+5%",
-		"x": 92.37604307034013,
+	"za9fzg83s21ypdsx": {
+		"definition": "ポーション耐性無視+2.0",
+		"x": 55.425625842204,
 		"y": 672,
 		"root": false
 	},
-	"s8jx2rcl1wvk48dr": {
-		"definition": "ポーション攻撃力+10%",
-		"x": 18.475208614068038,
-		"y": 672,
+	"qjjtto0acv5rie60": {
+		"definition": "ポーション攻撃力+30%",
+		"x": 36.95041722813596,
+		"y": 704,
 		"root": false
 	},
-	"023m7h108qjn3wm2": {
-		"definition": "ポーション攻撃力+10%",
+	"aejw6ywrzp2whh82": {
+		"definition": "ポーション耐性+10%",
+		"x": -5.684341886080802e-14,
+		"y": 704,
+		"root": false
+	},
+	"c0q11rke9yntjbip": {
+		"definition": "ポーション耐性無視+2.0",
+		"x": -36.950417228136075,
+		"y": 704,
+		"root": false
+	},
+	"kdutdxwov925z6ha": {
+		"definition": "ポーション攻撃力+30%",
 		"x": -18.47520861406798,
 		"y": 672,
 		"root": false
 	},
-	"9qezzya8cfxjxcq8": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -36.95041722813602,
-		"y": 640,
-		"root": false
-	},
-	"npbmv8xxjxb1chn6": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -18.475208614068038,
-		"y": 608,
-		"root": false
-	},
-	"zupi79h55mwedwha": {
-		"definition": "ポーション攻撃力+10%",
-		"x": 18.47520861406798,
-		"y": 608,
-		"root": false
-	},
-	"6k0yz1ecdbceedkx": {
-		"definition": "ポーション攻撃力+10%",
+	"s0dag1lf6zpyf4pg": {
+		"definition": "ポーション耐性+10%",
 		"x": 36.95041722813602,
 		"y": 640,
 		"root": false
 	},
-	"213beo0z7012164t": {
-		"definition": "ポーション攻撃力+10%",
-		"x": 18.475208614068038,
-		"y": 736,
-		"root": false
-	},
-	"8p47bdw1gmtt54mr": {
-		"definition": "ポーション攻撃力+10%",
+	"04dm4gx2gcxerlxv": {
+		"definition": "ポーション耐性無視+2.0",
 		"x": -18.475208614068038,
-		"y": 736,
+		"y": 608,
 		"root": false
 	},
-	"c1oz0szg2szubdys": {
-		"definition": "ポーション攻撃力+10%",
-		"x": 18.475208614068038,
+	"ybs3ip6rufsdnr92": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 36.950417228136075,
+		"y": 512,
+		"root": false
+	},
+	"sj4ckikmzh04qfsk": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -36.950417228136075,
+		"y": 512,
+		"root": false
+	},
+	"tu482i8h214a1jwp": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -55.425625842204056,
 		"y": 544,
 		"root": false
 	},
-	"ol4ktma418jmcep1": {
-		"definition": "ポーション攻撃力+10%",
-		"x": -18.475208614068038,
+	"28x53qxutu6swoyv": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 55.42562584220411,
 		"y": 544,
 		"root": false
 	},
-	"nc88030lg3gr87pk": {
+	"2bk31lki29yujlna": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 147.8016689125442,
+		"y": 512,
+		"root": false
+	},
+	"jqpqkxvnns52a8gs": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": 110.85125168440817,
+		"y": 576,
+		"root": false
+	},
+	"o282v9epbdz8htf7": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -147.8016689125442,
+		"y": 512,
+		"root": false
+	},
+	"u84cl87savozr1ze": {
+		"definition": "軽減エンチャント無視+1.0",
+		"x": -110.85125168440811,
+		"y": 576,
+		"root": false
+	},
+	"uzkncmgzoo42zsef": {
 		"definition": "大賢者の深淵",
 		"x": 0,
 		"y": 640,
 		"root": false
 	},
-	"oytq4t2wgmsx8tpx": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": -73.90083445627215,
-		"y": 704,
-		"root": false
-	},
-	"etmgcrpr20r3ssl0": {
-		"definition": "軽減エンチャント無視+1.0",
+	"pzxd303db1jm2wyp": {
+		"definition": "全耐性無視+1.0",
 		"x": -55.42562584220411,
 		"y": 736,
 		"root": false
 	},
-	"lbbgsixahcc004sm": {
-		"definition": "軽減エンチャント無視+1.0",
+	"agsh97y8a69od80z": {
+		"definition": "全耐性無視+1.0",
+		"x": -36.950417228136075,
+		"y": 768,
+		"root": false
+	},
+	"ev3ownty3zvyhb3h": {
+		"definition": "全耐性無視+1.0",
+		"x": -73.90083445627204,
+		"y": 768,
+		"root": false
+	},
+	"6gowg9bjok5pmijl": {
+		"definition": "全耐性無視+1.0",
 		"x": 55.425625842204056,
 		"y": 736,
 		"root": false
 	},
-	"jrd2kyvqm0w1cj0c": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 73.90083445627204,
-		"y": 704,
-		"root": false
-	},
-	"l7jdwbn97882du42": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 73.90083445627215,
-		"y": 576,
-		"root": false
-	},
-	"04sm5y3f3giksxxg": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 55.42562584220411,
-		"y": 544,
-		"root": false
-	},
-	"hjdfhjxzyby4ksp8": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": -55.425625842204056,
-		"y": 544,
-		"root": false
-	},
-	"fyz360ge9chfxaqt": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": -73.90083445627204,
-		"y": 576,
-		"root": false
-	},
-	"kwvzaep7d9vc245u": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 0,
-		"y": 512,
-		"root": false
-	},
-	"bixrxn8od0ecqjyn": {
-		"definition": "軽減エンチャント無視+1.0",
-		"x": 0,
+	"d3bu2zcfzgj4l3ml": {
+		"definition": "全耐性無視+1.0",
+		"x": 36.950417228136075,
 		"y": 768,
 		"root": false
 	},
-	"ubjfbap0oyaisfmh": {
-		"definition": "近接耐性無視+1.0",
-		"x": -96,
-		"y": -128,
-		"root": false
-	},
-	"xkdhg3sm82nxarq9": {
-		"definition": "近接耐性無視+1.0",
-		"x": -128,
-		"y": -96,
-		"root": false
-	},
-	"lfozauyx85y5wxqa": {
-		"definition": "近接耐性無視+1.0",
-		"x": -224,
-		"y": -128,
-		"root": false
-	},
-	"pnw1psu2mu43l8i0": {
-		"definition": "近接耐性無視+1.0",
-		"x": -128,
-		"y": -224,
-		"root": false
-	},
-	"01ryj1k5z4ysj3ha": {
-		"definition": "爆発ノックバック耐性+10%",
-		"x": -160,
-		"y": -160,
-		"root": false
-	},
-	"is3iqljy7dbl6y8t": {
-		"definition": "爆発ノックバック耐性+10%",
-		"x": -288,
-		"y": -192,
-		"root": false
-	},
-	"s87jl7u40zadlk30": {
-		"definition": "爆発ノックバック耐性+10%",
-		"x": -192,
-		"y": -288,
-		"root": false
-	},
-	"vzemiuuvff9ln9v3": {
-		"definition": "爆発ノックバック耐性+10%",
-		"x": -320,
-		"y": -256,
-		"root": false
-	},
-	"dxsnd2bga2o6t0pn": {
-		"definition": "爆発ノックバック耐性+10%",
-		"x": -256,
-		"y": -320,
-		"root": false
-	},
-	"e4z11kjh3a7sbocn": {
-		"definition": "防具強度無視+1.0",
-		"x": 96,
-		"y": -128,
-		"root": false
-	},
-	"b8lk2fom1qmf6zvt": {
-		"definition": "防具強度無視+1.0",
-		"x": 128,
-		"y": -96,
-		"root": false
-	},
-	"l6thi1dwchqp8o7b": {
-		"definition": "防具強度無視+1.0",
-		"x": 128,
-		"y": -224,
-		"root": false
-	},
-	"ted0ttot1bna74y7": {
-		"definition": "防具強度無視+1.0",
-		"x": 224,
-		"y": -128,
-		"root": false
-	},
-	"llfx3r1qsc26mu3h": {
-		"definition": "ノックバック+0.2",
-		"x": 160,
-		"y": -160,
-		"root": false
-	},
-	"ubq8up8y7d46bofc": {
-		"definition": "ノックバック+0.2",
-		"x": 288,
-		"y": -192,
-		"root": false
-	},
-	"xkheioj1b5igeka6": {
-		"definition": "ノックバック+0.2",
-		"x": 192,
-		"y": -288,
-		"root": false
-	},
-	"t2wcmmyytgmqm67f": {
-		"definition": "ノックバック+0.2",
-		"x": 256,
-		"y": -320,
-		"root": false
-	},
-	"ucot5ijpig5tnfbq": {
-		"definition": "ノックバック+0.2",
-		"x": 320,
-		"y": -256,
-		"root": false
-	},
-	"lxxgijxvt7a3l3pq": {
-		"definition": "防御無視+1.0",
-		"x": 128,
-		"y": 96,
-		"root": false
-	},
-	"8lrj84l1vvmelkb6": {
-		"definition": "防御無視+1.0",
-		"x": 96,
-		"y": 128,
-		"root": false
-	},
-	"hicvfw9v72usmm80": {
-		"definition": "防御無視+1.0",
-		"x": 224,
-		"y": 128,
-		"root": false
-	},
-	"iw9onvffsomv1u5f": {
-		"definition": "防御無視+1.0",
-		"x": 128,
-		"y": 224,
-		"root": false
-	},
-	"fgt99i48d1jahkiw": {
-		"definition": "使役獣耐性+10%",
-		"x": 160,
-		"y": 160,
-		"root": false
-	},
-	"i4h2rvpf68a817io": {
-		"definition": "使役獣耐性+10%",
-		"x": 288,
-		"y": 192,
-		"root": false
-	},
-	"1nj88takuyjm48rt": {
-		"definition": "使役獣耐性+10%",
-		"x": 192,
-		"y": 288,
-		"root": false
-	},
-	"6867vm8npcckhk2u": {
-		"definition": "使役獣耐性+10%",
-		"x": 320,
-		"y": 256,
-		"root": false
-	},
-	"1b9fukkljfoyupb5": {
-		"definition": "使役獣耐性+10%",
-		"x": 256,
-		"y": 320,
-		"root": false
-	},
-	"zbpfmzz435850ccg": {
-		"definition": "落下軽減+1.0",
-		"x": -96,
-		"y": 128,
-		"root": false
-	},
-	"jo6rchth92al43o0": {
-		"definition": "落下軽減+1.0",
-		"x": -128,
-		"y": 96,
-		"root": false
-	},
-	"buimfwb3mvg80lt5": {
-		"definition": "落下軽減+1.0",
-		"x": -224,
-		"y": 128,
-		"root": false
-	},
-	"hokc6fzpxs4n1b5r": {
-		"definition": "落下軽減+1.0",
-		"x": -128,
-		"y": 224,
-		"root": false
-	},
-	"y99n8fr1tyozhw8s": {
-		"definition": "斧術熟練+10%",
-		"x": -160,
-		"y": 160,
-		"root": false
-	},
-	"ii6w5349tc8hfd2d": {
-		"definition": "斧術熟練+10%",
-		"x": -192,
-		"y": 288,
-		"root": false
-	},
-	"5zpf1huhouse6i70": {
-		"definition": "斧術熟練+10%",
-		"x": -288,
-		"y": 192,
-		"root": false
-	},
-	"h384f94c1jthha9d": {
-		"definition": "斧術熟練+10%",
-		"x": -320,
-		"y": 256,
-		"root": false
-	},
-	"lzlmzduv1e70v07z": {
-		"definition": "斧術熟練+10%",
-		"x": -256,
-		"y": 320,
-		"root": false
-	},
-	"afkt7b777ytl1x9n": {
-		"definition": "使役獣攻撃力+10%",
-		"x": 320,
-		"y": -416,
-		"root": false
-	},
-	"pj0aze05d068i2b4": {
-		"definition": "使役獣攻撃力+10%",
-		"x": 288,
-		"y": -352,
-		"root": false
-	},
-	"da1ihkccaespenb9": {
-		"definition": "使役獣攻撃力+10%",
-		"x": 416,
-		"y": -416,
-		"root": false
-	},
-	"v94jd4xv7v1f40br": {
-		"definition": "使役獣攻撃力+10%",
-		"x": 352,
-		"y": -288,
-		"root": false
-	},
-	"3485rhhpymjnsnxp": {
-		"definition": "使役獣攻撃力+10%",
-		"x": 416,
-		"y": -320,
-		"root": false
-	},
-	"t6x2hfs5pzcofoqn": {
-		"definition": "三叉槍熟練+10%",
-		"x": -352,
-		"y": 288,
-		"root": false
-	},
-	"9b7l0t9d6x75zfkl": {
-		"definition": "三叉槍熟練+10%",
-		"x": -288,
-		"y": 352,
-		"root": false
-	},
-	"i6fomvikin0ayrli": {
-		"definition": "三叉槍熟練+10%",
-		"x": -320,
-		"y": 416,
-		"root": false
-	},
-	"u5o0cu0l1ueiduvn": {
-		"definition": "三叉槍熟練+10%",
-		"x": -416,
-		"y": 320,
-		"root": false
-	},
-	"0s9binthy56se25v": {
-		"definition": "三叉槍熟練+10%",
-		"x": -416,
-		"y": 416,
-		"root": false
-	},
-	"of36m8daepbrrl22": {
-		"definition": "メイス熟練+10%",
-		"x": -384,
-		"y": 352,
-		"root": false
-	},
-	"u0cwadj5s4zwg38s": {
-		"definition": "メイス熟練+10%",
-		"x": -352,
-		"y": 384,
-		"root": false
-	},
-	"vzvixrhetdpnntk0": {
-		"definition": "メイス熟練+10%",
-		"x": -320,
-		"y": 320,
-		"root": false
-	},
-	"e150wrksuhr3lnfj": {
-		"definition": "メイス熟練+10%",
-		"x": -256,
-		"y": 256,
-		"root": false
-	},
-	"2tddw634kpj6bink": {
-		"definition": "メイス熟練+10%",
-		"x": -224,
-		"y": 224,
-		"root": false
-	},
-	"jo0wglz2aga4m6hz": {
-		"definition": "炎上時間-0.1",
-		"x": 36.95041722813605,
-		"y": 128,
-		"root": false
-	},
-	"pxxvxttslyh3rfst": {
-		"definition": "炎上時間-0.1",
+	"jdo7hp28f7ri54mv": {
+		"definition": "全耐性無視+1.0",
 		"x": 73.9008344562721,
-		"y": 192,
+		"y": 768,
 		"root": false
 	},
-	"2k734pwezdon8sh4": {
-		"definition": "炎上時間-0.1",
-		"x": 73.9008344562721,
-		"y": 256,
+	"lvs9tyiczcmkpwvo": {
+		"definition": "全耐性無視+1.0",
+		"x": 18.475208614068038,
+		"y": 800,
 		"root": false
 	},
-	"t3n8uztymqyvrtos": {
-		"definition": "炎上時間-0.1",
-		"x": 129.32646029847618,
-		"y": 288,
-		"root": false
-	},
-	"srt6bziap33bdfq7": {
-		"definition": "炎上時間-0.1",
-		"x": 129.32646029847615,
-		"y": 352,
-		"root": false
-	},
-	"fmkx41x1ov532lcf": {
-		"definition": "炎上時間-0.1",
-		"x": 92.3760430703401,
-		"y": 352,
-		"root": false
-	},
-	"7xj6cto7a22ox5mn": {
-		"definition": "炎上時間-0.1",
-		"x": 166.2768775266122,
-		"y": 352,
-		"root": false
-	},
-	"vz26lvtf1168fz3u": {
-		"definition": "炎上時間-0.1",
-		"x": 129.32646029847618,
-		"y": 416,
-		"root": false
-	},
-	"agen9dceas6u6ve5": {
-		"definition": "炎上時間-0.1",
-		"x": 166.27687752661222,
-		"y": 416,
-		"root": false
-	},
-	"45c9xnvstbx6ueyy": {
-		"definition": "炎上時間-0.1",
-		"x": 203.22729475474824,
-		"y": 480,
+	"r9zr2ihzr2fe421g": {
+		"definition": "全耐性無視+1.0",
+		"x": -18.475208614068038,
+		"y": 800,
 		"root": false
 	}
 }

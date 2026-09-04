@@ -4,7 +4,35 @@ license="MIT"
 
 [[mods]]
 modId="survival_instinct_skills"
-version="1.1.0"
-displayName="survival_instinct_skills"
-description="新たに発見したスキルを追加しました"
+version="1.1.1"
+displayName="Survival Instinct Tree[Normal]"
+description="Pufferfish's Template Generatorを用い作成したものを加筆し、日本語化しました。高難易度化及び上限の上昇を行いました。"
 authors="コードと名前Gemini,調整オムライス"
+
+[[dependencies.survival_instinct_skills]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1, 1.21.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.survival_instinct_skills]]
+    modId="puffish_attributes"
+    mandatory=true
+    versionRange="[0.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.survival_instinct_skills]]
+    modId="puffish_skills"
+    mandatory=true
+    versionRange="[0.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.survival_instinct_skills]]
+    modId="puffishsstatushud"
+    mandatory=false
+    versionRange="[0.0.0,)"
+    ordering="AFTER"
+    side="BOTH"

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#c:ores/gold", "required": false },
+    { "id": "#forge:ores/gold", "required": false },
+    { "id": "#c:ores/redstone", "required": false },
+    { "id": "#forge:ores/redstone", "required": false },
+    { "id": "#c:ores/lapis", "required": false },
+    { "id": "#forge:ores/lapis", "required": false },
+    { "id": "minecraft:gold_ore", "required": false },
+    { "id": "minecraft:deepslate_gold_ore", "required": false },
+    { "id": "minecraft:redstone_ore", "required": false },
+    { "id": "minecraft:deepslate_redstone_ore", "required": false },
+    { "id": "minecraft:lapis_ore", "required": false },
+    { "id": "minecraft:deepslate_lapis_ore", "required": false }
+  ]
+}

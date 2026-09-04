@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#c:ores/coal", "required": false },
+    { "id": "#forge:ores/coal", "required": false },
+    { "id": "#c:ores/copper", "required": false },
+    { "id": "#forge:ores/copper", "required": false },
+    { "id": "#c:ores/iron", "required": false },
+    { "id": "#forge:ores/iron", "required": false },
+    { "id": "minecraft:coal_ore", "required": false },
+    { "id": "minecraft:deepslate_coal_ore", "required": false },
+    { "id": "minecraft:copper_ore", "required": false },
+    { "id": "minecraft:deepslate_copper_ore", "required": false },
+    { "id": "minecraft:iron_ore", "required": false },
+    { "id": "minecraft:deepslate_iron_ore", "required": false }
+  ]
+}

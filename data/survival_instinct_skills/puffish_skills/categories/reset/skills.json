@@ -11,34 +11,22 @@
 		"y": 0,
 		"root": true
 	},
-	"248uh2xu0pktwjgx": {
+	"apxo6v9wnxr0ce2m": {
 		"definition": "new_point_log_true",
 		"x": 0,
 		"y": -96,
 		"root": true
 	},
-	"uom2hk8q3yhm17he": {
+	"pj3nxk6tpuia0nyk": {
 		"definition": "new_point_log_false",
 		"x": 0,
 		"y": 96,
 		"root": true
 	},
-	"22oru7w32w7nh1lk": {
+	"1u9mpll7kau7c5kj": {
 		"definition": "life_skill_reset",
 		"x": 0,
 		"y": 0,
-		"root": true
-	},
-	"pmn4i9dempjlyh2y": {
-		"definition": "scale_skilltree_open",
-		"x": -64,
-		"y": 64,
-		"root": true
-	},
-	"665kzjwa13d27bi7": {
-		"definition": "scale_skilltree_close",
-		"x": 64,
-		"y": -64,
 		"root": true
 	}
 }

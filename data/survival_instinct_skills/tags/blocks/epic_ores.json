@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#c:ores/diamond", "required": false },
+    { "id": "#forge:ores/diamond", "required": false },
+    { "id": "#c:ores/emerald", "required": false },
+    { "id": "#forge:ores/emerald", "required": false },
+    { "id": "minecraft:diamond_ore", "required": false },
+    { "id": "minecraft:deepslate_diamond_ore", "required": false },
+    { "id": "minecraft:emerald_ore", "required": false },
+    { "id": "minecraft:deepslate_emerald_ore", "required": false },
+    { "id": "minecraft:ancient_debris", "required": false }
+  ]
+}
